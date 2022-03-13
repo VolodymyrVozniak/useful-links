@@ -172,7 +172,7 @@
 
 ## Deep Learning
 * [Convolutional Neural Networks for Visual Recognition (Spring 2017). Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-* [Natural Language Processing](https://www.youtube.com/playlist?list=PLHvlTBWld13NDsJpNQU095K81vw5bH7X3)
+* [Natural Language Processing. Huawei Russia](https://www.youtube.com/playlist?list=PLHvlTBWld13NDsJpNQU095K81vw5bH7X3)
 * [PyTorch - Python Deep Learning Neural Network API](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
 
 ## Other Playlists
