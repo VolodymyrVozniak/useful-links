@@ -167,7 +167,7 @@
 
 * [Машинное обучение 2019. Yandex](https://www.youtube.com/playlist?list=PLJOzdkh8T5krxc4HsHbB8g8f0hu7973fK)
 * [Математические основы машинного обучения 2020-2021. МФТИ](https://www.youtube.com/playlist?list=PLk4h7dmY2eYHHTyfLyrl7HmP-H3mMAW08)
-* [Математические основы машинного обучения 2021-2022ю МФТИ](https://www.youtube.com/playlist?list=PLk4h7dmY2eYFmowaPqjFDzSokiiLq5TkT)
+* [Математические основы машинного обучения 2021-2022. МФТИ](https://www.youtube.com/playlist?list=PLk4h7dmY2eYFmowaPqjFDzSokiiLq5TkT)
 * [Machine Learning with Python. sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 
 ## Deep Learning
