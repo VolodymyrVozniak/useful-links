@@ -234,6 +234,8 @@
 * [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 * [GNNs Recipe](https://github.com/dair-ai/GNNs-Recipe)
 * [Transformer Recipe](https://github.com/dair-ai/Transformers-Reci)
+* [Extra materials for ml-mipt course](https://github.com/girafe-ai/ml-mipt/blob/master/extra_materials.md)
+* [Advance ML/DL University Lectures](https://docs.google.com/spreadsheets/u/0/d/1KYJ9Z8f76WZGYpT2E5sjr5gL-O35Lpjm-SMmU00fplk/htmlview)
 
 ## Useful Python Libs
 
