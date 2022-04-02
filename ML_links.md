@@ -1,4 +1,4 @@
-<h3 align="center">Useful Links</h3>
+<h1 align="center">Useful ML Links</h1>
   <p align="center">
     List of useful links connected with Python, ML, DS, DL and others
   </p>
@@ -36,6 +36,7 @@
   </ol>
 </details>
 
+<br />
 
 <!-- COURSES -->
 # Courses
