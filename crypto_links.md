@@ -80,7 +80,7 @@
 * [Що потрібно знати про EIP-1559](https://incrypted.com/what-is-eip-1559/)
 * [Як оцінювати проєкти?](https://incrypted.com/how-to-evaluate-projects/)
 * [Токеноміка та Теорія ігор](https://teletype.in/@good_mood/tokenomika)
-* [Найкращі аналітичні інстументи](https://teletype.in/@markusrichardofficial/analyticaltools)
+* [Найкращі аналітичні інструменти](https://teletype.in/@markusrichardofficial/analyticaltools)
 
 </br>
 
