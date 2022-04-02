@@ -78,7 +78,7 @@
 * [Що таке інфляція?](https://incrypted.com/inflation-explained/)
 * [Звідки ікси після Public Sale і як працює ліквідність?](https://incrypted.com/how-liquidity-works/)
 * [Що потрібно знати про EIP-1559](https://incrypted.com/what-is-eip-1559/)
-* [Як оцінбвати проєкти?](https://incrypted.com/how-to-evaluate-projects/)
+* [Як оцінювати проєкти?](https://incrypted.com/how-to-evaluate-projects/)
 * [Токеноміка та Теорія ігор](https://teletype.in/@good_mood/tokenomika)
 * [Найкращі аналітичні інстументи](https://teletype.in/@markusrichardofficial/analyticaltools)
 
