@@ -1,2 +1,2 @@
-# useful-links
-A lot of useful links connected with Crypto and ML
+## [Useful ML Links](https://github.com/VolodymyrVozniak/useful-links/blob/main/ML_links.md)
+## [Useful Crypto Links](https://github.com/VolodymyrVozniak/useful-links/blob/main/crypto_links.md)
