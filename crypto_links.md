@@ -80,6 +80,7 @@
 * [Що потрібно знати про EIP-1559](https://incrypted.com/what-is-eip-1559/)
 * [Як оцінювати проєкти?](https://incrypted.com/how-to-evaluate-projects/)
 * [Амбасадор програми](https://incrypted.com/crypto-ambassador-programs/)
+* [Що таке біржа?](https://incrypted.com/what-is-an-exchange/)
 * [Токеноміка та Теорія ігор](https://teletype.in/@good_mood/tokenomika)
 * [Найкращі аналітичні інструменти](https://teletype.in/@markusrichardofficial/analyticaltools)
 
