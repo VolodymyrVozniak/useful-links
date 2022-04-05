@@ -81,6 +81,7 @@
 * [Як оцінювати проєкти?](https://incrypted.com/how-to-evaluate-projects/)
 * [Амбасадор програми](https://incrypted.com/crypto-ambassador-programs/)
 * [Що таке біржа?](https://incrypted.com/what-is-an-exchange/)
+* [Блокчейн-мережі](https://incrypted.com/blockchain-networks/)
 * [Токеноміка та Теорія ігор](https://teletype.in/@good_mood/tokenomika)
 * [Найкращі аналітичні інструменти](https://teletype.in/@markusrichardofficial/analyticaltools)
 
