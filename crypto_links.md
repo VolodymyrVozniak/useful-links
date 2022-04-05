@@ -82,6 +82,7 @@
 * [Амбасадор програми](https://incrypted.com/crypto-ambassador-programs/)
 * [Що таке біржа?](https://incrypted.com/what-is-an-exchange/)
 * [Блокчейн-мережі](https://incrypted.com/blockchain-networks/)
+* [«Пятизначный ценник за ETH» — новое эссе Артура Хейса](https://incrypted.com/five-ducking-digits-arthur-hayes/)
 * [Токеноміка та Теорія ігор](https://teletype.in/@good_mood/tokenomika)
 * [Найкращі аналітичні інструменти](https://teletype.in/@markusrichardofficial/analyticaltools)
 
@@ -110,6 +111,7 @@
 * [Історія взломів](https://rekt.news/ru/)
 * [Крипто органайзер Zerion](https://zerion.io/)
 * [Адрес у різних мережах](https://blockscan.com/)
+* [Blockchains comparison](https://blockchain-comparison.com/)
 
 </br>
 
