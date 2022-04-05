@@ -211,6 +211,7 @@
 * [Understanding the Disharmony between Dropout and Batch Normalization by Variance Shift](https://arxiv.org/pdf/1801.05134.pdf)
 * [An overview of gradient descent optimization algorithms](https://arxiv.org/pdf/1609.04747.pdf)
 * [Univariate Distribution Relationships](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)
+* [Why Do I Get Different Results Each Time in Machine Learning?](https://machinelearningmastery.com/different-results-each-time-in-machine-learning/)
 
 <br />
 
