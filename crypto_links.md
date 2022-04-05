@@ -60,7 +60,7 @@
 
 ## Articles
 
-### Wolf of Your Street
+### The Wolf of Your Street
 * [10 кроків успішного трейдера](https://incrypted.com/10-steps-of-successful-crypto-trader/)
 * [Як ровзодять скамери](https://incrypted.com/how-they-steal-your-funds/)
 * [Як проводити DYOR](https://incrypted.com/do-your-own-research/)
