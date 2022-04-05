@@ -59,18 +59,32 @@
 </br>
 
 ## Articles
+
+### Wolf of Your Street
+* [10 кроків успішного трейдера](https://incrypted.com/10-steps-of-successful-crypto-trader/)
+* [Як ровзодять скамери](https://incrypted.com/how-they-steal-your-funds/)
+* [Як проводити DYOR](https://incrypted.com/do-your-own-research/)
+* [Смарт-контракти](https://incrypted.com/smart-contracts-what-is-it/)
+* [Як запушити й відмінити транзакцію](https://incrypted.com/how-to-push-or-cancel-transaction/)
+* [Психологія](https://incrypted.com/psychology-market-and-investors/)
+* [Інструменти криптана](https://incrypted.com/useful-crypto-tools/)
+* [Про трейдинг](https://incrypted.com/what-about-trading/)
+* [Апаратні криптогаманці](https://incrypted.com/hardware-cryptocurrency-wallets/)
+* [Мобільні криптогаманці](https://incrypted.com/mobile-cryptocurrency-wallets/)
+* [Що потрібно для KYC?](https://incrypted.com/know-your-customer-how-to/)
+* [Амбасадор програми](https://incrypted.com/crypto-ambassador-programs/)
+* [Блокчейн рісьорчери](https://incrypted.com/blockchain-explorers-how-to-use/)
+* [Що таке біржа?](https://incrypted.com/what-is-an-exchange/)
+* [Блокчейн-мережі](https://incrypted.com/blockchain-networks/) ✅
+
+### Incrypted
 * [Про використання шардінгу](https://incrypted.com/sharding/)
 * [Історія розвитку деривативів](https://incrypted.com/history-bitcoin-derivative/)
 * [Гайд по заповненню WhiteList](https://incrypted.com/whitelist-instruction/)
 * [Еволюція моделей розприділення токенів](https://incrypted.com/the-evolution-of-token-distribution-models/)
 * [Про Lightning Network](https://incrypted.com/lightning-network-how-it-works/)
 * [Про DAO](https://incrypted.com/what-should-know-about-dao/)
-* [Як проводити DYOR](https://incrypted.com/do-your-own-research/)
-* [Як ровзодять скамери](https://incrypted.com/how-they-steal-your-funds/)
 * [DeFi: типи, плюси, мінуси](https://incrypted.com/types-of-defi-their-pros-and-cons-1inch/)
-* [Про трейдинг](https://incrypted.com/what-about-trading/)
-* [10 кроків успішного трейдера](https://incrypted.com/10-steps-of-successful-crypto-trader/)
-* [Інструменти криптана](https://incrypted.com/useful-crypto-tools/)
 * [Рух ціни токена. Причини пампів/дампів](https://incrypted.com/token-price-movement/)
 * [Під час роботи над біткоїном Сатоші Накамото жив у Лондоні?](https://incrypted.com/satoshi-nakamoto-lived-in-london-while-working-on-bitcoin/)
 * [Про мультиакаунти](https://incrypted.com/multi-accounts-how-to-create-and-use/)
@@ -79,10 +93,9 @@
 * [Звідки ікси після Public Sale і як працює ліквідність?](https://incrypted.com/how-liquidity-works/)
 * [Що потрібно знати про EIP-1559](https://incrypted.com/what-is-eip-1559/)
 * [Як оцінювати проєкти?](https://incrypted.com/how-to-evaluate-projects/)
-* [Амбасадор програми](https://incrypted.com/crypto-ambassador-programs/)
-* [Що таке біржа?](https://incrypted.com/what-is-an-exchange/)
-* [Блокчейн-мережі](https://incrypted.com/blockchain-networks/)
-* [«Пятизначный ценник за ETH» — новое эссе Артура Хейса](https://incrypted.com/five-ducking-digits-arthur-hayes/)
+* [«Пятизначный ценник за ETH» — новое эссе Артура Хейса](https://incrypted.com/five-ducking-digits-arthur-hayes/) ✅
+
+### Double Top
 * [Токеноміка та Теорія ігор](https://teletype.in/@good_mood/tokenomika)
 * [Найкращі аналітичні інструменти](https://teletype.in/@markusrichardofficial/analyticaltools)
 
