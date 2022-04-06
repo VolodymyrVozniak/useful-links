@@ -76,6 +76,7 @@
 * [Блокчейн рісьорчери](https://incrypted.com/blockchain-explorers-how-to-use/)
 * [Що таке біржа?](https://incrypted.com/what-is-an-exchange/)
 * [Блокчейн-мережі](https://incrypted.com/blockchain-networks/) ✅
+* [Венчурні інвестиції](https://incrypted.com/venture-investments/)
 
 ### Incrypted
 * [Про використання шардінгу](https://incrypted.com/sharding/)
