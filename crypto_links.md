@@ -76,7 +76,8 @@
 * [Блокчейн рісьорчери](https://incrypted.com/blockchain-explorers-how-to-use/)
 * [Що таке біржа?](https://incrypted.com/what-is-an-exchange/)
 * [Блокчейн-мережі](https://incrypted.com/blockchain-networks/) ✅
-* [Венчурні інвестиції](https://incrypted.com/venture-investments/)
+* [Венчурні інвестиції](https://incrypted.com/venture-investments/) ✅
+* [Про DCA](https://incrypted.com/dollar-cost-averaging/)
 
 ### Incrypted
 * [Про використання шардінгу](https://incrypted.com/sharding/)
@@ -136,3 +137,4 @@
 * [Кріптани](https://t.me/incrypted/12076)
 * [Мысли Вслух](https://t.me/incrypted/12069)
 * [Інтерв'ю](https://t.me/incrypted/12047)
+* [Психологія](https://t.me/incrypted/12927)
