@@ -83,6 +83,8 @@
 * [Блокчейн-мережі](https://incrypted.com/blockchain-networks/) ✅
 * [Венчурні інвестиції](https://incrypted.com/venture-investments/) ✅
 * [Про DCA](https://incrypted.com/dollar-cost-averaging/)
+* [Покупка крипти картою](https://incrypted.com/pay-by-card/)
+* [Апрув токена через контракт](https://incrypted.com/fast-approve/)
 
 ### Incrypted
 * [Про використання шардінгу](https://incrypted.com/sharding/)
