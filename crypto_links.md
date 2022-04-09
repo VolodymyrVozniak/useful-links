@@ -105,6 +105,10 @@
 ### Double Top
 * [Токеноміка та Теорія ігор](https://teletype.in/@good_mood/tokenomika)
 * [Найкращі аналітичні інструменти](https://teletype.in/@markusrichardofficial/analyticaltools)
+* [Вультификация DeFi: Криптографические структурированные продукты и их будущее](https://teletype.in/@markusrichardofficial/structuredproducts)
+
+### Other
+* [In Defense of Bitcoin Maximalism](https://vitalik.ca/general/2022/04/01/maximalist.html)
 
 </br>
 
@@ -112,6 +116,12 @@
 * [Как это DeFi (1-ое издание)](https://assets.coingecko.com/books/how-to-defi/How_to_DeFi_Russian.pdf)
 * [Как это DeFi (2-ое издание)](https://drive.google.com/file/d/1xx3obCxxE93CPI0jBBETrxYdi_KNsBvQ/view?usp=sharing)
 * [Как это NFT](https://drive.google.com/file/d/1RsI0lxzpRVaGYDZBmVxYYGgZRl45IWV9/view?usp=sharing)
+* [Чорний Лебідь](https://drive.google.com/file/d/1tjPtN1ZMeeSqkXwTKbtxnHW8y6g_6OSY/view)
+* [Одурачанные Случайностью](https://drive.google.com/file/d/1aOx3NG02lfJEL2HyqCMs3t25jvgN5MqP/view)
+* [Один Хороший Трейд](https://drive.google.com/file/d/1_XeDvULDMgYEyJfZcXPaMycb_lTdrhrr/view)
+* [Цифровое Золото](https://drive.google.com/file/d/1R9V-0-MibVe76WQEwLY0fmgDyxG0voMh/view)
+* [Как Играть и Выигрывать на Бирже](https://drive.google.com/file/d/1yZiDMtGTuq7z8USEt4GYgTjri9sMKH5P/view)
+* [Рыночные Циклы](https://drive.google.com/file/d/1TZTqprNdRPJzU-RUkD9SR0z-N1N_RuSs/view)
 
 </br>
 
