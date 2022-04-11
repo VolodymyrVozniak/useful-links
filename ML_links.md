@@ -212,6 +212,7 @@
 * [An overview of gradient descent optimization algorithms](https://arxiv.org/pdf/1609.04747.pdf)
 * [Univariate Distribution Relationships](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)
 * [Why Do I Get Different Results Each Time in Machine Learning?](https://machinelearningmastery.com/different-results-each-time-in-machine-learning/)
+* [BCE loss vs CrossEntopy loss](https://medium.com/dejunhuang/learning-day-57-practical-5-loss-function-crossentropyloss-vs-bceloss-in-pytorch-softmax-vs-bd866c8a0d23)
 * [PyTorch Loss Functions: The Ultimate Guide](https://neptune.ai/blog/pytorch-loss-functions)
 
 <br />
