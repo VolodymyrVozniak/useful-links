@@ -85,6 +85,7 @@
 * [Про DCA](https://incrypted.com/dollar-cost-averaging/)
 * [Покупка крипти картою](https://incrypted.com/pay-by-card/)
 * [Апрув токена через контракт](https://incrypted.com/fast-approve/)
+* [OTC-трейдинг](https://incrypted.com/otc-trading/)
 
 ### Incrypted
 * [Про використання шардінгу](https://incrypted.com/sharding/)
@@ -110,7 +111,8 @@
 * [Вультификация DeFi: Криптографические структурированные продукты и их будущее](https://teletype.in/@markusrichardofficial/structuredproducts)
 
 ### Other
-* [In Defense of Bitcoin Maximalism](https://vitalik.ca/general/2022/04/01/maximalist.html)
+* [In Defense of Bitcoin Maximalism. Buterin](https://vitalik.ca/general/2022/04/01/maximalist.html)
+* [The Q-Trap. Hayes](https://cryptohayes.medium.com/the-q-trap-f1a38312f00f)
 
 </br>
 
@@ -144,6 +146,7 @@
 * [Крипто органайзер Zerion](https://zerion.io/)
 * [Адрес у різних мережах](https://blockscan.com/)
 * [Blockchains comparison](https://blockchain-comparison.com/)
+* [Переклади статтей](https://blog.bitmex.com/?lang=ru_ru)
 
 </br>
 
