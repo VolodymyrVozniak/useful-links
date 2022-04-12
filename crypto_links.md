@@ -86,6 +86,7 @@
 * [Покупка крипти картою](https://incrypted.com/pay-by-card/)
 * [Апрув токена через контракт](https://incrypted.com/fast-approve/)
 * [OTC-трейдинг](https://incrypted.com/otc-trading/)
+* [Social Media](https://incrypted.com/social-media/)
 
 ### Incrypted
 * [Про використання шардінгу](https://incrypted.com/sharding/)
