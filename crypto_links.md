@@ -87,6 +87,7 @@
 * [Апрув токена через контракт](https://incrypted.com/fast-approve/)
 * [OTC-трейдинг](https://incrypted.com/otc-trading/)
 * [Social Media](https://incrypted.com/social-media/)
+* [Мости](https://incrypted.com/bridges/)
 
 ### Incrypted
 * [Про використання шардінгу](https://incrypted.com/sharding/)
