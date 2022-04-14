@@ -15,6 +15,7 @@
     <li><a href="#books">Books</a></li>
     <li><a href="#services">Services</a></li>
     <li><a href="#sets-from-incrypted">Sets From Incrypted</a></li>
+    <li><a href="#nodes">Nodes</a></li>
   </ol>
 </details>
 
@@ -161,3 +162,8 @@
 * [Мысли Вслух](https://t.me/incrypted/12069)
 * [Інтерв'ю](https://t.me/incrypted/12047)
 * [Психологія](https://t.me/incrypted/12927)
+
+## Nodes
+* [Nodes Guru](https://nodes.guru/)
+* [Teletype with guides](https://teletype.in/@cyberomanov)
+* [DropsEarn](https://dropsearn.com/)
