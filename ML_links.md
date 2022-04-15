@@ -208,13 +208,23 @@
 
 # Articles
 
+## General
 * [Probabilities and Statistics refresher](https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistics)
 * [Understanding the Disharmony between Dropout and Batch Normalization by Variance Shift](https://arxiv.org/pdf/1801.05134.pdf)
 * [An overview of gradient descent optimization algorithms](https://arxiv.org/pdf/1609.04747.pdf)
 * [Univariate Distribution Relationships](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)
 * [Why Do I Get Different Results Each Time in Machine Learning?](https://machinelearningmastery.com/different-results-each-time-in-machine-learning/)
+
+## Loss Functions
 * [BCE Loss vs CrossEntopy Loss](https://medium.com/dejunhuang/learning-day-57-practical-5-loss-function-crossentropyloss-vs-bceloss-in-pytorch-softmax-vs-bd866c8a0d23)
 * [PyTorch Loss Functions: The Ultimate Guide](https://neptune.ai/blog/pytorch-loss-functions)
+
+## GNNs
+* [An introduction to Graph Neural Networks](https://towardsdatascience.com/an-introduction-to-graph-neural-networks-e23dc7bdfba5)
+* [Graph Convolutional Networks (GCN) & Pooling](https://jonathan-hui.medium.com/graph-convolutional-networks-gcn-pooling-839184205692)
+* [Neural Pooling for Graph Neural Networks](https://openreview.net/forum?id=UEtNMTl6yN)
+* [Understanding Polling in Graph Neural Networks](https://arxiv.org/abs/2110.05292)
+* [Rethinking pooling in graph neural networks](https://proceedings.neurips.cc/paper/2020/file/1764183ef03fc7324eb58c3842bd9a57-Paper.pdf)
 
 <br />
 
