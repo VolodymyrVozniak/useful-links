@@ -227,6 +227,7 @@
 
 ## GNNs
 * [An introduction to Graph Neural Networks](https://towardsdatascience.com/an-introduction-to-graph-neural-networks-e23dc7bdfba5)
+* [GNN in Python](https://towardsdatascience.com/graph-neural-networks-in-python-c310c7c18c83)
 * [Graph Convolutional Networks (GCN) & Pooling](https://jonathan-hui.medium.com/graph-convolutional-networks-gcn-pooling-839184205692)
 * [Neural Pooling for Graph Neural Networks](https://openreview.net/forum?id=UEtNMTl6yN)
 * [Understanding Polling in Graph Neural Networks](https://arxiv.org/abs/2110.05292)
