@@ -22,7 +22,13 @@
     <li><a href="#youtube-playlists">YouTube Playlists</a></li>
     <li><a href="#youtube-channels">YouTube Channels</a></li>
     <li><a href="#books">Books</a></li>
-    <li><a href="#articles">Articles</a></li>
+    <li><a href="#articles">Articles</a>
+      <ul>
+        <li><a href="#general">General</a></li>
+        <li><a href="#loss-functions">Loss Functions</a></li>
+        <li><a href="#gnns">GNNs</a></li>
+      </ul>
+    </li>
     <li><a href="#cheat-sheets">Cheat Sheets</a></li>
     <li>
       <a href="#other-links">Other Links</a>
