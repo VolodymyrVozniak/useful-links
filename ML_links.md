@@ -29,6 +29,7 @@
         <li><a href="#gnns">GNNs</a></li>
       </ul>
     </li>
+    <li><a href="#lib-tutorials">Lib Tutorials</a></li>
     <li><a href="#cheat-sheets">Cheat Sheets</a></li>
     <li>
       <a href="#other-links">Other Links</a>
@@ -236,6 +237,9 @@
 * [Rethinking pooling in graph neural networks](https://arxiv.org/abs/2010.11418)
 
 <br />
+
+# Lib Tutorials
+* [PyTorch Geometrics](https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html)
 
 # Cheat Sheets
 
