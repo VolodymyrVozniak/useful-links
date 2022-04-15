@@ -230,7 +230,7 @@
 * [Graph Convolutional Networks (GCN) & Pooling](https://jonathan-hui.medium.com/graph-convolutional-networks-gcn-pooling-839184205692)
 * [Neural Pooling for Graph Neural Networks](https://openreview.net/forum?id=UEtNMTl6yN)
 * [Understanding Polling in Graph Neural Networks](https://arxiv.org/abs/2110.05292)
-* [Rethinking pooling in graph neural networks](https://proceedings.neurips.cc/paper/2020/file/1764183ef03fc7324eb58c3842bd9a57-Paper.pdf)
+* [Rethinking pooling in graph neural networks](https://arxiv.org/abs/2010.11418)
 
 <br />
 
