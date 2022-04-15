@@ -113,6 +113,7 @@
 * [Токеноміка та Теорія ігор](https://teletype.in/@good_mood/tokenomika)
 * [Найкращі аналітичні інструменти](https://teletype.in/@markusrichardofficial/analyticaltools)
 * [Вультификация DeFi: Криптографические структурированные продукты и их будущее](https://teletype.in/@markusrichardofficial/structuredproducts)
+* [SHRAPNEL](https://teletype.in/@pashtzt/shrapnel)
 
 ### Other
 * [In Defense of Bitcoin Maximalism. Buterin](https://vitalik.ca/general/2022/04/01/maximalist.html)
