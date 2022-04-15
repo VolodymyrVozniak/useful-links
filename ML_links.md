@@ -238,11 +238,6 @@
 
 <br />
 
-# Lib Tutorials
-* [PyTorch Geometrics](https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html)
-
-<br />
-
 # Cheat Sheets
 
 * [Stanford Cheatsheets](https://stanford.edu/~shervine/)
@@ -260,7 +255,6 @@
 # Other Links
 
 ## Links for other links
-
 * [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 * [GNNs Recipe](https://github.com/dair-ai/GNNs-Recipe)
 * [Transformer Recipe](https://github.com/dair-ai/Transformers-Reci)
@@ -269,19 +263,19 @@
 * [Advance ML/DL University Lectures](https://docs.google.com/spreadsheets/u/0/d/1KYJ9Z8f76WZGYpT2E5sjr5gL-O35Lpjm-SMmU00fplk/htmlview)
 
 ## Useful Python Libs
-
 * [Albumentations](https://albumentations.ai/docs/)
 * [Vowpal Wabbit](https://vowpalwabbit.org/)
 * [DevReminder](https://pypi.org/project/devreminder/)
 
 ## Useful Colab Notebooks
-
 * [Colab with bash commands](https://colab.research.google.com/drive/1P0RE43Ih9J9TmXkrpgfNwjFgsRIF3BPe?usp=sharing#scrollTo=V6hGvh7O-ZTv)
 * [Basic tools](https://colab.research.google.com/drive/1pCekGYOaVoM0bxkGjeH5IdEK0FBpuy7c)
 * [Python basics](https://colab.research.google.com/drive/1WQCnvpmsn6dm2rnA_8vUtS0RfYRX4du3#scrollTo=Rq1vFhrLGw5O)
 * [GNN Tutorial](https://colab.research.google.com/github/deepmind/educational/blob/master/colabs/summer_schools/intro_to_graph_nets_tutorial_with_jraph.ipynb)
 
-## Other
+## Lib Tutorials
+* [PyTorch Geometrics](https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html)
 
+## Other
 * [Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 
