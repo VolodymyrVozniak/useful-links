@@ -29,7 +29,6 @@
         <li><a href="#gnns">GNNs</a></li>
       </ul>
     </li>
-    <li><a href="#lib-tutorials">Lib Tutorials</a></li>
     <li><a href="#cheat-sheets">Cheat Sheets</a></li>
     <li>
       <a href="#other-links">Other Links</a>
@@ -37,6 +36,7 @@
         <li><a href="#links-for-other-links">Links for other links</a></li>
         <li><a href="#useful-python-libs">Useful Python Libs</a></li>
         <li><a href="#useful-colab-notebooks">Useful Colab Notebooks</a></li>
+        <li><a href="#lib-tutorials">Lib Tutorials</a></li>
         <li><a href="#other">Other</a></li>
       </ul>
     </li>
