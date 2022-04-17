@@ -163,6 +163,7 @@
 * [Мысли Вслух](https://t.me/incrypted/12069)
 * [Інтерв'ю](https://t.me/incrypted/12047)
 * [Психологія](https://t.me/incrypted/12927)
+* [Вайкофф](https://t.me/TheWolfOfYourStreet/795)
 
 </br>
 
