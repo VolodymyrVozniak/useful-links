@@ -202,6 +202,7 @@
 * [Data School](https://www.youtube.com/c/dataschool/videos)
 * [Traversy Media](https://www.youtube.com/c/TraversyMedia/videos)
 * [Deep Learning School](https://www.youtube.com/c/DeepLearningSchool/videos)
+* [Transformer](https://www.youtube.com/c/Transformer_community/videos)
 
 <br />
 
@@ -223,6 +224,7 @@
 * [An overview of gradient descent optimization algorithms](https://arxiv.org/pdf/1609.04747.pdf)
 * [Univariate Distribution Relationships](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)
 * [Why Do I Get Different Results Each Time in Machine Learning?](https://machinelearningmastery.com/different-results-each-time-in-machine-learning/)
+* [Zero-Shot Learning](https://www.kdnuggets.com/2021/04/zero-shot-learning.html)
 
 ## Loss Functions
 * [BCE Loss vs CrossEntopy Loss](https://medium.com/dejunhuang/learning-day-57-practical-5-loss-function-crossentropyloss-vs-bceloss-in-pytorch-softmax-vs-bd866c8a0d23)
