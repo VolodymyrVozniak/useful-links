@@ -89,6 +89,7 @@
 * [OTC-трейдинг](https://incrypted.com/otc-trading/)
 * [Social Media](https://incrypted.com/social-media/)
 * [Мости](https://incrypted.com/bridges/)
+* [Вайкофф](https://telegra.ph/Vajkoff-06-23)
 
 ### Incrypted
 * [Про використання шардінгу](https://incrypted.com/sharding/)
