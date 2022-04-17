@@ -160,6 +160,7 @@
 * [Для Новачків](https://t.me/incrypted/12057)
 * [Плейлисти](https://t.me/incrypted/12319)
 * [Стріми](https://t.me/incrypted/12081)
+* [Стріми 2](https://t.me/incrypted/13036)
 * [Кріптани](https://t.me/incrypted/12076)
 * [Мысли Вслух](https://t.me/incrypted/12069)
 * [Інтерв'ю](https://t.me/incrypted/12047)
