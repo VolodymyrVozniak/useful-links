@@ -109,6 +109,8 @@
 * [Як оцінювати проєкти?](https://incrypted.com/how-to-evaluate-projects/)
 * [«Пятизначный ценник за ETH» — новое эссе Артура Хейса](https://incrypted.com/five-ducking-digits-arthur-hayes/) ✅
 * [«Ловушка теханализа». Перевод статьи Артура Хейса “The Q-Trap”](https://incrypted.com/the-q-trap-arthur-hayes/)
+* [Есть ли инсайдерская торговля при листингах на Binance и Coinbase?](https://incrypted.com/investigation-insider-trading-on-listings/)
+* [Андре Кронье «Взлет и падение криптокультуры»](https://incrypted.com/crypto-is-dead-long-live-crypto/)
 
 ### Double Top
 * [Токеноміка та Теорія ігор](https://teletype.in/@good_mood/tokenomika)
