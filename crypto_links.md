@@ -180,6 +180,18 @@
 </br>
 
 ## Nodes
+
+### Telegram Channels
+* [how_to_node](https://t.me/how_to_node)
+* [Let's Node!](https://t.me/letskynode)
+
+### Guides
 * [Nodes Guru](https://nodes.guru/)
-* [Teletype with guides](https://teletype.in/@cyberomanov)
+* [CyberRomanov](https://teletype.in/@cyberomanov)
+* [Let's Node](https://teletype.in/@letskynode)
+
+### Servers
+* [Contabo](https://contabo.com/en/)
+
+### Other
 * [DropsEarn](https://dropsearn.com/)
