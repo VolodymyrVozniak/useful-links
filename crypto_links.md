@@ -170,6 +170,7 @@
 * [Мысли Вслух](https://t.me/incrypted/12069)
 * [Інтерв'ю](https://t.me/incrypted/12047)
 * [Психологія](https://t.me/incrypted/12927)
+* [Що почитати?](https://t.me/incrypted/13059)
 * [Вайкофф](https://t.me/TheWolfOfYourStreet/795)
 
 </br>
