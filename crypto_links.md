@@ -118,6 +118,9 @@
 * [Вультификация DeFi: Криптографические структурированные продукты и их будущее](https://teletype.in/@markusrichardofficial/structuredproducts)
 * [SHRAPNEL](https://teletype.in/@pashtzt/shrapnel)
 
+### Crypto in Different Countries
+* [Crypto in Portugal](https://telegra.ph/Nalogooblozhenie-v-Portugalii-04-12)
+
 ### Other
 * [In Defense of Bitcoin Maximalism. Buterin](https://vitalik.ca/general/2022/04/01/maximalist.html)
 * [The Q-Trap. Hayes](https://cryptohayes.medium.com/the-q-trap-f1a38312f00f)
