@@ -111,6 +111,7 @@
 * [«Ловушка теханализа». Перевод статьи Артура Хейса “The Q-Trap”](https://incrypted.com/the-q-trap-arthur-hayes/)
 * [Есть ли инсайдерская торговля при листингах на Binance и Coinbase?](https://incrypted.com/investigation-insider-trading-on-listings/)
 * [Андре Кронье «Взлет и падение криптокультуры»](https://incrypted.com/crypto-is-dead-long-live-crypto/)
+* [Зачем нужна стандартизация игровых NFT](https://incrypted.com/why-standardization-of-gaming-nfts-is-needed/)
 
 ### Double Top
 * [Токеноміка та Теорія ігор](https://teletype.in/@good_mood/tokenomika)
