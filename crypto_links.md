@@ -134,6 +134,9 @@
 * [Цифровое Золото](https://drive.google.com/file/d/1R9V-0-MibVe76WQEwLY0fmgDyxG0voMh/view)
 * [Как Играть и Выигрывать на Бирже](https://drive.google.com/file/d/1yZiDMtGTuq7z8USEt4GYgTjri9sMKH5P/view)
 * [Рыночные Циклы](https://drive.google.com/file/d/1TZTqprNdRPJzU-RUkD9SR0z-N1N_RuSs/view)
+* [Воспоминания Биржевого Спекулянта](https://drive.google.com/file/d/1b7JFwz5o-BhwTArl42GMVKzp4yVUfHNP/view)
+* [Зональный Трейдинг](https://drive.google.com/file/d/1sZwJArJz11nXeAuzVp9Pv28DqJio98LE/view)
+* [Путь Черепах](https://drive.google.com/file/d/1AOidjO-u5foX1Sl23WY_qmxqBlQecsZD/view)
 
 </br>
 
