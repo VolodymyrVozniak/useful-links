@@ -118,6 +118,7 @@
 * [Найкращі аналітичні інструменти](https://teletype.in/@markusrichardofficial/analyticaltools)
 * [Вультификация DeFi: Криптографические структурированные продукты и их будущее](https://teletype.in/@markusrichardofficial/structuredproducts)
 * [SHRAPNEL](https://teletype.in/@pashtzt/shrapnel)
+* [Модель империи блокчейнов](https://teletype.in/@markusrichardofficial/empireofblockchains)
 
 ### Crypto in Different Countries
 * [Crypto in Portugal](https://telegra.ph/Nalogooblozhenie-v-Portugalii-04-12)
