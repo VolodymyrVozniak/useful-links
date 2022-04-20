@@ -175,6 +175,7 @@
 * [Інтерв'ю](https://t.me/incrypted/12047)
 * [Психологія](https://t.me/incrypted/12927)
 * [Що почитати?](https://t.me/incrypted/13059)
+* [Трейдинг](https://t.me/incrypted/13073)
 * [Вайкофф](https://t.me/TheWolfOfYourStreet/795)
 
 </br>
