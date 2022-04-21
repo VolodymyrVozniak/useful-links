@@ -133,6 +133,16 @@
 
 </br>
 
+## Teletypes
+
+### Double Top
+* [Markus](https://teletype.in/@markusrichardofficial)
+* [GooD_MooD](https://teletype.in/@good_mood)
+
+### Nodes
+* [Let's Node](https://teletype.in/@letskynode)
+* [how_to_node](https://teletype.in/@cyberomanov)
+
 ## Books
 * [Как это DeFi (1-ое издание)](https://assets.coingecko.com/books/how-to-defi/How_to_DeFi_Russian.pdf)
 * [Как это DeFi (2-ое издание)](https://drive.google.com/file/d/1xx3obCxxE93CPI0jBBETrxYdi_KNsBvQ/view?usp=sharing)
