@@ -119,6 +119,10 @@
 * [Вультификация DeFi: Криптографические структурированные продукты и их будущее](https://teletype.in/@markusrichardofficial/structuredproducts)
 * [SHRAPNEL](https://teletype.in/@pashtzt/shrapnel)
 * [Модель империи блокчейнов](https://teletype.in/@markusrichardofficial/empireofblockchains)
+* [Как зарабатывать ETH с помощью ETH](https://teletype.in/@markusrichardofficial/5waystoearnmoreETH)
+* [Зарабатываем на LUNA](https://teletype.in/@good_mood/Luna-Yeld)
+* [5 возможностей заработать в сети Arbitrum](https://teletype.in/@markusrichardofficial/5arbitrumopportunities)
+* [Aavegotchi](https://t.me/doubletop/3616)
 
 ### Crypto in Different Countries
 * [Crypto in Portugal](https://telegra.ph/Nalogooblozhenie-v-Portugalii-04-12)
