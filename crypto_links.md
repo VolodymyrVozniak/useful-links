@@ -182,6 +182,7 @@
 * [Що почитати?](https://t.me/incrypted/13059)
 * [Трейдинг](https://t.me/incrypted/13073)
 * [Вайкофф](https://t.me/TheWolfOfYourStreet/795)
+* [The Wolf of Your Street](https://t.me/TheWolfOfYourStreet/799)
 
 </br>
 
