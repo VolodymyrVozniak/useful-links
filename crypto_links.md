@@ -143,6 +143,9 @@
 * [Let's Node](https://teletype.in/@letskynode)
 * [how_to_node](https://teletype.in/@cyberomanov)
 
+### Other
+* [IDO Research](https://teletype.in/@idoresearch)
+
 </br>
 
 ## Books
