@@ -123,6 +123,7 @@
 * [Зарабатываем на LUNA](https://teletype.in/@good_mood/Luna-Yeld)
 * [5 возможностей заработать в сети Arbitrum](https://teletype.in/@markusrichardofficial/5arbitrumopportunities)
 * [Aavegotchi](https://t.me/doubletop/3616)
+* [Руководство для начинающих по Terra](https://teletype.in/@markusrichardofficial/beginnersguidetoterra)
 
 ### Crypto in Different Countries
 * [Crypto in Portugal](https://telegra.ph/Nalogooblozhenie-v-Portugalii-04-12)
