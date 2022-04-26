@@ -124,6 +124,7 @@
 * [5 возможностей заработать в сети Arbitrum](https://teletype.in/@markusrichardofficial/5arbitrumopportunities)
 * [Aavegotchi](https://t.me/doubletop/3616)
 * [Руководство для начинающих по Terra](https://teletype.in/@markusrichardofficial/beginnersguidetoterra)
+* [OTC guide](https://teletype.in/@g3rsh_2top/Euj5DD4DSs0)
 
 ### Crypto in Different Countries
 * [Crypto in Portugal](https://telegra.ph/Nalogooblozhenie-v-Portugalii-04-12)
