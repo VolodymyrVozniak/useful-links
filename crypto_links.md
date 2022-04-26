@@ -112,6 +112,7 @@
 * [Есть ли инсайдерская торговля при листингах на Binance и Coinbase?](https://incrypted.com/investigation-insider-trading-on-listings/)
 * [Андре Кронье «Взлет и падение криптокультуры»](https://incrypted.com/crypto-is-dead-long-live-crypto/)
 * [Зачем нужна стандартизация игровых NFT](https://incrypted.com/why-standardization-of-gaming-nfts-is-needed/)
+* [Что такое токеномика: основы анализа криптовалют](https://incrypted.com/tokenomics-guide-101/)
 
 ### Double Top
 * [Токеноміка та Теорія ігор](https://teletype.in/@good_mood/tokenomika)
