@@ -89,6 +89,7 @@
 * [OTC-трейдинг](https://incrypted.com/otc-trading/)
 * [Social Media](https://incrypted.com/social-media/)
 * [Мости](https://incrypted.com/bridges/)
+* [Література](https://incrypted.com/books/)
 * [Вайкофф](https://telegra.ph/Vajkoff-06-23)
 
 ### Incrypted
@@ -113,6 +114,7 @@
 * [Андре Кронье «Взлет и падение криптокультуры»](https://incrypted.com/crypto-is-dead-long-live-crypto/)
 * [Зачем нужна стандартизация игровых NFT](https://incrypted.com/why-standardization-of-gaming-nfts-is-needed/)
 * [Что такое токеномика: основы анализа криптовалют](https://incrypted.com/tokenomics-guide-101/)
+* [Разбираем ERC-20 токены по косточкам](https://incrypted.com/what-is-erc-20-guide/)
 
 ### Double Top
 * [Токеноміка та Теорія ігор](https://teletype.in/@good_mood/tokenomika)
@@ -129,6 +131,8 @@
 
 ### Crypto in Different Countries
 * [Crypto in Portugal](https://telegra.ph/Nalogooblozhenie-v-Portugalii-04-12)
+* [Crypto in Estonia](https://teletype.in/@t0zem00n/estonia)
+* [Crypto in Poland](https://teletype.in/@t0zem00n/poland)
 
 ### Other
 * [In Defense of Bitcoin Maximalism. Buterin](https://vitalik.ca/general/2022/04/01/maximalist.html)
@@ -141,6 +145,7 @@
 ### Double Top
 * [Markus](https://teletype.in/@markusrichardofficial)
 * [GooD_MooD](https://teletype.in/@good_mood)
+* [t0zem00n](https://teletype.in/@t0zem00n)
 
 ### Nodes
 * [Let's Node](https://teletype.in/@letskynode)
@@ -164,6 +169,7 @@
 * [Воспоминания Биржевого Спекулянта](https://drive.google.com/file/d/1b7JFwz5o-BhwTArl42GMVKzp4yVUfHNP/view)
 * [Зональный Трейдинг](https://drive.google.com/file/d/1sZwJArJz11nXeAuzVp9Pv28DqJio98LE/view)
 * [Путь Черепах](https://drive.google.com/file/d/1AOidjO-u5foX1Sl23WY_qmxqBlQecsZD/view)
+* [Эссе Артура Хейса](https://blog.bitmex.com/author/arthur/?lang=ru_ru)
 
 </br>
 
