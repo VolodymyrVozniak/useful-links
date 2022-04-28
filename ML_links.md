@@ -265,6 +265,7 @@
 * [All u need for NLP](https://github.com/brianspiering/awesome-dl4nlp)
 * [Extra materials for ml-mipt course](https://github.com/girafe-ai/ml-mipt/blob/master/extra_materials.md)
 * [Advance ML/DL University Lectures](https://docs.google.com/spreadsheets/u/0/d/1KYJ9Z8f76WZGYpT2E5sjr5gL-O35Lpjm-SMmU00fplk/htmlview)
+* [Yandex School of Data Analysis](https://github.com/yandexdataschool)
 
 ## Useful Python Libs
 * [Albumentations](https://albumentations.ai/docs/)
