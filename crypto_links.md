@@ -156,6 +156,7 @@
 ### Other
 * [In Defense of Bitcoin Maximalism. Buterin](https://vitalik.ca/general/2022/04/01/maximalist.html)
 * [The Q-Trap. Hayes](https://cryptohayes.medium.com/the-q-trap-f1a38312f00f)
+* [The Doom Loop](https://cryptohayes.medium.com/the-doom-loop-161a42bbcd50)
 
 </br>
 
