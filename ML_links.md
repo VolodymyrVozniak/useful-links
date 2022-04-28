@@ -179,13 +179,22 @@
 * [Machine Learning with Python. sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 
 ## Deep Learning
-* [Convolutional Neural Networks for Visual Recognition (Spring 2017). Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-* [Natural Language Processing. Huawei Russia](https://www.youtube.com/playlist?list=PLHvlTBWld13NDsJpNQU095K81vw5bH7X3)
+
+* [Deep Learning Tutorials](https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA)
+* [NYU Deep Learning SP20](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
+
+### PyTorch
 * [PyTorch - Python Deep Learning Neural Network API](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
 * [Pytorch Lightning](https://www.youtube.com/playlist?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
-* [Deep Learning Tutorials](https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA)
 * [Pytorch Geometric Tutorials](https://www.youtube.com/playlist?list=PLGMXrbDNfqTzqxB1IGgimuhtfAhGd8lHF)
+
+### CV
+* [Convolutional Neural Networks for Visual Recognition (Spring 2017). Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+* [Computer Vision for Beginners. IT-Jim](https://www.youtube.com/playlist?list=PLSgMilMp91Tep9gM0_-U71P4Ui-tqgmSE)
+
+### NLP
 * [NLP with DL (Winter 2021). Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+* [Natural Language Processing. Huawei Russia](https://www.youtube.com/playlist?list=PLHvlTBWld13NDsJpNQU095K81vw5bH7X3)
 
 ## Other Playlists
 
