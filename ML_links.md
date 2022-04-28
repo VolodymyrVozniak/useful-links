@@ -223,6 +223,7 @@
 * [Reinforcement Learning: An Introduction. Satton & Barto](http://incompleteideas.net/book/the-book-2nd.html)
 * [The Hundred-Page Machine Learning Book](http://themlbook.com/)
 * [Методичка от Воронцова](https://ml-handbook.ru/)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
 <br />
 
