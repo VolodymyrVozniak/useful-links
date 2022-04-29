@@ -135,6 +135,8 @@
 * [Что такое токеномика: основы анализа криптовалют](https://incrypted.com/tokenomics-guide-101/)
 * [Разбираем ERC-20 токены по косточкам](https://incrypted.com/what-is-erc-20-guide/)
 * [«Роковая петля» — новое эссе Артура Хейса](https://incrypted.com/the-fatal-loop-arthur-hayes/)
+* [Токеномика: эмиссия, вестинг, капитализация](https://incrypted.com/tokenomics-guide-102/)
+* [Move-2-Earn: получится ли полноценный тренд](https://incrypted.com/stream-move-to-earn-summary/)
 
 ### Double Top
 * [Токеноміка та Теорія ігор](https://teletype.in/@good_mood/tokenomika)
