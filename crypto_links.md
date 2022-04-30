@@ -26,6 +26,7 @@
 * [DOUBLE TOP](https://t.me/doubletop)
 * [Incrypted](https://t.me/incrypted)
 * [The Wolf Of Your Street](https://t.me/TheWolfOfYourStreet)
+* [IDO research](https://t.me/idoresearch)
 
 </br>
 
@@ -34,6 +35,8 @@
 * [Incrypted](https://www.youtube.com/c/Incryptednet)
 * [Altcoinlog Media](https://www.youtube.com/channel/UCwidv9P4smbtAP_otIFYmKg)
 * [Михаил Чобанян](https://www.youtube.com/c/MichaelChobanianOne)
+* [Cryptor](https://www.youtube.com/c/Cryptor)
+* [IDOresearch](https://www.youtube.com/channel/UC2AfsYjPPu_oUMLt4yUt_OQ)
 
 </br>
 
@@ -112,6 +115,21 @@
 * [Як ровзодять скамери](https://incrypted.com/how-they-steal-your-funds/)
 
 ### Incrypted
+
+#### Переклади статей
+* [«Пятизначный ценник за ETH» — новое эссе Артура Хейса](https://incrypted.com/five-ducking-digits-arthur-hayes/) ✅
+* [«Ловушка теханализа». Перевод статьи Артура Хейса “The Q-Trap”](https://incrypted.com/the-q-trap-arthur-hayes/)
+* [«Роковая петля» — новое эссе Артура Хейса](https://incrypted.com/the-fatal-loop-arthur-hayes/)
+* [Андре Кронье «Взлет и падение криптокультуры»](https://incrypted.com/crypto-is-dead-long-live-crypto/)
+
+#### Вижимка із стрімів
+* [Move-2-Earn: получится ли полноценный тренд](https://incrypted.com/stream-move-to-earn-summary/)
+
+#### Інше
+* [Під час роботи над біткоїном Сатоші Накамото жив у Лондоні?](https://incrypted.com/satoshi-nakamoto-lived-in-london-while-working-on-bitcoin/)
+* [Есть ли инсайдерская торговля при листингах на Binance и Coinbase?](https://incrypted.com/investigation-insider-trading-on-listings/)
+
+#### Корисна Інфа
 * [Про використання шардінгу](https://incrypted.com/sharding/)
 * [Історія розвитку деривативів](https://incrypted.com/history-bitcoin-derivative/)
 * [Гайд по заповненню WhiteList](https://incrypted.com/whitelist-instruction/)
@@ -120,23 +138,16 @@
 * [Про DAO](https://incrypted.com/what-should-know-about-dao/)
 * [DeFi: типи, плюси, мінуси](https://incrypted.com/types-of-defi-their-pros-and-cons-1inch/)
 * [Рух ціни токена. Причини пампів/дампів](https://incrypted.com/token-price-movement/)
-* [Під час роботи над біткоїном Сатоші Накамото жив у Лондоні?](https://incrypted.com/satoshi-nakamoto-lived-in-london-while-working-on-bitcoin/)
 * [Про мультиакаунти](https://incrypted.com/multi-accounts-how-to-create-and-use/)
 * [Чому біржі делістять монети?](https://incrypted.com/why-exchanges-delisting-altcoins/)
 * [Що таке інфляція?](https://incrypted.com/inflation-explained/)
 * [Звідки ікси після Public Sale і як працює ліквідність?](https://incrypted.com/how-liquidity-works/)
 * [Що потрібно знати про EIP-1559](https://incrypted.com/what-is-eip-1559/)
 * [Як оцінювати проєкти?](https://incrypted.com/how-to-evaluate-projects/)
-* [«Пятизначный ценник за ETH» — новое эссе Артура Хейса](https://incrypted.com/five-ducking-digits-arthur-hayes/) ✅
-* [«Ловушка теханализа». Перевод статьи Артура Хейса “The Q-Trap”](https://incrypted.com/the-q-trap-arthur-hayes/)
-* [Есть ли инсайдерская торговля при листингах на Binance и Coinbase?](https://incrypted.com/investigation-insider-trading-on-listings/)
-* [Андре Кронье «Взлет и падение криптокультуры»](https://incrypted.com/crypto-is-dead-long-live-crypto/)
 * [Зачем нужна стандартизация игровых NFT](https://incrypted.com/why-standardization-of-gaming-nfts-is-needed/)
-* [Что такое токеномика: основы анализа криптовалют](https://incrypted.com/tokenomics-guide-101/)
 * [Разбираем ERC-20 токены по косточкам](https://incrypted.com/what-is-erc-20-guide/)
-* [«Роковая петля» — новое эссе Артура Хейса](https://incrypted.com/the-fatal-loop-arthur-hayes/)
+* [Что такое токеномика: основы анализа криптовалют](https://incrypted.com/tokenomics-guide-101/)
 * [Токеномика: эмиссия, вестинг, капитализация](https://incrypted.com/tokenomics-guide-102/)
-* [Move-2-Earn: получится ли полноценный тренд](https://incrypted.com/stream-move-to-earn-summary/)
 
 ### Double Top
 * [Токеноміка та Теорія ігор](https://teletype.in/@good_mood/tokenomika)
@@ -156,7 +167,7 @@
 * [Crypto in Estonia](https://teletype.in/@t0zem00n/estonia)
 * [Crypto in Poland](https://teletype.in/@t0zem00n/poland)
 
-### Other
+### Articles from Top
 * [In Defense of Bitcoin Maximalism. Buterin](https://vitalik.ca/general/2022/04/01/maximalist.html)
 * [The Q-Trap. Hayes](https://cryptohayes.medium.com/the-q-trap-f1a38312f00f)
 * [The Doom Loop](https://cryptohayes.medium.com/the-doom-loop-161a42bbcd50)
