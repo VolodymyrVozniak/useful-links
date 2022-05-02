@@ -129,6 +129,9 @@
 * [Під час роботи над біткоїном Сатоші Накамото жив у Лондоні?](https://incrypted.com/satoshi-nakamoto-lived-in-london-while-working-on-bitcoin/)
 * [Есть ли инсайдерская торговля при листингах на Binance и Coinbase?](https://incrypted.com/investigation-insider-trading-on-listings/)
 
+#### Обзори проєктів
+* [NFT-гра Alien Worlds](https://incrypted.com/alien-worlds-obzor/)
+
 #### Корисна Інфа
 * [Про використання шардінгу](https://incrypted.com/sharding/)
 * [Історія розвитку деривативів](https://incrypted.com/history-bitcoin-derivative/)
@@ -161,6 +164,7 @@
 * [Aavegotchi](https://t.me/doubletop/3616)
 * [Руководство для начинающих по Terra](https://teletype.in/@markusrichardofficial/beginnersguidetoterra)
 * [OTC guide](https://teletype.in/@g3rsh_2top/Euj5DD4DSs0)
+* [Как эйпить (обезьянничать) ответственно](https://teletype.in/@markusrichardofficial/howtoaperesponsibly)
 
 ### Crypto in Different Countries
 * [Crypto in Portugal](https://telegra.ph/Nalogooblozhenie-v-Portugalii-04-12)
