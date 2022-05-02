@@ -171,6 +171,7 @@
 * [Crypto in Estonia](https://teletype.in/@t0zem00n/estonia)
 * [Crypto in Poland](https://teletype.in/@t0zem00n/poland)
 * [Crypto in Spain](https://teletype.in/@markusrichardofficial/cryptotaxesinspain)
+* [Crypto in Germany](https://teletype.in/@t0zem00n/germany)
 
 ### Articles from Top
 * [In Defense of Bitcoin Maximalism. Buterin](https://vitalik.ca/general/2022/04/01/maximalist.html)
