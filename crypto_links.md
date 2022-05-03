@@ -132,6 +132,11 @@
 #### Обзори проєктів
 * [NFT-гра Alien Worlds](https://incrypted.com/alien-worlds-obzor/)
 
+#### Токеноміка
+* [Что такое токеномика: основы анализа криптовалют](https://incrypted.com/tokenomics-guide-101/)
+* [Токеномика: эмиссия, вестинг, капитализация](https://incrypted.com/tokenomics-guide-102/)
+* [Токеномика: оценка полезности (utility) токена](https://incrypted.com/tokenomics-guide-103/)
+
 #### Корисна Інфа
 * [Про використання шардінгу](https://incrypted.com/sharding/)
 * [Історія розвитку деривативів](https://incrypted.com/history-bitcoin-derivative/)
@@ -149,8 +154,6 @@
 * [Як оцінювати проєкти?](https://incrypted.com/how-to-evaluate-projects/)
 * [Зачем нужна стандартизация игровых NFT](https://incrypted.com/why-standardization-of-gaming-nfts-is-needed/)
 * [Разбираем ERC-20 токены по косточкам](https://incrypted.com/what-is-erc-20-guide/)
-* [Что такое токеномика: основы анализа криптовалют](https://incrypted.com/tokenomics-guide-101/)
-* [Токеномика: эмиссия, вестинг, капитализация](https://incrypted.com/tokenomics-guide-102/)
 
 ### Double Top
 * [Токеноміка та Теорія ігор](https://teletype.in/@good_mood/tokenomika)
