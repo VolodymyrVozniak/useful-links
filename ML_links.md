@@ -281,6 +281,7 @@
 * [Albumentations](https://albumentations.ai/docs/)
 * [Vowpal Wabbit](https://vowpalwabbit.org/)
 * [DevReminder](https://pypi.org/project/devreminder/)
+* [LibMTL](https://libmtl.readthedocs.io/en/latest/)
 
 ## Useful Colab Notebooks
 * [Colab with bash commands](https://colab.research.google.com/drive/1P0RE43Ih9J9TmXkrpgfNwjFgsRIF3BPe?usp=sharing#scrollTo=V6hGvh7O-ZTv)
