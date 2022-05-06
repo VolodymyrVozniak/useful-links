@@ -124,6 +124,7 @@
 
 #### Вижимка із стрімів
 * [Move-2-Earn: получится ли полноценный тренд](https://incrypted.com/stream-move-to-earn-summary/)
+* [Что такое ноды и тестнеты? Полезности от Nodes.Guru](https://incrypted.com/stream-nodes-and-testnets-summary/)
 
 #### Інше
 * [Під час роботи над біткоїном Сатоші Накамото жив у Лондоні?](https://incrypted.com/satoshi-nakamoto-lived-in-london-while-working-on-bitcoin/)
