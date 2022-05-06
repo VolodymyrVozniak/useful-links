@@ -137,6 +137,7 @@
 * [Что такое токеномика: основы анализа криптовалют](https://incrypted.com/tokenomics-guide-101/)
 * [Токеномика: эмиссия, вестинг, капитализация](https://incrypted.com/tokenomics-guide-102/)
 * [Токеномика: оценка полезности (utility) токена](https://incrypted.com/tokenomics-guide-103/)
+* [Как выпустить свой токен: тактика, советы, примеры](https://incrypted.com/tocenomics-guide-104/)
 
 #### Корисна Інфа
 * [Про використання шардінгу](https://incrypted.com/sharding/)
