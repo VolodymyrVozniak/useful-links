@@ -40,16 +40,6 @@
 
 </br>
 
-## YouTube Playlists
-* [Погружение в крипту за 7 дней](https://www.youtube.com/playlist?list=PLsJDzAldPQJSNRfN3RKEf4GDcpnDksnIP)
-* [ПростоКрипта](https://www.youtube.com/playlist?list=PLsJDzAldPQJSx5XuqV1RKiBJxlLCEboKk)
-* [NFT](https://www.youtube.com/playlist?list=PLsJDzAldPQJSsIfJOgHMsbLYNAkq2zY-C)
-* [Metaverse](https://www.youtube.com/playlist?list=PLsJDzAldPQJS1xyN2DFgnrACNYXoeLZZy)
-* [Мысли Вслух](https://www.youtube.com/playlist?list=PLsJDzAldPQJTRBiDdqXTYYEHYdFY2jJbT)
-* [Становление Биткоина](https://youtube.com/playlist?list=PLsJDzAldPQJSBAZxpcB3seOl7rAb0MdNl)
-
-</br>
-
 ## Courses
 
 ### Coursera
