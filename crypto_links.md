@@ -133,6 +133,7 @@
 * [Що потрібно знати про EIP-1559](https://incrypted.com/what-is-eip-1559/)
 * [Разбираем ERC-20 токены по косточкам](https://incrypted.com/what-is-erc-20-guide/)
 * [Что такое ERC-4626 и зачем они нужны в DeFi](https://incrypted.com/what-is-erc-4626/)
+* [Токены ERC-721R: очередной хайп или конец эпохи рагпулов?](https://incrypted.com/what-is-erc-721r/)
 
 #### Корисна Інфа
 * [Про використання шардінгу](https://incrypted.com/sharding/)
