@@ -161,6 +161,7 @@
 * [Руководство для начинающих по Terra](https://teletype.in/@markusrichardofficial/beginnersguidetoterra)
 * [OTC guide](https://teletype.in/@g3rsh_2top/Euj5DD4DSs0)
 * [Как эйпить (обезьянничать) ответственно](https://teletype.in/@markusrichardofficial/howtoaperesponsibly)
+* [Войны стейблкоинов](https://teletype.in/@markusrichardofficial/stablecoinwars)
 
 ### Crypto in Different Countries
 * [Crypto in Portugal](https://telegra.ph/Nalogooblozhenie-v-Portugalii-04-12)
