@@ -129,6 +129,11 @@
 * [Токеномика: оценка полезности (utility) токена](https://incrypted.com/tokenomics-guide-103/)
 * [Как выпустить свой токен: тактика, советы, примеры](https://incrypted.com/tocenomics-guide-104/)
 
+#### Стандарти токенів
+* [Що потрібно знати про EIP-1559](https://incrypted.com/what-is-eip-1559/)
+* [Разбираем ERC-20 токены по косточкам](https://incrypted.com/what-is-erc-20-guide/)
+* [Что такое ERC-4626 и зачем они нужны в DeFi](https://incrypted.com/what-is-erc-4626/)
+
 #### Корисна Інфа
 * [Про використання шардінгу](https://incrypted.com/sharding/)
 * [Історія розвитку деривативів](https://incrypted.com/history-bitcoin-derivative/)
@@ -142,10 +147,8 @@
 * [Чому біржі делістять монети?](https://incrypted.com/why-exchanges-delisting-altcoins/)
 * [Що таке інфляція?](https://incrypted.com/inflation-explained/)
 * [Звідки ікси після Public Sale і як працює ліквідність?](https://incrypted.com/how-liquidity-works/)
-* [Що потрібно знати про EIP-1559](https://incrypted.com/what-is-eip-1559/)
 * [Як оцінювати проєкти?](https://incrypted.com/how-to-evaluate-projects/)
 * [Зачем нужна стандартизация игровых NFT](https://incrypted.com/why-standardization-of-gaming-nfts-is-needed/)
-* [Разбираем ERC-20 токены по косточкам](https://incrypted.com/what-is-erc-20-guide/)
 * [Как изменение процентной ставки ФРС влияет на рынок криптовалют](https://incrypted.com/how-fed-rate-affect-cryptocurrency/)
 
 ### Double Top
