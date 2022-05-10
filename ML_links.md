@@ -180,6 +180,7 @@
 
 ## Deep Learning
 
+* [Глубинное обучение 2021. Yandex](https://www.youtube.com/playlist?list=PLJOzdkh8T5kpL2y8-lhHOlBxzLszSyDa0)
 * [Deep Learning Tutorials](https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA)
 * [NYU Deep Learning SP20](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 
