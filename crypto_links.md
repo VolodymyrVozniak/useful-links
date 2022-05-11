@@ -119,6 +119,7 @@
 #### Інше
 * [Під час роботи над біткоїном Сатоші Накамото жив у Лондоні?](https://incrypted.com/satoshi-nakamoto-lived-in-london-while-working-on-bitcoin/)
 * [Есть ли инсайдерская торговля при листингах на Binance и Coinbase?](https://incrypted.com/investigation-insider-trading-on-listings/)
+* [Интернет вещей (IoT). 8 ключевых принципов](https://incrypted.com/what-is-iot/)
 
 #### Обзори проєктів
 * [NFT-гра Alien Worlds](https://incrypted.com/alien-worlds-obzor/)
@@ -151,6 +152,7 @@
 * [Як оцінювати проєкти?](https://incrypted.com/how-to-evaluate-projects/)
 * [Зачем нужна стандартизация игровых NFT](https://incrypted.com/why-standardization-of-gaming-nfts-is-needed/)
 * [Как изменение процентной ставки ФРС влияет на рынок криптовалют](https://incrypted.com/how-fed-rate-affect-cryptocurrency/)
+* [Полная инструкция по переводам с Metamask на Binance](https://incrypted.com/use-metamask-for-binance-smart-chain/)
 
 ### Double Top
 * [Токеноміка та Теорія ігор](https://teletype.in/@good_mood/tokenomika)
