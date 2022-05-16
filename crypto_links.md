@@ -111,6 +111,7 @@
 * [«Ловушка теханализа». Перевод статьи Артура Хейса “The Q-Trap”](https://incrypted.com/the-q-trap-arthur-hayes/)
 * [«Роковая петля» — новое эссе Артура Хейса](https://incrypted.com/the-fatal-loop-arthur-hayes/)
 * [Андре Кронье «Взлет и падение криптокультуры»](https://incrypted.com/crypto-is-dead-long-live-crypto/)
+* [«Luna Brothers, Inc.» — новое эссе Артура Хейса](https://incrypted.com/arthur-hayes-luna-brothers-inc/)
 
 #### Вижимка із стрімів
 * [Move-2-Earn: получится ли полноценный тренд](https://incrypted.com/stream-move-to-earn-summary/) ✅
