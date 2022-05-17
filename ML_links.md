@@ -35,6 +35,7 @@
       <ul>
         <li><a href="#links-for-other-links">Links for other links</a></li>
         <li><a href="#useful-python-libs">Useful Python Libs</a></li>
+        <li><a href="#useful-scripts">Useful Scripts</a></li>
         <li><a href="#useful-colab-notebooks">Useful Colab Notebooks</a></li>
         <li><a href="#lib-tutorials">Lib Tutorials</a></li>
         <li><a href="#other">Other</a></li>
@@ -285,7 +286,7 @@
 * [DevReminder](https://pypi.org/project/devreminder/)
 * [LibMTL](https://libmtl.readthedocs.io/en/latest/)
 
-## Useful scripts
+## Useful Scripts
 * [Switch cuda](https://github.com/phohenecker/switch-cuda)
 
 ## Useful Colab Notebooks
