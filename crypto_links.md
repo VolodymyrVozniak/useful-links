@@ -116,11 +116,13 @@
 #### Вижимка із стрімів
 * [Move-2-Earn: получится ли полноценный тренд](https://incrypted.com/stream-move-to-earn-summary/) ✅
 * [Что такое ноды и тестнеты? Полезности от Nodes.Guru](https://incrypted.com/stream-nodes-and-testnets-summary/) ✅
+* [Разбираем тренд Move-2-Earn с создателем SweatCoin](https://incrypted.com/stream-sweatcoin-move-2-earn-summary/) ✅
 
 #### Інше
 * [Під час роботи над біткоїном Сатоші Накамото жив у Лондоні?](https://incrypted.com/satoshi-nakamoto-lived-in-london-while-working-on-bitcoin/)
 * [Есть ли инсайдерская торговля при листингах на Binance и Coinbase?](https://incrypted.com/investigation-insider-trading-on-listings/)
 * [Интернет вещей (IoT). 8 ключевых принципов](https://incrypted.com/what-is-iot/)
+* [Состояние криптоиндустрии в 2022 — отчет a16z crypto](https://incrypted.com/a16zcrypto-report-the-state-of-cryptography/)
 
 #### Обзори проєктів
 * [NFT-гра Alien Worlds](https://incrypted.com/alien-worlds-obzor/)
