@@ -172,6 +172,7 @@
 * [Как эйпить (обезьянничать) ответственно](https://teletype.in/@markusrichardofficial/howtoaperesponsibly)
 * [Войны стейблкоинов](https://teletype.in/@markusrichardofficial/stablecoinwars)
 * [Инфляция и рецессия](https://2top.notion.site/cfd2d6e9a7ed414796b1f9e6843d5c1d)
+* [Последствия коллапса Terra](https://2top.notion.site/Terra-527979ca52d0487c8414bdc623c6a890)
 
 ### Crypto in Different Countries
 * [Crypto in Portugal](https://telegra.ph/Nalogooblozhenie-v-Portugalii-04-12)
