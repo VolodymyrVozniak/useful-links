@@ -82,6 +82,7 @@
 
 #### Інструментарій
 * [Інструменти криптана](https://incrypted.com/useful-crypto-tools/)
+* [Smart Money](https://incrypted.com/smart-money/)
 
 #### Трейдинг
 * [10 кроків успішного трейдера](https://incrypted.com/10-steps-of-successful-crypto-trader/)
@@ -123,9 +124,12 @@
 * [Есть ли инсайдерская торговля при листингах на Binance и Coinbase?](https://incrypted.com/investigation-insider-trading-on-listings/)
 * [Интернет вещей (IoT). 8 ключевых принципов](https://incrypted.com/what-is-iot/)
 * [Состояние криптоиндустрии в 2022 — отчет a16z crypto](https://incrypted.com/a16zcrypto-report-the-state-of-cryptography/)
+* [Что ждёт GameFi на медвежке и после. Рекомендации и размышления](https://incrypted.com/gamefi-on-bear-market-recommendations/)
+* [Пицца за 10 000 BTC. Рассказываем историю Bitcoin Pizza Day](https://incrypted.com/bitcoin-pizza-day/)
 
 #### Обзори проєктів
 * [NFT-гра Alien Worlds](https://incrypted.com/alien-worlds-obzor/)
+* [Разбираемся как устроен SweatCoin](https://incrypted.com/obzor-sweatcoin/)
 
 #### Токеноміка
 * [Что такое токеномика: основы анализа криптовалют](https://incrypted.com/tokenomics-guide-101/)
@@ -173,6 +177,7 @@
 * [Войны стейблкоинов](https://teletype.in/@markusrichardofficial/stablecoinwars)
 * [Инфляция и рецессия](https://2top.notion.site/cfd2d6e9a7ed414796b1f9e6843d5c1d)
 * [Последствия коллапса Terra](https://2top.notion.site/Terra-527979ca52d0487c8414bdc623c6a890)
+* [Лучшая доходность на медвежьем рынке](https://2top.notion.site/c30e7086bed64f1c8ddf4c2f4dcbbd7a)
 
 ### Crypto in Different Countries
 * [Crypto in Portugal](https://telegra.ph/Nalogooblozhenie-v-Portugalii-04-12)
@@ -180,6 +185,7 @@
 * [Crypto in Poland](https://teletype.in/@t0zem00n/poland)
 * [Crypto in Spain](https://teletype.in/@markusrichardofficial/cryptotaxesinspain)
 * [Crypto in Germany](https://teletype.in/@t0zem00n/germany)
+* [Crypto in Ireland](https://teletype.in/@t0zem00n/ireland)
 
 ### Articles from Top
 * [In Defense of Bitcoin Maximalism. Buterin](https://vitalik.ca/general/2022/04/01/maximalist.html)
@@ -277,3 +283,6 @@
 
 ### Servers
 * [Contabo](https://contabo.com/en/)
+
+### Useful Links
+* [Post from The Wolf Of Your Strees](https://t.me/TheWolfOfYourStreet/840)
