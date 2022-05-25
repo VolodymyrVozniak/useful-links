@@ -130,6 +130,7 @@
 #### Обзори проєктів
 * [NFT-гра Alien Worlds](https://incrypted.com/alien-worlds-obzor/)
 * [Разбираемся как устроен SweatCoin](https://incrypted.com/obzor-sweatcoin/)
+* [Обзор Parallel Heiko. Где стейкать DOT и KSM?](https://incrypted.com/overview-parallel-finance/)
 
 #### Токеноміка
 * [Что такое токеномика: основы анализа криптовалют](https://incrypted.com/tokenomics-guide-101/)
@@ -160,6 +161,7 @@
 * [Зачем нужна стандартизация игровых NFT](https://incrypted.com/why-standardization-of-gaming-nfts-is-needed/)
 * [Как изменение процентной ставки ФРС влияет на рынок криптовалют](https://incrypted.com/how-fed-rate-affect-cryptocurrency/)
 * [Полная инструкция по переводам с Metamask на Binance](https://incrypted.com/use-metamask-for-binance-smart-chain/)
+* [Методичка по стратегии Smart Money](https://incrypted.com/smart-money-concept-obzor/)
 
 ### Double Top
 * [Токеноміка та Теорія ігор](https://teletype.in/@good_mood/tokenomika)
