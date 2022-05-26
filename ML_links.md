@@ -227,6 +227,9 @@
 * [The Hundred-Page Machine Learning Book](http://themlbook.com/)
 * [Методичка от Воронцова](https://ml-handbook.ru/)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+* [Machine Learning Yearning by Andrew Ng](https://www.deeplearning.ai/wp-content/uploads/2022/03/andrew-ng-machine-learning-yearning.pdf)
+* [MLOps by Andrew Ng](https://www.deeplearning.ai/wp-content/uploads/2021/06/MLOps-From-Model-centric-to-Data-centric-AI.pdf)
+* 
 
 <br />
 
@@ -300,4 +303,5 @@
 
 ## Other
 * [Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
+* [AI Notes](https://www.deeplearning.ai/ai-notes/?submissionGuid=d49ca9d8-5871-4023-9ffd-940955f6a639)
 
