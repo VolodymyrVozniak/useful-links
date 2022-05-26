@@ -180,6 +180,7 @@
 * [Инфляция и рецессия](https://2top.notion.site/cfd2d6e9a7ed414796b1f9e6843d5c1d)
 * [Последствия коллапса Terra](https://2top.notion.site/Terra-527979ca52d0487c8414bdc623c6a890)
 * [Лучшая доходность на медвежьем рынке](https://2top.notion.site/c30e7086bed64f1c8ddf4c2f4dcbbd7a)
+* [Токен Metamask](https://hurricane-addition-804.notion.site/Metamask-036098e7b150401aab4aa59aa7431aae)
 
 ### Crypto in Different Countries
 * [Crypto in Portugal](https://telegra.ph/Nalogooblozhenie-v-Portugalii-04-12)
