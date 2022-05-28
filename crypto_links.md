@@ -113,6 +113,7 @@
 * [«Роковая петля» — новое эссе Артура Хейса](https://incrypted.com/the-fatal-loop-arthur-hayes/)
 * [Андре Кронье «Взлет и падение криптокультуры»](https://incrypted.com/crypto-is-dead-long-live-crypto/)
 * [«Luna Brothers, Inc.» — новое эссе Артура Хейса](https://incrypted.com/arthur-hayes-luna-brothers-inc/)
+* [Адаптируйся, чтобы выжить — отчет Sequoia Capital](https://incrypted.com/sequoia-adapting-to-endure-report-2022/)
 
 #### Вижимка із стрімів
 * [Move-2-Earn: получится ли полноценный тренд](https://incrypted.com/stream-move-to-earn-summary/) ✅
@@ -131,6 +132,9 @@
 * [NFT-гра Alien Worlds](https://incrypted.com/alien-worlds-obzor/)
 * [Разбираемся как устроен SweatCoin](https://incrypted.com/obzor-sweatcoin/)
 * [Обзор Parallel Heiko. Где стейкать DOT и KSM?](https://incrypted.com/overview-parallel-finance/)
+
+#### Обзори ринку
+* [Обзор крипторынка за первый квартал 2022: падение капитализации и объемов торгов](https://info.exmo.com/ru/obzor-rynka-kriptovalyut/za-pervyj-kvartal-2022-padenie-kapitalizacii-i-obemov-torgov/)
 
 #### Токеноміка
 * [Что такое токеномика: основы анализа криптовалют](https://incrypted.com/tokenomics-guide-101/)
@@ -163,7 +167,6 @@
 * [Полная инструкция по переводам с Metamask на Binance](https://incrypted.com/use-metamask-for-binance-smart-chain/)
 * [Методичка по стратегии Smart Money](https://incrypted.com/smart-money-concept-obzor/)
 * [Токен Metamask будет историческим](https://incrypted.com/token-metamask-the-end-game) ✅
-* [Адаптируйся, чтобы выжить — отчет Sequoia Capital](https://incrypted.com/sequoia-adapting-to-endure-report-2022/)
 
 ### Double Top
 * [Токеноміка та Теорія ігор](https://teletype.in/@good_mood/tokenomika)
