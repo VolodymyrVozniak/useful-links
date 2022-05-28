@@ -162,6 +162,7 @@
 * [Как изменение процентной ставки ФРС влияет на рынок криптовалют](https://incrypted.com/how-fed-rate-affect-cryptocurrency/)
 * [Полная инструкция по переводам с Metamask на Binance](https://incrypted.com/use-metamask-for-binance-smart-chain/)
 * [Методичка по стратегии Smart Money](https://incrypted.com/smart-money-concept-obzor/)
+* [Токен Metamask будет историческим](https://incrypted.com/token-metamask-the-end-game)
 
 ### Double Top
 * [Токеноміка та Теорія ігор](https://teletype.in/@good_mood/tokenomika)
@@ -190,6 +191,7 @@
 * [Crypto in Spain](https://teletype.in/@markusrichardofficial/cryptotaxesinspain)
 * [Crypto in Germany](https://teletype.in/@t0zem00n/germany)
 * [Crypto in Ireland](https://teletype.in/@t0zem00n/ireland)
+* [Crypto in Finland](https://teletype.in/@t0zem00n/finland)
 
 ### Articles from Top
 * [In Defense of Bitcoin Maximalism. Buterin](https://vitalik.ca/general/2022/04/01/maximalist.html)
