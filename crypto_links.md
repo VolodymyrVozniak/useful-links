@@ -162,7 +162,7 @@
 * [Как изменение процентной ставки ФРС влияет на рынок криптовалют](https://incrypted.com/how-fed-rate-affect-cryptocurrency/)
 * [Полная инструкция по переводам с Metamask на Binance](https://incrypted.com/use-metamask-for-binance-smart-chain/)
 * [Методичка по стратегии Smart Money](https://incrypted.com/smart-money-concept-obzor/)
-* [Токен Metamask будет историческим](https://incrypted.com/token-metamask-the-end-game)
+* [Токен Metamask будет историческим](https://incrypted.com/token-metamask-the-end-game) ✅
 * [Адаптируйся, чтобы выжить — отчет Sequoia Capital](https://incrypted.com/sequoia-adapting-to-endure-report-2022/)
 
 ### Double Top
