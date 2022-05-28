@@ -113,7 +113,7 @@
 * [«Роковая петля» — новое эссе Артура Хейса](https://incrypted.com/the-fatal-loop-arthur-hayes/)
 * [Андре Кронье «Взлет и падение криптокультуры»](https://incrypted.com/crypto-is-dead-long-live-crypto/)
 * [«Luna Brothers, Inc.» — новое эссе Артура Хейса](https://incrypted.com/arthur-hayes-luna-brothers-inc/)
-* [Адаптируйся, чтобы выжить — отчет Sequoia Capital](https://incrypted.com/sequoia-adapting-to-endure-report-2022/)
+* [Адаптируйся, чтобы выжить — отчет Sequoia Capital](https://incrypted.com/sequoia-adapting-to-endure-report-2022/) ✅
 
 #### Вижимка із стрімів
 * [Move-2-Earn: получится ли полноценный тренд](https://incrypted.com/stream-move-to-earn-summary/) ✅
@@ -130,7 +130,7 @@
 
 #### Обзори проєктів
 * [NFT-гра Alien Worlds](https://incrypted.com/alien-worlds-obzor/)
-* [Разбираемся как устроен SweatCoin](https://incrypted.com/obzor-sweatcoin/)
+* [Разбираемся как устроен SweatCoin](https://incrypted.com/obzor-sweatcoin/) ✅
 * [Обзор Parallel Heiko. Где стейкать DOT и KSM?](https://incrypted.com/overview-parallel-finance/)
 
 #### Обзори ринку
