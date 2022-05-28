@@ -113,6 +113,7 @@
 * [«Роковая петля» — новое эссе Артура Хейса](https://incrypted.com/the-fatal-loop-arthur-hayes/)
 * [Андре Кронье «Взлет и падение криптокультуры»](https://incrypted.com/crypto-is-dead-long-live-crypto/)
 * [«Luna Brothers, Inc.» — новое эссе Артура Хейса](https://incrypted.com/arthur-hayes-luna-brothers-inc/)
+* [Бутерин рассказал, как создать надежный алгоритмический стейблкоин](https://incrypted.com/buterin-told-how-to-build-secure-stablecoin/)
 
 #### Вижимка із стрімів
 * [Move-2-Earn: получится ли полноценный тренд](https://incrypted.com/stream-move-to-earn-summary/) ✅
