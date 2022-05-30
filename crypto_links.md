@@ -126,6 +126,7 @@
 
 #### Вижимка із стрімів
 * [Выжимка стрима с Антоном из DoubleTopTraders — F.A.Q по трейдингу](https://incrypted.com/summary-faq-trading-1/)
+* [Выжимка стрима с Антоном из DoubleTopTraders — Базовые инструменты трейдера](https://incrypted.com/summary-faq-trading-2/)
 * [Выжимка стрима «Фарминг в альтернативных сетях (AVALANCHE, MATIC, FANTOM)»](https://incrypted.com/summary-farming-pityok/)
 * [Crypto Gaming Summer. Как заработать играючи? Всё, что вам нужно знать про Play to Earn — Текстовая Выжимка Стрима](https://incrypted.com/stream-crypto-gaming-summer/)
 * [Выжимка стрима «Заставь свою крипту работать!»](https://incrypted.com/stream-text-how-make-your-crypto-work/)
@@ -169,7 +170,10 @@
 * [Как выпустить свой токен: тактика, советы, примеры](https://incrypted.com/tocenomics-guide-104/)
 
 #### Трейдинг
+* [Базовые паттерны в трейдинге](https://incrypted.com/main-trading-patterns/)
+* [Дивергенция в трейдинге](https://incrypted.com/divergence-in-trading-tutorial/)
 * [Когда лучше всего торговать криптовалютой?](https://incrypted.com/best-time-trading-crypto/)
+* [10 шагов успешного трейдера](https://incrypted.com/10-steps-of-successful-crypto-trader/)
 * [Что такое ликвидация в трейдинге? Как ее избежать?](https://incrypted.com/what-is-liquidation-and-how-can-it-be-avoided/)
 * [Что такое Индекс страха и жадности в трейдинге?](https://incrypted.com/crypto-fear-and-greed-index-explaination/)
 * [Методичка по стратегии Smart Money](https://incrypted.com/smart-money-concept-obzor/)
@@ -192,6 +196,7 @@
 
 #### NFT
 * [Как создать NFT? Пошаговая инструкция](https://incrypted.com/kak-sozdat-i-prodat-nft/)
+* [Как купить NFT на OpenSea? Инструкция](https://incrypted.com/how-to-buy-nft-opensea-manual/)
 * [Где продавать и покупать NFT: топ-13 проверенных NFT маркетплейсов](https://incrypted.com/where-to-sell-nft-list-marketplace/)
 * [Зачем нужна стандартизация игровых NFT](https://incrypted.com/why-standardization-of-gaming-nfts-is-needed/)
 
@@ -205,13 +210,19 @@
 * [Что такое Polkadot?](https://incrypted.com/what-is-polkadot-simple-crypto-by-incrypted/)
 * [Что такое DAO?](https://incrypted.com/what-is-dao-simple-crypto/)
 * [Что такое NFT?](https://incrypted.com/what-is-nft-simple-crypto/)
-* [Что такое Matevarse?](https://incrypted.com/what-is-metaverse-simple-crypto-by-incrypted/)
+* [Что такое Metaverse?](https://incrypted.com/what-is-metaverse-simple-crypto-by-incrypted/)
 
 #### Стандарти токенів
 * [Все, что вам нужно знать о EIP-1559](https://incrypted.com/what-is-eip-1559/)
 * [Разбираем ERC-20 токены по косточкам](https://incrypted.com/what-is-erc-20-guide/)
 * [Что такое ERC-4626 и зачем они нужны в DeFi](https://incrypted.com/what-is-erc-4626/)
 * [Токены ERC-721R: очередной хайп или конец эпохи рагпулов?](https://incrypted.com/what-is-erc-721r/)
+
+#### Культура Блокчейна
+* [КБ #0 «Что приносит миллионы в мире нефинансового блокчейна?»](https://incrypted.com/weekly-blockchain-culture-moonbirds/)
+* [КБ #1: Кто зарабатывает на медвежьем рынке и метавселенная от NASA и Еpic](https://incrypted.com/weekly-blockchain-culture-ghost-division/)
+* [КБ #2 Рынок NFT ожил. Во что вкладываются во время кризиса?](https://incrypted.com/weekly-blockchain-culture-nft-alive-on-the-fone-fall-crypto/)
+* [КБ #3 Как сформировать успешное NFT-комьюнити?](https://incrypted.com/how-to-build-successful-nft-community/)
 
 #### Корисні ресурси
 * [Топ 5 книг про инвестирование от Yahoo Finance](https://incrypted.com/top-5-books-about-investing-from-yahoo-finance/)
