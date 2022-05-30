@@ -201,8 +201,8 @@
 * [Зачем нужна стандартизация игровых NFT](https://incrypted.com/why-standardization-of-gaming-nfts-is-needed/)
 
 #### DeFi
-* [DeFi: их типы, плюсы и минусы](https://incrypted.com/types-of-defi-their-pros-and-cons-1inch/)
-* [Топ-5 самых распространенных ошибок пользователей в DeFi от 1inch](https://incrypted.com/top-five-mistakes-users-in-defy-by-1inch/)
+* [DeFi: их типы, плюсы и минусы](https://incrypted.com/types-of-defi-their-pros-and-cons-1inch/) ✅
+* [Топ-5 самых распространенных ошибок пользователей в DeFi от 1inch](https://incrypted.com/top-five-mistakes-users-in-defy-by-1inch/) ✅
 
 #### ПростоКрипта
 * [Что такое Web 3.0?](https://incrypted.com/what-is-web-3-0-simple-crypto-by-incrypted/)
