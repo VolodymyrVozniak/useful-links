@@ -300,6 +300,7 @@
 * [Лучшая доходность на медвежьем рынке](https://2top.notion.site/c30e7086bed64f1c8ddf4c2f4dcbbd7a)
 * [Токен Metamask](https://hurricane-addition-804.notion.site/Metamask-036098e7b150401aab4aa59aa7431aae)
 * [Как пережить медвежий рынок криптовалют](https://2top.notion.site/2a6edcf298c14e47a1f7a7bbc4b4ddc3)
+* [6 простых приемов, чтобы избежать скама в NFТ](https://2top.notion.site/6-NF-ad2d67eb5d9349bfbbbe42e3204ab584)
 
 </br>
 
