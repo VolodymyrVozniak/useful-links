@@ -108,6 +108,10 @@
 ### Incrypted
 
 #### Переклади статей
+* [NFT-Библия (перевод статьи OpenSea)](https://incrypted.com/nft-bibliya-opensea-perevod/)
+* [Пампим железо — адаптированный перевод статьи Артура Хейза](https://incrypted.com/pumping-iron-arthur-hayes-russian/)
+* [Как пережить криптозиму. Paradigm](https://incrypted.com/how-to-survive-a-crypto-cycle/)
+* [“Меня всего трясет!” Эссе Артура Хейса](https://incrypted.com/arthur-hayes-essays/)
 * [«Пятизначный ценник за ETH» — новое эссе Артура Хейса](https://incrypted.com/five-ducking-digits-arthur-hayes/) ✅
 * [«Ловушка теханализа». Перевод статьи Артура Хейса “The Q-Trap”](https://incrypted.com/the-q-trap-arthur-hayes/)
 * [«Роковая петля» — новое эссе Артура Хейса](https://incrypted.com/the-fatal-loop-arthur-hayes/)
@@ -119,18 +123,26 @@
 * [Адаптируйся, чтобы выжить — отчет Sequoia Capital](https://incrypted.com/sequoia-adapting-to-endure-report-2022/) ✅
 
 #### Вижимка із стрімів
+* [Выжимка стрима с Антоном из DoubleTopTraders — F.A.Q по трейдингу](https://incrypted.com/summary-faq-trading-1/)
+* [Выжимка стрима «Фарминг в альтернативных сетях (AVALANCHE, MATIC, FANTOM)»](https://incrypted.com/summary-farming-pityok/)
+* [Crypto Gaming Summer. Как заработать играючи? Всё, что вам нужно знать про Play to Earn — Текстовая Выжимка Стрима](https://incrypted.com/stream-crypto-gaming-summer/)
+* [Выжимка стрима «Заставь свою крипту работать!»](https://incrypted.com/stream-text-how-make-your-crypto-work/)
+* [Выжимка стрима «Как выбирать IDO для жирных иксов» c IDO Research](https://incrypted.com/everything-about-launchpads-with-ido-research-and-moni/)
+* [Выжимка стрима «Как зарабатывать на DAO?» В гостях Zero с канала notothemoon](https://incrypted.com/how-to-make-money-with-dao/)
+* [Выжимка стрима из Instagram «Что делать новичку на Binance?» c Ваней из Binance Ukraine](https://incrypted.com/how-to-start-with-binance-ukraine-stream-instagram/)
+* [Выжимка стрима «Как создать крипто-стартап» c Романом Сайдулиным](https://incrypted.com/how-to-make-crypto-startup-stream-text/)
+* [Выжимка стрима «The Future of ETHEREUM is NEAR? Строим мосты с CEO Aurora Алексом Шевченко»](https://incrypted.com/incrypted-stream-ceo-auroralabs-text-version/)
+* [Выжимка стрима «Как не утонуть в GameFi» с IDO Research](https://incrypted.com/incrypted-stream-ido-research-text-version/)
+* [Что делать сейчас в крипте? Стрим с Hexdrunker из DOUBLE TOP](https://incrypted.com/stream-what-do-now-in-crypto/) ✅
 * [Move-2-Earn: получится ли полноценный тренд](https://incrypted.com/stream-move-to-earn-summary/) ✅
 * [Что такое ноды и тестнеты? Полезности от Nodes.Guru](https://incrypted.com/stream-nodes-and-testnets-summary/) ✅
 * [Разбираем тренд Move-2-Earn с создателем SweatCoin](https://incrypted.com/stream-sweatcoin-move-2-earn-summary/) ✅
 
-#### Інше
-* [Під час роботи над біткоїном Сатоші Накамото жив у Лондоні?](https://incrypted.com/satoshi-nakamoto-lived-in-london-while-working-on-bitcoin/)
-* [Есть ли инсайдерская торговля при листингах на Binance и Coinbase?](https://incrypted.com/investigation-insider-trading-on-listings/)
-* [Интернет вещей (IoT). 8 ключевых принципов](https://incrypted.com/what-is-iot/)
-* [Что ждёт GameFi на медвежке и после. Рекомендации и размышления](https://incrypted.com/gamefi-on-bear-market-recommendations/)
-* [Пицца за 10 000 BTC. Рассказываем историю Bitcoin Pizza Day](https://incrypted.com/bitcoin-pizza-day/) ✅
-
 #### Обзори проєктів
+* [Полная инструкция по Metamask](https://incrypted.com/metamask-manual/)
+* [Детальный обзор проекта delta.theta](https://incrypted.com/deltatheta-review/)
+* [1INCH: полная инструкция](https://incrypted.com/1inch-full-manual-text-version/)
+* [DAO Maker: обзор, полная инструкция по Public SHO](https://incrypted.com/dao-maker-and-participation-in-public-sho/)
 * [NFT-гра Alien Worlds](https://incrypted.com/alien-worlds-obzor/)
 * [Разбираемся как устроен SweatCoin](https://incrypted.com/obzor-sweatcoin/) ✅
 * [Обзор Parallel Heiko. Где стейкать DOT и KSM?](https://incrypted.com/overview-parallel-finance/)
@@ -139,36 +151,119 @@
 #### Обзори ринку
 * [Обзор крипторынка за первый квартал 2022: падение капитализации и объемов торгов](https://info.exmo.com/ru/obzor-rynka-kriptovalyut/za-pervyj-kvartal-2022-padenie-kapitalizacii-i-obemov-torgov/)
 
+#### Кріптани
+* [Джеймc Даймон](https://incrypted.com/on-vam-ne-dimon/)
+* [Forbes: CEO FTX о своем мировоззрении](https://incrypted.com/sam-bankman-fried-forbes/)
+* [История Гэвина Вуда — основателя Polkadot, Kusama и Ethereum](https://incrypted.com/gavin-wood/)
+* [Андре Кронье — Человек изменивший DeFi](https://incrypted.com/andre-cronje-the-man-who-changed-defi/)
+* [Артур Хейc (ex. CEO Bitmex) — от повелителя ликвидаций до криптофилософа](https://incrypted.com/arthur-hayes-founder-bitmex/)
+* [Виталик Бутерин — основатель Ethereum, миллиардер и филантроп](https://incrypted.com/vitalik-buterin-founder-of-ethereum/)
+* [CZ Binance: путь Чанпэн Чжао от Mcdonald’s до самого богатого человека Китая](https://incrypted.com/cz-binance-story-of-china-richest-man/)
+
 #### Токеноміка
 * [Что такое токеномика: основы анализа криптовалют](https://incrypted.com/tokenomics-guide-101/)
 * [Токеномика: эмиссия, вестинг, капитализация](https://incrypted.com/tokenomics-guide-102/)
 * [Токеномика: оценка полезности (utility) токена](https://incrypted.com/tokenomics-guide-103/)
 * [Как выпустить свой токен: тактика, советы, примеры](https://incrypted.com/tocenomics-guide-104/)
 
+#### Трейдинг
+* [Когда лучше всего торговать криптовалютой?](https://incrypted.com/best-time-trading-crypto/)
+* [Что такое ликвидация в трейдинге? Как ее избежать?](https://incrypted.com/what-is-liquidation-and-how-can-it-be-avoided/)
+* [Что такое Индекс страха и жадности в трейдинге?](https://incrypted.com/crypto-fear-and-greed-index-explaination/)
+* [Методичка по стратегии Smart Money](https://incrypted.com/smart-money-concept-obzor/)
+
+#### Інструменти кріптана
+* [Инструменты для криптана. Часть 1](https://incrypted.com/crypto-tools-part-1/)
+
+#### Токенсейли
+* [Токенсейлы (Часть 1): ICO и IEO устарели](https://incrypted.com/tokensales-explained-part1-ico-ieo-dead/)
+* [Токенсейлы (Часть 2): DYCO — Dynamic Coin Offering](https://incrypted.com/tokensales-explained-part2-dyco/)
+
+#### Stock2Flow
+* [Что такое модель Stock to Flow (S2F) биткоина](https://incrypted.com/stock-to-flow-s2f-in-bitcoin/)
+* [Модель «Stock to Flow» не работает?](https://incrypted.com/stock-to-flow-ne-rabotaet/)
+* [Что такое модель биткоина Stock-to-Flow?](https://incrypted.com/what-is-stock-to-flow-btc-or-100k-in-december-2021/)
+
+#### Оцінка проєктів
+* [Как оценивать проекты?](https://incrypted.com/how-to-evaluate-projects/)
+* [ScamBusters. По каким критериям отбирать мем-токены чтобы не ректануться?](https://incrypted.com/scambusters/)
+
+#### NFT
+* [Как создать NFT? Пошаговая инструкция](https://incrypted.com/kak-sozdat-i-prodat-nft/)
+* [Где продавать и покупать NFT: топ-13 проверенных NFT маркетплейсов](https://incrypted.com/where-to-sell-nft-list-marketplace/)
+* [Зачем нужна стандартизация игровых NFT](https://incrypted.com/why-standardization-of-gaming-nfts-is-needed/)
+
+#### GameFi
+* [DeFi: их типы, плюсы и минусы](https://incrypted.com/types-of-defi-their-pros-and-cons-1inch/)
+* [Топ-5 самых распространенных ошибок пользователей в DeFi от 1inch](https://incrypted.com/top-five-mistakes-users-in-defy-by-1inch/)
+* [Что ждёт GameFi на медвежке и после. Рекомендации и размышления](https://incrypted.com/gamefi-on-bear-market-recommendations/)
+
+#### ПростоКрипта
+* [Что такое Web 3.0?](https://incrypted.com/what-is-web-3-0-simple-crypto-by-incrypted/)
+* [Что такое Polkadot?](https://incrypted.com/what-is-polkadot-simple-crypto-by-incrypted/)
+* [Что такое DAO?](https://incrypted.com/what-is-dao-simple-crypto/)
+* [Что такое NFT?](https://incrypted.com/what-is-nft-simple-crypto/)
+* [Что такое Matevarse?](https://incrypted.com/what-is-metaverse-simple-crypto-by-incrypted/)
+
 #### Стандарти токенів
-* [Що потрібно знати про EIP-1559](https://incrypted.com/what-is-eip-1559/)
+* [Все, что вам нужно знать о EIP-1559](https://incrypted.com/what-is-eip-1559/)
 * [Разбираем ERC-20 токены по косточкам](https://incrypted.com/what-is-erc-20-guide/)
 * [Что такое ERC-4626 и зачем они нужны в DeFi](https://incrypted.com/what-is-erc-4626/)
 * [Токены ERC-721R: очередной хайп или конец эпохи рагпулов?](https://incrypted.com/what-is-erc-721r/)
 
+#### Корисні ресурси
+* [Топ 5 книг про инвестирование от Yahoo Finance](https://incrypted.com/top-5-books-about-investing-from-yahoo-finance/)
+* [Что посмотреть/почитать/поизучать на карантине](https://incrypted.com/what-to-learn-in-quarantine/)
+* [30+ лучших YouTube каналов о криптовалюте, блокчейне и трейдинге](https://incrypted.com/top-5-youtube-channels-about-cryptocurrency/)
+* [Список лучших AirDrop сайтов, раздающих криптовалюты](https://incrypted.com/how-to-earn-10-in-band-on-coinmarketcap-earn/)
+
 #### Корисна Інфа
-* [Про використання шардінгу](https://incrypted.com/sharding/)
-* [Історія розвитку деривативів](https://incrypted.com/history-bitcoin-derivative/)
-* [Гайд по заповненню WhiteList](https://incrypted.com/whitelist-instruction/)
-* [Еволюція моделей розприділення токенів](https://incrypted.com/the-evolution-of-token-distribution-models/)
-* [Про Lightning Network](https://incrypted.com/lightning-network-how-it-works/)
-* [Про DAO](https://incrypted.com/what-should-know-about-dao/)
-* [DeFi: типи, плюси, мінуси](https://incrypted.com/types-of-defi-their-pros-and-cons-1inch/)
-* [Рух ціни токена. Причини пампів/дампів](https://incrypted.com/token-price-movement/)
-* [Про мультиакаунти](https://incrypted.com/multi-accounts-how-to-create-and-use/)
-* [Чому біржі делістять монети?](https://incrypted.com/why-exchanges-delisting-altcoins/)
-* [Що таке інфляція?](https://incrypted.com/inflation-explained/)
-* [Звідки ікси після Public Sale і як працює ліквідність?](https://incrypted.com/how-liquidity-works/)
-* [Як оцінювати проєкти?](https://incrypted.com/how-to-evaluate-projects/)
-* [Зачем нужна стандартизация игровых NFT](https://incrypted.com/why-standardization-of-gaming-nfts-is-needed/)
+* [Использование шардинга для масштабируемости блокчейна](https://incrypted.com/sharding/)
+* [Халвинг](https://incrypted.com/halving-in-5-minutes/)
+* [Цикличность крипто индустрии (исследование)](https://incrypted.com/crypto-cycles-andreessen-horowitz-research/)
+* [Топ-5 возможностей заработать на бирже кроме трейдинга](https://incrypted.com/top-5-earn-crypto-exchange-listing-help/)
+* [Что такое инфляция?](https://incrypted.com/inflation-explained/)
+* [Что такое Bitcoin-ETF? (Хронология событий)](https://incrypted.com/bitcoin-etf/)
+* [Движение цены токена. Разбираем причины пампов/дампов](https://incrypted.com/token-price-movement/)
+* [Лайфхак-гайд как быстро слить токены с IDO на Uniswap/Pancake по самой высокой цене](https://incrypted.com/how-to-sell-tokens-quickly-with-ido/)
+* [Откуда появляются иксы после Public Sale и как работает ликвидность?](https://incrypted.com/how-liquidity-works/)
+* [Интернет-экономики: Руководство по токенам](https://incrypted.com/tokens-distinctions-difference/)
+* [Что по DAO?](https://incrypted.com/what-should-know-about-dao/)
+* [Разбираем Lightning Network](https://incrypted.com/lightning-network-how-it-works/)
+* [Альманах криптоинвестора: мультиаккаунты](https://incrypted.com/multi-accounts-how-to-create-and-use/)
+* [Что такое FOMO и как с ним бороться?](https://incrypted.com/what-is-fomo-how-to-deal-with-it/)
+* [Что такое доминация биткоина?](https://incrypted.com/what-is-bitcoin-dominance/)
+* [7 надежных кошельков для криптовалюты](https://incrypted.com/top-7-hard-wallets-for-cryptocurrency/)
+* [Doge, Shiba Inu, Floki: что такое мем-криптовалюты и чем опасны?](https://incrypted.com/why-are-meme-cryptocurrencies-dangerous/)
+* [Краудфандинг: топ 8 IDO платформ](https://incrypted.com/crowdfunding-top-ido-platforms/)
+* [DEX vs CEX: преимущества и недостатки](https://incrypted.com/stream-dex-cex-peanut-summary/)
+* [Что такое HODL? Мем или стратегия?](https://incrypted.com/what-is-hodl/)
+* [Как создать криптовалюту: пошаговая инструкция](https://incrypted.com/how-to-create-token-bep-20/)
 * [Как изменение процентной ставки ФРС влияет на рынок криптовалют](https://incrypted.com/how-fed-rate-affect-cryptocurrency/)
-* [Полная инструкция по переводам с Metamask на Binance](https://incrypted.com/use-metamask-for-binance-smart-chain/)
-* [Методичка по стратегии Smart Money](https://incrypted.com/smart-money-concept-obzor/)
+
+#### Локальне
+* [7 крипто-трендов, которые изменят мир в 2022 году](https://incrypted.com/7-crypto-trends-that-will-change-the-world-2022/)
+* [Как заработать на криптовалютах в 2022: 10 способов](https://incrypted.com/ten-ways-to-make-money-on-crypto-2022/)
+* [Play-to-Earn (P2E) игры на которые стоит обратить внимание в 2022](https://incrypted.com/best-projects-play-to-earn-p2e-games/)
+
+#### Інше
+* [Почему биржи делистят чеканные монеты](https://incrypted.com/why-exchanges-delisting-altcoins/)
+* [Топ-10 самых богатых людей в крипто-индустрии](https://incrypted.com/top-10-bitcoin-rick/)
+* [История развития деривативов на биткоин](https://incrypted.com/history-bitcoin-derivative/)
+* [Во время работы над Биткоином Сатоши Накамото жил в Лондоне?](https://incrypted.com/satoshi-nakamoto-lived-in-london-while-working-on-bitcoin/)
+* [Эволюция моделей распределения токенов](https://incrypted.com/the-evolution-of-token-distribution-models/)
+* [Майнинг биткоина экологичнее, чем вы думаете](https://incrypted.com/bitcoin-green-vs-gold-banking/)
+* [Что стоит за ценностью и ценой биткоина?](https://incrypted.com/why-do-bitcoins-have-value/)
+* [Гайд по заполнению Whitelist](https://incrypted.com/whitelist-instruction/)
+* [Гайд для понимания ETH как инвестиции](https://incrypted.com/eth-as-investments-guide/)
+* [Metaverse или метавселенная: что это такое и заменит ли привычный интернет?](https://incrypted.com/what-is-metaverse-and-future-of-internet-web-3-0/)
+* [7 юных гениев, которые заработали на NFT и блокчейне](https://incrypted.com/7-young-geniuses-who-made-money-nft-blockchain/)
+* [ТОП 5 компаний, инвестирующих в биткоин: инфографика](https://incrypted.com/top-5-companies-who-hold-bitcoin/)
+* [Криптовалюты — это не всегда скам: мировая история мошенничества](https://incrypted.com/crypto-not-scam-history-of-fraud/)
+* [Как сохранить деньги?](https://incrypted.com/how-to-save-money/)
+* [Есть ли инсайдерская торговля при листингах на Binance и Coinbase?](https://incrypted.com/investigation-insider-trading-on-listings/)
+* [Интернет вещей (IoT). 8 ключевых принципов](https://incrypted.com/what-is-iot/)
+* [Пицца за 10 000 BTC. Рассказываем историю Bitcoin Pizza Day](https://incrypted.com/bitcoin-pizza-day/) ✅
 * [Токен Metamask будет историческим](https://incrypted.com/token-metamask-the-end-game) ✅
 
 ### Double Top
