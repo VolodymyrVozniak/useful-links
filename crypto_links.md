@@ -200,10 +200,9 @@
 * [Где продавать и покупать NFT: топ-13 проверенных NFT маркетплейсов](https://incrypted.com/where-to-sell-nft-list-marketplace/)
 * [Зачем нужна стандартизация игровых NFT](https://incrypted.com/why-standardization-of-gaming-nfts-is-needed/)
 
-#### GameFi
+#### DeFi
 * [DeFi: их типы, плюсы и минусы](https://incrypted.com/types-of-defi-their-pros-and-cons-1inch/)
 * [Топ-5 самых распространенных ошибок пользователей в DeFi от 1inch](https://incrypted.com/top-five-mistakes-users-in-defy-by-1inch/)
-* [Что ждёт GameFi на медвежке и после. Рекомендации и размышления](https://incrypted.com/gamefi-on-bear-market-recommendations/)
 
 #### ПростоКрипта
 * [Что такое Web 3.0?](https://incrypted.com/what-is-web-3-0-simple-crypto-by-incrypted/)
@@ -258,6 +257,7 @@
 * [7 крипто-трендов, которые изменят мир в 2022 году](https://incrypted.com/7-crypto-trends-that-will-change-the-world-2022/)
 * [Как заработать на криптовалютах в 2022: 10 способов](https://incrypted.com/ten-ways-to-make-money-on-crypto-2022/)
 * [Play-to-Earn (P2E) игры на которые стоит обратить внимание в 2022](https://incrypted.com/best-projects-play-to-earn-p2e-games/)
+* [Что ждёт GameFi на медвежке и после. Рекомендации и размышления](https://incrypted.com/gamefi-on-bear-market-recommendations/)
 
 #### Інше
 * [Почему биржи делистят чеканные монеты](https://incrypted.com/why-exchanges-delisting-altcoins/)
