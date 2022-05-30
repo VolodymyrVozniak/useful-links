@@ -142,9 +142,9 @@
 * [Разбираем тренд Move-2-Earn с создателем SweatCoin](https://incrypted.com/stream-sweatcoin-move-2-earn-summary/) ✅
 
 #### Обзори проєктів
-* [Полная инструкция по Metamask](https://incrypted.com/metamask-manual/)
+* [Полная инструкция по Metamask](https://incrypted.com/metamask-manual/) ✅
 * [Детальный обзор проекта delta.theta](https://incrypted.com/deltatheta-review/)
-* [1INCH: полная инструкция](https://incrypted.com/1inch-full-manual-text-version/)
+* [1INCH: полная инструкция](https://incrypted.com/1inch-full-manual-text-version/) ✅
 * [DAO Maker: обзор, полная инструкция по Public SHO](https://incrypted.com/dao-maker-and-participation-in-public-sho/)
 * [NFT-гра Alien Worlds](https://incrypted.com/alien-worlds-obzor/)
 * [Разбираемся как устроен SweatCoin](https://incrypted.com/obzor-sweatcoin/) ✅
@@ -247,7 +247,7 @@
 * [Что такое FOMO и как с ним бороться?](https://incrypted.com/what-is-fomo-how-to-deal-with-it/)
 * [Что такое доминация биткоина?](https://incrypted.com/what-is-bitcoin-dominance/)
 * [7 надежных кошельков для криптовалюты](https://incrypted.com/top-7-hard-wallets-for-cryptocurrency/)
-* [Doge, Shiba Inu, Floki: что такое мем-криптовалюты и чем опасны?](https://incrypted.com/why-are-meme-cryptocurrencies-dangerous/)
+* [Doge, Shiba Inu, Floki: что такое мем-криптовалюты и чем опасны?](https://incrypted.com/why-are-meme-cryptocurrencies-dangerous/) ✅
 * [Краудфандинг: топ 8 IDO платформ](https://incrypted.com/crowdfunding-top-ido-platforms/)
 * [DEX vs CEX: преимущества и недостатки](https://incrypted.com/stream-dex-cex-peanut-summary/)
 * [Что такое HODL? Мем или стратегия?](https://incrypted.com/what-is-hodl/)
