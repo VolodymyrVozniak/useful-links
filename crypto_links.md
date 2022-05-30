@@ -105,6 +105,8 @@
 * [Як проводити DYOR](https://incrypted.com/do-your-own-research/)
 * [Як ровзодять скамери](https://incrypted.com/how-they-steal-your-funds/)
 
+</br>
+
 ### Incrypted
 
 #### Переклади статей
@@ -266,6 +268,8 @@
 * [Пицца за 10 000 BTC. Рассказываем историю Bitcoin Pizza Day](https://incrypted.com/bitcoin-pizza-day/) ✅
 * [Токен Metamask будет историческим](https://incrypted.com/token-metamask-the-end-game) ✅
 
+</br>
+
 ### Double Top
 * [Токеноміка та Теорія ігор](https://teletype.in/@good_mood/tokenomika)
 * [Найкращі аналітичні інструменти](https://teletype.in/@markusrichardofficial/analyticaltools)
@@ -286,6 +290,8 @@
 * [Токен Metamask](https://hurricane-addition-804.notion.site/Metamask-036098e7b150401aab4aa59aa7431aae)
 * [Как пережить медвежий рынок криптовалют](https://2top.notion.site/2a6edcf298c14e47a1f7a7bbc4b4ddc3)
 
+</br>
+
 ### Crypto in Different Countries
 * [Crypto in Portugal](https://telegra.ph/Nalogooblozhenie-v-Portugalii-04-12)
 * [Crypto in Estonia](https://teletype.in/@t0zem00n/estonia)
@@ -294,6 +300,8 @@
 * [Crypto in Germany](https://teletype.in/@t0zem00n/germany)
 * [Crypto in Ireland](https://teletype.in/@t0zem00n/ireland)
 * [Crypto in Finland](https://teletype.in/@t0zem00n/finland)
+
+</br>
 
 ### Articles from Top
 * [In Defense of Bitcoin Maximalism. Buterin](https://vitalik.ca/general/2022/04/01/maximalist.html)
