@@ -62,17 +62,16 @@
 ### The Wolf of Your Street
 
 #### Інфо
-* [Social Media](https://incrypted.com/social-media/)
-* [Література](https://incrypted.com/books/)
-* [Вайкофф](https://telegra.ph/Vajkoff-06-23)
+* [Social Media](https://incrypted.com/social-media/) ✅
+* [Література](https://incrypted.com/books/) ✅
 
 #### Біржі
-* [Що таке біржа?](https://incrypted.com/what-is-an-exchange/)
-* [Що потрібно для KYC?](https://incrypted.com/know-your-customer-how-to/)
-* [Покупка крипти картою](https://incrypted.com/pay-by-card/)
+* [Що таке біржа?](https://incrypted.com/what-is-an-exchange/) ✅
+* [Що потрібно для KYC?](https://incrypted.com/know-your-customer-how-to/) ✅
+* [Покупка крипти картою](https://incrypted.com/pay-by-card/) ✅
 
 #### Блокчейн
-* [Блокчейн рісьорчери](https://incrypted.com/blockchain-explorers-how-to-use/)
+* [Блокчейн рісьорчери](https://incrypted.com/blockchain-explorers-how-to-use/) ✅
 * [Блокчейн-мережі](https://incrypted.com/blockchain-networks/) ✅
 * [Мости](https://incrypted.com/bridges/) ✅
 
@@ -82,10 +81,6 @@
 
 #### Інструментарій
 * [Інструменти криптана](https://incrypted.com/useful-crypto-tools/)
-* [Smart Money](https://incrypted.com/smart-money/)
-
-#### Трейдинг
-* [10 кроків успішного трейдера](https://incrypted.com/10-steps-of-successful-crypto-trader/)
 
 #### Смарт-контракти
 * [Смарт-контракти](https://incrypted.com/smart-contracts-what-is-it/)
@@ -104,6 +99,11 @@
 * [Психологія](https://incrypted.com/psychology-market-and-investors/)
 * [Як проводити DYOR](https://incrypted.com/do-your-own-research/)
 * [Як ровзодять скамери](https://incrypted.com/how-they-steal-your-funds/) ✅
+
+#### Трейдинг
+* [10 кроків успішного трейдера](https://incrypted.com/10-steps-of-successful-crypto-trader/)
+* [Smart Money](https://incrypted.com/smart-money/)
+* [Вайкофф](https://telegra.ph/Vajkoff-06-23)
 
 </br>
 
