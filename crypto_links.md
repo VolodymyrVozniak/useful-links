@@ -71,7 +71,7 @@
 * [Покупка крипти картою](https://incrypted.com/pay-by-card/) ✅
 
 #### Блокчейн
-* [Блокчейн рісьорчери](https://incrypted.com/blockchain-explorers-how-to-use/) ✅
+* [Блокчейн explorers](https://incrypted.com/blockchain-explorers-how-to-use/) ✅
 * [Блокчейн-мережі](https://incrypted.com/blockchain-networks/) ✅
 * [Мости](https://incrypted.com/bridges/) ✅
 
