@@ -272,7 +272,7 @@
 * [Metaverse или метавселенная: что это такое и заменит ли привычный интернет?](https://incrypted.com/what-is-metaverse-and-future-of-internet-web-3-0/)
 * [7 юных гениев, которые заработали на NFT и блокчейне](https://incrypted.com/7-young-geniuses-who-made-money-nft-blockchain/)
 * [ТОП 5 компаний, инвестирующих в биткоин: инфографика](https://incrypted.com/top-5-companies-who-hold-bitcoin/)
-* [Криптовалюты — это не всегда скам: мировая история мошенничества](https://incrypted.com/crypto-not-scam-history-of-fraud/)
+* [Криптовалюты — это не всегда скам: мировая история мошенничества](https://incrypted.com/crypto-not-scam-history-of-fraud/) ✅
 * [Как сохранить деньги?](https://incrypted.com/how-to-save-money/)
 * [Есть ли инсайдерская торговля при листингах на Binance и Coinbase?](https://incrypted.com/investigation-insider-trading-on-listings/)
 * [Интернет вещей (IoT). 8 ключевых принципов](https://incrypted.com/what-is-iot/)
