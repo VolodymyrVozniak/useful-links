@@ -337,6 +337,7 @@
 ### Other
 * [IDO Research](https://teletype.in/@idoresearch)
 * [Crypto Romb](https://teletype.in/@cryptoromb)
+* [the VSЁ](https://teletype.in/@ktmudak)
 
 </br>
 
