@@ -288,6 +288,7 @@
 * [Vowpal Wabbit](https://vowpalwabbit.org/)
 * [DevReminder](https://pypi.org/project/devreminder/)
 * [LibMTL](https://libmtl.readthedocs.io/en/latest/)
+* [datawig](https://github.com/awslabs/datawig)
 
 ## Useful Scripts
 * [Switch cuda](https://github.com/phohenecker/switch-cuda)
