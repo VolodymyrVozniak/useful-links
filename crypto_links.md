@@ -74,7 +74,7 @@
 #### Блокчейн
 * [Блокчейн рісьорчери](https://incrypted.com/blockchain-explorers-how-to-use/)
 * [Блокчейн-мережі](https://incrypted.com/blockchain-networks/) ✅
-* [Мости](https://incrypted.com/bridges/)
+* [Мости](https://incrypted.com/bridges/) ✅
 
 #### Гаманці
 * [Мобільні криптогаманці](https://incrypted.com/mobile-cryptocurrency-wallets/)
@@ -103,7 +103,7 @@
 #### Психологія
 * [Психологія](https://incrypted.com/psychology-market-and-investors/)
 * [Як проводити DYOR](https://incrypted.com/do-your-own-research/)
-* [Як ровзодять скамери](https://incrypted.com/how-they-steal-your-funds/)
+* [Як ровзодять скамери](https://incrypted.com/how-they-steal-your-funds/) ✅
 
 </br>
 
@@ -278,6 +278,7 @@
 * [Интернет вещей (IoT). 8 ключевых принципов](https://incrypted.com/what-is-iot/)
 * [Пицца за 10 000 BTC. Рассказываем историю Bitcoin Pizza Day](https://incrypted.com/bitcoin-pizza-day/) ✅
 * [Токен Metamask будет историческим](https://incrypted.com/token-metamask-the-end-game) ✅
+* [Ончейн анализ от Nansen: разрушаем миф о депеге TerraUSD](https://incrypted.com/on-chain-forensics-demystifying-terrausd-de-peg/)
 
 </br>
 
