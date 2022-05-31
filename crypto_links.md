@@ -360,13 +360,18 @@
 </br>
 
 ## Services
+* [ICO Drops](https://icodrops.com/)
+* [DropsEarn](https://dropsearn.com/)
+* [Vastlab](https://vestlab.io/)
+* [Chainlist](https://chainlist.org/)
+* [Blockchains comparison](https://blockchain-comparison.com/)
 * [Індекс страху](https://alternative.me/crypto/fear-and-greed-index/)
+
+
 * [CryptoRank](https://cryptorank.io/)
 * [Staking Rewards](https://www.stakingrewards.com/)
 * [Look into Bitcoin](https://www.lookintobitcoin.com/)
-* [Лістинг токенів](https://vestlab.io/)
 * [Зручні графіки](https://ru.tradingview.com/)
-* [Добавити мережу в MetaMask](https://chainlist.org/)
 * [Вигідний стейкінг стейблів](https://stargate.finance/)
 * [Генератор гаманців та приватних ключів](https://cointool.app/createWallet)
 * [Ethereum Gas Prices](https://chrome.google.com/webstore/detail/ethereum-gas-prices/njbclohenpagagafbmdipcdoogfpnfhp)
@@ -375,9 +380,8 @@
 * [Історія взломів](https://rekt.news/ru/)
 * [Крипто органайзер Zerion](https://zerion.io/)
 * [Адрес у різних мережах](https://blockscan.com/)
-* [Blockchains comparison](https://blockchain-comparison.com/)
 * [Переклади статтей](https://blog.bitmex.com/?lang=ru_ru)
-* [DropsEarn](https://dropsearn.com/)
+
 
 </br>
 
