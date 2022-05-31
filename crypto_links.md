@@ -360,14 +360,17 @@
 </br>
 
 ## Services
+
+### Main
 * [ICO Drops](https://icodrops.com/)
 * [DropsEarn](https://dropsearn.com/)
 * [Vastlab](https://vestlab.io/)
+* [Nodes Guru](https://nodes.guru/)
 * [Chainlist](https://chainlist.org/)
 * [Blockchains comparison](https://blockchain-comparison.com/)
 * [Індекс страху](https://alternative.me/crypto/fear-and-greed-index/)
 
-
+### Other
 * [CryptoRank](https://cryptorank.io/)
 * [Staking Rewards](https://www.stakingrewards.com/)
 * [Look into Bitcoin](https://www.lookintobitcoin.com/)
@@ -381,7 +384,6 @@
 * [Крипто органайзер Zerion](https://zerion.io/)
 * [Адрес у різних мережах](https://blockscan.com/)
 * [Переклади статтей](https://blog.bitmex.com/?lang=ru_ru)
-
 
 </br>
 
