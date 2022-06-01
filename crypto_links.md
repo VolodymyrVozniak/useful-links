@@ -390,6 +390,9 @@
 * [CryptoPanic](https://cryptopanic.com/)
 * [Rekt](https://rekt.news/ru/)
 
+## Боти
+* [EtherDROPS_bot](https://t.me/EtherDROPS_bot) --- Бот для трекінгу транзакцій, монет і тд
+
 ## Індекси
 * [Індекс альтсезону](https://www.blockchaincenter.net/altcoin-season-index/)
 * [Індекс страху](https://alternative.me/crypto/fear-and-greed-index/)
