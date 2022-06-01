@@ -22,7 +22,7 @@
 </br>
 
 
-## Telegram Channels
+# Telegram Channels
 * [DOUBLE TOP](https://t.me/doubletop)
 * [Incrypted](https://t.me/incrypted)
 * [The Wolf Of Your Street](https://t.me/TheWolfOfYourStreet)
@@ -30,7 +30,7 @@
 
 </br>
 
-## YouTube Channels
+# YouTube Channels
 * [DOUBLE TOP](https://www.youtube.com/c/DOUBLETOP_IO)
 * [Incrypted](https://www.youtube.com/c/Incryptednet)
 * [Altcoinlog Media](https://www.youtube.com/channel/UCwidv9P4smbtAP_otIFYmKg)
@@ -40,54 +40,54 @@
 
 </br>
 
-## Courses
+# Courses
 
-### Coursera
+## Coursera
 * [Blockchain Specialization](https://www.coursera.org/specializations/blockchain)
 * [Decentralized Finance (DeFi): The Future of Finance Specialization](https://www.coursera.org/specializations/decentralized-finance-duke)
 * [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 
-### Other
+## Other
 * [Про Біткоїн](https://alexsattva.notion.site/742d0c23a2924e83822125819de5c645)
 
 </br>
 
-## Videos
+# Videos
 * [Як влаштований Bitcoin](https://www.youtube.com/watch?v=Juv9v8wWa0I)
 
 </br>
 
-## Articles
+# Articles
 
-### The Wolf of Your Street
+## The Wolf of Your Street
 
-#### Інфо
+### Інфо
 * [Social Media](https://incrypted.com/social-media/) ✅
 * [Література](https://incrypted.com/books/) ✅
 
-#### Біржі
+### Біржі
 * [Що таке біржа?](https://incrypted.com/what-is-an-exchange/) ✅
 * [Що потрібно для KYC?](https://incrypted.com/know-your-customer-how-to/) ✅
 * [Покупка крипти картою](https://incrypted.com/pay-by-card/) ✅
 
-#### Блокчейн
+### Блокчейн
 * [Блокчейн explorers](https://incrypted.com/blockchain-explorers-how-to-use/) ✅
 * [Блокчейн-мережі](https://incrypted.com/blockchain-networks/) ✅
 * [Мости](https://incrypted.com/bridges/) ✅
 
-#### Гаманці
+### Гаманці
 * [Мобільні криптогаманці](https://incrypted.com/mobile-cryptocurrency-wallets/)
 * [Апаратні криптогаманці](https://incrypted.com/hardware-cryptocurrency-wallets/)
 
-#### Інструментарій
+### Інструментарій
 * [Інструменти криптана](https://incrypted.com/useful-crypto-tools/)
 
-#### Смарт-контракти
+### Смарт-контракти
 * [Смарт-контракти](https://incrypted.com/smart-contracts-what-is-it/)
 * [Апрув токена через контракт](https://incrypted.com/fast-approve/)
 * [Як запушити й відмінити транзакцію](https://incrypted.com/how-to-push-or-cancel-transaction/)
 
-#### Види заробітку
+### Види заробітку
 * [Амбасадор програми](https://incrypted.com/crypto-ambassador-programs/)
 * [Про трейдинг](https://incrypted.com/what-about-trading/)
 * [Венчурні інвестиції](https://incrypted.com/venture-investments/)
@@ -96,21 +96,21 @@
 * [Про DCA](https://incrypted.com/dollar-cost-averaging/)
 * [Ноди](https://t.me/TheWolfOfYourStreet/840)
 
-#### Психологія
+### Психологія
 * [Психологія](https://incrypted.com/psychology-market-and-investors/)
 * [Як проводити DYOR](https://incrypted.com/do-your-own-research/)
 * [Як ровзодять скамери](https://incrypted.com/how-they-steal-your-funds/) ✅
 
-#### Трейдинг
+### Трейдинг
 * [10 кроків успішного трейдера](https://incrypted.com/10-steps-of-successful-crypto-trader/)
 * [Smart Money](https://incrypted.com/smart-money/)
 * [Вайкофф](https://telegra.ph/Vajkoff-06-23)
 
 </br>
 
-### Incrypted
+## Incrypted
 
-#### Переклади статей
+### Переклади статей
 * [NFT-Библия (перевод статьи OpenSea)](https://incrypted.com/nft-bibliya-opensea-perevod/)
 * [Пампим железо — адаптированный перевод статьи Артура Хейза](https://incrypted.com/pumping-iron-arthur-hayes-russian/)
 * [Как пережить криптозиму. Paradigm](https://incrypted.com/how-to-survive-a-crypto-cycle/)
@@ -121,11 +121,11 @@
 * [Андре Кронье «Взлет и падение криптокультуры»](https://incrypted.com/crypto-is-dead-long-live-crypto/)
 * [«Luna Brothers, Inc.» — новое эссе Артура Хейса](https://incrypted.com/arthur-hayes-luna-brothers-inc/)
 
-#### Звіти
+### Звіти
 * [Состояние криптоиндустрии в 2022 — отчет a16z crypto](https://incrypted.com/a16zcrypto-report-the-state-of-cryptography/)
 * [Адаптируйся, чтобы выжить — отчет Sequoia Capital](https://incrypted.com/sequoia-adapting-to-endure-report-2022/) ✅
 
-#### Вижимка із стрімів
+### Вижимка із стрімів
 * [Выжимка стрима с Антоном из DoubleTopTraders — F.A.Q по трейдингу](https://incrypted.com/summary-faq-trading-1/)
 * [Выжимка стрима с Антоном из DoubleTopTraders — Базовые инструменты трейдера](https://incrypted.com/summary-faq-trading-2/)
 * [Выжимка стрима «Фарминг в альтернативных сетях (AVALANCHE, MATIC, FANTOM)»](https://incrypted.com/summary-farming-pityok/)
@@ -142,7 +142,7 @@
 * [Что такое ноды и тестнеты? Полезности от Nodes.Guru](https://incrypted.com/stream-nodes-and-testnets-summary/) ✅
 * [Разбираем тренд Move-2-Earn с создателем SweatCoin](https://incrypted.com/stream-sweatcoin-move-2-earn-summary/) ✅
 
-#### Обзори проєктів
+### Обзори проєктів
 * [Полная инструкция по Metamask](https://incrypted.com/metamask-manual/) ✅
 * [Детальный обзор проекта delta.theta](https://incrypted.com/deltatheta-review/)
 * [1INCH: полная инструкция](https://incrypted.com/1inch-full-manual-text-version/) ✅
@@ -152,10 +152,10 @@
 * [Обзор Parallel Heiko. Где стейкать DOT и KSM?](https://incrypted.com/overview-parallel-finance/)
 * [Genopets: Что за зверь? Как играть без вложений](https://incrypted.com/genopets-review-game/)
 
-#### Обзори ринку
+### Обзори ринку
 * [Обзор крипторынка за первый квартал 2022: падение капитализации и объемов торгов](https://info.exmo.com/ru/obzor-rynka-kriptovalyut/za-pervyj-kvartal-2022-padenie-kapitalizacii-i-obemov-torgov/)
 
-#### Кріптани
+### Кріптани
 * [Джеймc Даймон](https://incrypted.com/on-vam-ne-dimon/)
 * [Forbes: CEO FTX о своем мировоззрении](https://incrypted.com/sam-bankman-fried-forbes/)
 * [История Гэвина Вуда — основателя Polkadot, Kusama и Ethereum](https://incrypted.com/gavin-wood/)
@@ -164,13 +164,13 @@
 * [Виталик Бутерин — основатель Ethereum, миллиардер и филантроп](https://incrypted.com/vitalik-buterin-founder-of-ethereum/)
 * [CZ Binance: путь Чанпэн Чжао от Mcdonald’s до самого богатого человека Китая](https://incrypted.com/cz-binance-story-of-china-richest-man/)
 
-#### Токеноміка
+### Токеноміка
 * [Что такое токеномика: основы анализа криптовалют](https://incrypted.com/tokenomics-guide-101/)
 * [Токеномика: эмиссия, вестинг, капитализация](https://incrypted.com/tokenomics-guide-102/)
 * [Токеномика: оценка полезности (utility) токена](https://incrypted.com/tokenomics-guide-103/)
 * [Как выпустить свой токен: тактика, советы, примеры](https://incrypted.com/tocenomics-guide-104/)
 
-#### Трейдинг
+### Трейдинг
 * [Базовые паттерны в трейдинге](https://incrypted.com/main-trading-patterns/)
 * [Дивергенция в трейдинге](https://incrypted.com/divergence-in-trading-tutorial/)
 * [Когда лучше всего торговать криптовалютой?](https://incrypted.com/best-time-trading-crypto/)
@@ -179,58 +179,58 @@
 * [Что такое Индекс страха и жадности в трейдинге?](https://incrypted.com/crypto-fear-and-greed-index-explaination/)
 * [Методичка по стратегии Smart Money](https://incrypted.com/smart-money-concept-obzor/)
 
-#### Інструменти кріптана
+### Інструменти кріптана
 * [Инструменты для криптана. Часть 1](https://incrypted.com/crypto-tools-part-1/)
 
-#### Токенсейли
+### Токенсейли
 * [Токенсейлы (Часть 1): ICO и IEO устарели](https://incrypted.com/tokensales-explained-part1-ico-ieo-dead/)
 * [Токенсейлы (Часть 2): DYCO — Dynamic Coin Offering](https://incrypted.com/tokensales-explained-part2-dyco/)
 
-#### Stock2Flow
+### Stock2Flow
 * [Что такое модель Stock to Flow (S2F) биткоина](https://incrypted.com/stock-to-flow-s2f-in-bitcoin/)
 * [Модель «Stock to Flow» не работает?](https://incrypted.com/stock-to-flow-ne-rabotaet/)
 * [Что такое модель биткоина Stock-to-Flow?](https://incrypted.com/what-is-stock-to-flow-btc-or-100k-in-december-2021/)
 
-#### Оцінка проєктів
+### Оцінка проєктів
 * [Как оценивать проекты?](https://incrypted.com/how-to-evaluate-projects/)
 * [ScamBusters. По каким критериям отбирать мем-токены чтобы не ректануться?](https://incrypted.com/scambusters/)
 
-#### NFT
+### NFT
 * [Как создать NFT? Пошаговая инструкция](https://incrypted.com/kak-sozdat-i-prodat-nft/)
 * [Как купить NFT на OpenSea? Инструкция](https://incrypted.com/how-to-buy-nft-opensea-manual/)
 * [Где продавать и покупать NFT: топ-13 проверенных NFT маркетплейсов](https://incrypted.com/where-to-sell-nft-list-marketplace/)
 * [Зачем нужна стандартизация игровых NFT](https://incrypted.com/why-standardization-of-gaming-nfts-is-needed/)
 
-#### DeFi
+### DeFi
 * [DeFi: их типы, плюсы и минусы](https://incrypted.com/types-of-defi-their-pros-and-cons-1inch/) ✅
 * [Топ-5 самых распространенных ошибок пользователей в DeFi от 1inch](https://incrypted.com/top-five-mistakes-users-in-defy-by-1inch/) ✅
 
-#### ПростоКрипта
+### ПростоКрипта
 * [Что такое Web 3.0?](https://incrypted.com/what-is-web-3-0-simple-crypto-by-incrypted/)
 * [Что такое Polkadot?](https://incrypted.com/what-is-polkadot-simple-crypto-by-incrypted/)
 * [Что такое DAO?](https://incrypted.com/what-is-dao-simple-crypto/)
 * [Что такое NFT?](https://incrypted.com/what-is-nft-simple-crypto/)
 * [Что такое Metaverse?](https://incrypted.com/what-is-metaverse-simple-crypto-by-incrypted/)
 
-#### Стандарти токенів
+### Стандарти токенів
 * [Все, что вам нужно знать о EIP-1559](https://incrypted.com/what-is-eip-1559/)
 * [Разбираем ERC-20 токены по косточкам](https://incrypted.com/what-is-erc-20-guide/)
 * [Что такое ERC-4626 и зачем они нужны в DeFi](https://incrypted.com/what-is-erc-4626/)
 * [Токены ERC-721R: очередной хайп или конец эпохи рагпулов?](https://incrypted.com/what-is-erc-721r/)
 
-#### Культура Блокчейна
+### Культура Блокчейна
 * [КБ #0 «Что приносит миллионы в мире нефинансового блокчейна?»](https://incrypted.com/weekly-blockchain-culture-moonbirds/)
 * [КБ #1: Кто зарабатывает на медвежьем рынке и метавселенная от NASA и Еpic](https://incrypted.com/weekly-blockchain-culture-ghost-division/)
 * [КБ #2 Рынок NFT ожил. Во что вкладываются во время кризиса?](https://incrypted.com/weekly-blockchain-culture-nft-alive-on-the-fone-fall-crypto/)
 * [КБ #3 Как сформировать успешное NFT-комьюнити?](https://incrypted.com/how-to-build-successful-nft-community/)
 
-#### Корисні ресурси
+### Корисні ресурси
 * [Топ 5 книг про инвестирование от Yahoo Finance](https://incrypted.com/top-5-books-about-investing-from-yahoo-finance/)
 * [Что посмотреть/почитать/поизучать на карантине](https://incrypted.com/what-to-learn-in-quarantine/)
 * [30+ лучших YouTube каналов о криптовалюте, блокчейне и трейдинге](https://incrypted.com/top-5-youtube-channels-about-cryptocurrency/)
 * [Список лучших AirDrop сайтов, раздающих криптовалюты](https://incrypted.com/how-to-earn-10-in-band-on-coinmarketcap-earn/)
 
-#### Корисна Інфа
+### Корисна Інфа
 * [Использование шардинга для масштабируемости блокчейна](https://incrypted.com/sharding/)
 * [Халвинг](https://incrypted.com/halving-in-5-minutes/)
 * [Цикличность крипто индустрии (исследование)](https://incrypted.com/crypto-cycles-andreessen-horowitz-research/)
@@ -254,13 +254,13 @@
 * [Как создать криптовалюту: пошаговая инструкция](https://incrypted.com/how-to-create-token-bep-20/)
 * [Как изменение процентной ставки ФРС влияет на рынок криптовалют](https://incrypted.com/how-fed-rate-affect-cryptocurrency/)
 
-#### Локальне
+### Локальне
 * [7 крипто-трендов, которые изменят мир в 2022 году](https://incrypted.com/7-crypto-trends-that-will-change-the-world-2022/)
 * [Как заработать на криптовалютах в 2022: 10 способов](https://incrypted.com/ten-ways-to-make-money-on-crypto-2022/)
 * [Play-to-Earn (P2E) игры на которые стоит обратить внимание в 2022](https://incrypted.com/best-projects-play-to-earn-p2e-games/)
 * [Что ждёт GameFi на медвежке и после. Рекомендации и размышления](https://incrypted.com/gamefi-on-bear-market-recommendations/)
 
-#### Інше
+### Інше
 * [Почему биржи делистят чеканные монеты](https://incrypted.com/why-exchanges-delisting-altcoins/)
 * [Топ-10 самых богатых людей в крипто-индустрии](https://incrypted.com/top-10-bitcoin-rick/)
 * [История развития деривативов на биткоин](https://incrypted.com/history-bitcoin-derivative/)
@@ -283,7 +283,7 @@
 
 </br>
 
-### Double Top
+## Double Top
 * [Токеноміка та Теорія ігор](https://teletype.in/@good_mood/tokenomika)
 * [Найкращі аналітичні інструменти](https://teletype.in/@markusrichardofficial/analyticaltools)
 * [Вультификация DeFi: Криптографические структурированные продукты и их будущее](https://teletype.in/@markusrichardofficial/structuredproducts)
@@ -307,7 +307,7 @@
 
 </br>
 
-### Crypto in Different Countries
+## Crypto in Different Countries
 * [Crypto in Portugal](https://telegra.ph/Nalogooblozhenie-v-Portugalii-04-12)
 * [Crypto in Estonia](https://teletype.in/@t0zem00n/estonia)
 * [Crypto in Poland](https://teletype.in/@t0zem00n/poland)
@@ -318,25 +318,25 @@
 
 </br>
 
-### Articles from Top
+## Articles from Top
 * [In Defense of Bitcoin Maximalism. Buterin](https://vitalik.ca/general/2022/04/01/maximalist.html)
 * [The Q-Trap. Hayes](https://cryptohayes.medium.com/the-q-trap-f1a38312f00f)
 * [The Doom Loop](https://cryptohayes.medium.com/the-doom-loop-161a42bbcd50)
 
 </br>
 
-## Teletypes
+# Teletypes
 
-### Double Top
+## Double Top
 * [Markus](https://teletype.in/@markusrichardofficial)
 * [GooD_MooD](https://teletype.in/@good_mood)
 * [t0zem00n](https://teletype.in/@t0zem00n)
 
-### Nodes
+## Nodes
 * [Let's Node](https://teletype.in/@letskynode)
 * [how_to_node](https://teletype.in/@cyberomanov)
 
-### Other
+## Testnets
 * [IDO Research](https://teletype.in/@idoresearch)
 * [Crypto Romb](https://teletype.in/@cryptoromb)
 * [the VSЁ](https://teletype.in/@ktmudak)
@@ -344,7 +344,7 @@
 
 </br>
 
-## Books
+# Books
 * [Как это DeFi (1-ое издание)](https://assets.coingecko.com/books/how-to-defi/How_to_DeFi_Russian.pdf)
 * [Как это DeFi (2-ое издание)](https://drive.google.com/file/d/1xx3obCxxE93CPI0jBBETrxYdi_KNsBvQ/view?usp=sharing)
 * [Как это NFT](https://drive.google.com/file/d/1RsI0lxzpRVaGYDZBmVxYYGgZRl45IWV9/view?usp=sharing)
@@ -361,9 +361,9 @@
 
 </br>
 
-## Services
+# Services
 
-### Main
+## Main
 * [ICO Drops](https://icodrops.com/)
 * [DropsEarn](https://dropsearn.com/)
 * [Vastlab](https://vestlab.io/)
@@ -372,7 +372,7 @@
 * [Blockchains comparison](https://blockchain-comparison.com/)
 * [Індекс страху](https://alternative.me/crypto/fear-and-greed-index/)
 
-### Other
+## Other
 * [CryptoRank](https://cryptorank.io/)
 * [Staking Rewards](https://www.stakingrewards.com/)
 * [Look into Bitcoin](https://www.lookintobitcoin.com/)
@@ -389,7 +389,7 @@
 
 </br>
 
-## Sets From Incrypted
+# Sets From Incrypted
 * [Для Новачків](https://t.me/incrypted/12057)
 * [Плейлисти](https://t.me/incrypted/12319)
 * [Стріми](https://t.me/incrypted/12081)
@@ -405,23 +405,23 @@
 
 </br>
 
-## Nodes
+# Nodes
 
-### YouTube Channels
+## YouTube Channels
 * [Nodes Guru](https://www.youtube.com/c/NodesGuru)
 
-### Telegram Channels
+## Telegram Channels
 * [Nodes Guru](https://t.me/nodesguru)
 * [how_to_node](https://t.me/how_to_node)
 * [Let's Node!](https://t.me/letskynode)
 
-### Guides
+## Guides
 * [Nodes Guru](https://nodes.guru/)
 * [CyberRomanov](https://teletype.in/@cyberomanov)
 * [Let's Node](https://teletype.in/@letskynode)
 
-### Servers
+## Servers
 * [Contabo](https://contabo.com/en/)
 
-### Useful Links
+## Useful Links
 * [Post from The Wolf Of Your Strees](https://t.me/TheWolfOfYourStreet/840)
