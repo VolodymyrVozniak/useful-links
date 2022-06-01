@@ -366,28 +366,68 @@
 
 # Services
 
-## Main
-* [ICO Drops](https://icodrops.com/)
-* [DropsEarn](https://dropsearn.com/)
-* [Vastlab](https://vestlab.io/)
-* [Nodes Guru](https://nodes.guru/)
-* [Chainlist](https://chainlist.org/)
-* [Blockchains comparison](https://blockchain-comparison.com/)
+## Трекери
+* [CoinMarketCap](https://coinmarketcap.com/)
+* [CoinGecko](https://www.coingecko.com/)
+* [CryptoRank](https://cryptorank.io/)
+* [DropsTab](https://dropstab.com/)
+* [COIN360](https://coin360.com/)
+
+## Гаманці
+* [Zerion](https://zerion.io/)
+* [DeBank](https://debank.com/)
+* [Zapper](https://zapper.fi/)
+
+## Графіки
+* [TradingView](https://www.tradingview.com/)
+* [DEXTools](https://www.dextools.io/)
+
+## Календарі
+* [CoinMarketCal](https://coinmarketcal.com/en/)
+* [Coindar](https://coindar.org/)
+
+## Новини
+* [CryptoPanic](https://cryptopanic.com/)
+* [Rekt](https://rekt.news/ru/)
+
+## Індекси
+* [Індекс альтсезону](https://www.blockchaincenter.net/altcoin-season-index/)
 * [Індекс страху](https://alternative.me/crypto/fear-and-greed-index/)
 
-## Other
-* [CryptoRank](https://cryptorank.io/)
+## DeFi
+* [DefiLlama](https://defillama.com/)
+* [Chainlist](https://chainlist.org/)
+* [Blockscan](https://blockscan.com/)
+* [StaySAFU](https://app.staysafu.org/scanner) # Перевірка на скам
+* [CoinsGuru](https://coinsguru.io/) # Аналіз проєктів по Twitter
+* [vfat.tools](https://vfat.tools/) # Моніторинг фармілок
+* [CoinDix](https://coindix.com/) # Моніторинг фармілок
+
+## Мости
+* [DeCommas](https://app.decommas.io/bridges)
+* [Allbridge](https://allbridge.io/)
+* [Rainbow Bridge](https://rainbowbridge.app/transfer)
+
+## Корисні таблиці
+* [Рейтинг инвестиционных фондов](https://docs.google.com/spreadsheets/d/1saqKNeo9pSl-m_Xa9jVpFyPfg8faCXn6lZ3TEtTKz5Y/edit#gid=0)
+* [Список текущих тестнетов](https://docs.google.com/spreadsheets/d/1puP0qRy5yF0KCCqfQuaMND9FHsJOrSYL-WZce9pex-M/edit#gid=0)
+* [Таблица с возможными эирдропами](https://docs.google.com/spreadsheets/u/0/d/1f_9c8P28dXG5K6DXlHGeTQUww5K8Ft6GgCKYZ8scjb0/htmlview?s=09)
+* [Таблица для взаимодействия с различными блокчейнами](https://docs.google.com/spreadsheets/d/13f7RYobHL5PFVKVtOJw_QugpXyJqkVpjhxRNg6XGt0k/edit#gid=1141583017)
+* [Таблица для взаимодействия с мостами](https://docs.google.com/spreadsheets/d/1EBWuj9cUJv2IwsA8hros-az4ARLmk2HOjbT1xpJt02Q/edit#gid=0)
+
+## Корисна інфа
+* [DropsEarn](https://dropsearn.com/) # Інфа по тестнетах / ейрдропах
+* [ICODrops](https://icodrops.com/) # Інфа про ICO
+* [Vastlab.io](https://vestlab.io/) # Інфа про разлоки
+* [Nodes Guru](https://nodes.guru/) # Інфа по нодах
+
+## Інше
+* [Blockchains comparison](https://blockchain-comparison.com/)
 * [Staking Rewards](https://www.stakingrewards.com/)
 * [Look into Bitcoin](https://www.lookintobitcoin.com/)
-* [Зручні графіки](https://ru.tradingview.com/)
 * [Вигідний стейкінг стейблів](https://stargate.finance/)
 * [Генератор гаманців та приватних ключів](https://cointool.app/createWallet)
 * [Ethereum Gas Prices](https://chrome.google.com/webstore/detail/ethereum-gas-prices/njbclohenpagagafbmdipcdoogfpnfhp)
-* [Моніторинг фармілок 1 (CoinDix)](https://coindix.com/)
-* [Моніторинг фармілок 2 (Vfat)](https://vfat.tools)
-* [Історія взломів](https://rekt.news/ru/)
-* [Крипто органайзер Zerion](https://zerion.io/)
-* [Адрес у різних мережах](https://blockscan.com/)
 * [Переклади статтей](https://blog.bitmex.com/?lang=ru_ru)
 
 </br>
