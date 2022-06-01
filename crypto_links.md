@@ -76,11 +76,11 @@
 * [Мости](https://incrypted.com/bridges/) ✅
 
 ### Гаманці
-* [Мобільні криптогаманці](https://incrypted.com/mobile-cryptocurrency-wallets/)
-* [Апаратні криптогаманці](https://incrypted.com/hardware-cryptocurrency-wallets/)
+* [Мобільні криптогаманці](https://incrypted.com/mobile-cryptocurrency-wallets/) ✅
+* [Апаратні криптогаманці](https://incrypted.com/hardware-cryptocurrency-wallets/) ✅
 
 ### Інструментарій
-* [Інструменти криптана](https://incrypted.com/useful-crypto-tools/)
+* [Інструменти криптана](https://incrypted.com/useful-crypto-tools/) ✅
 
 ### Смарт-контракти
 * [Смарт-контракти](https://incrypted.com/smart-contracts-what-is-it/)
