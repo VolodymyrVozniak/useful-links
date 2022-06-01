@@ -342,6 +342,9 @@
 * [the VSЁ](https://teletype.in/@ktmudak)
 * [danferat](https://teletype.in/@danferat)
 
+## Other
+* [cryptocholy](https://teletype.in/@cryptocholy)
+
 </br>
 
 # Books
