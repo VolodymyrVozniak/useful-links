@@ -398,10 +398,10 @@
 * [DefiLlama](https://defillama.com/)
 * [Chainlist](https://chainlist.org/)
 * [Blockscan](https://blockscan.com/)
-* [StaySAFU](https://app.staysafu.org/scanner) # Перевірка на скам
-* [CoinsGuru](https://coinsguru.io/) # Аналіз проєктів по Twitter
-* [vfat.tools](https://vfat.tools/) # Моніторинг фармілок
-* [CoinDix](https://coindix.com/) # Моніторинг фармілок
+* [StaySAFU](https://app.staysafu.org/scanner) --- Перевірка на скам
+* [CoinsGuru](https://coinsguru.io/) --- Аналіз проєктів по Twitter
+* [vfat.tools](https://vfat.tools/) --- Моніторинг фармілок
+* [CoinDix](https://coindix.com/) --- Моніторинг фармілок
 
 ## Мости
 * [DeCommas](https://app.decommas.io/bridges)
@@ -416,10 +416,10 @@
 * [Таблица для взаимодействия с мостами](https://docs.google.com/spreadsheets/d/1EBWuj9cUJv2IwsA8hros-az4ARLmk2HOjbT1xpJt02Q/edit#gid=0)
 
 ## Корисна інфа
-* [DropsEarn](https://dropsearn.com/) # Інфа по тестнетах / ейрдропах
-* [ICODrops](https://icodrops.com/) # Інфа про ICO
-* [Vastlab.io](https://vestlab.io/) # Інфа про разлоки
-* [Nodes Guru](https://nodes.guru/) # Інфа по нодах
+* [DropsEarn](https://dropsearn.com/) --- Інфа по тестнетах / ейрдропах
+* [ICODrops](https://icodrops.com/) --- Інфа про ICO
+* [Vastlab.io](https://vestlab.io/) --- Інфа про разлоки
+* [Nodes Guru](https://nodes.guru/) --- Інфа по нодах
 
 ## Інше
 * [Blockchains comparison](https://blockchain-comparison.com/)
