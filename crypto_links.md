@@ -94,7 +94,7 @@
 * [NFT](https://t.me/TheWolfOfYourStreet/794)
 * [OTC-трейдинг](https://incrypted.com/otc-trading/)
 * [Про DCA](https://incrypted.com/dollar-cost-averaging/)
-* [Ноди]((https://t.me/TheWolfOfYourStreet/840))
+* [Ноди](https://t.me/TheWolfOfYourStreet/840)
 
 #### Психологія
 * [Психологія](https://incrypted.com/psychology-market-and-investors/)
