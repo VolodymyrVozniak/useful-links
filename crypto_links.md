@@ -407,6 +407,7 @@
 * [CoinDix](https://coindix.com/) --- Моніторинг фармілок
 
 ## Мости
+* [DeBridges](https://debridges.com/)
 * [DeCommas](https://app.decommas.io/bridges)
 * [Allbridge](https://allbridge.io/)
 * [Rainbow Bridge](https://rainbowbridge.app/transfer)
