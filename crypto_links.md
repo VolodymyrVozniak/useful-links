@@ -409,6 +409,7 @@
 ## Мости
 * [DeBridges](https://debridges.com/)
 * [DeCommas](https://app.decommas.io/bridges)
+* [Rango](https://rango.exchange/)
 * [Allbridge](https://allbridge.io/)
 * [Rainbow Bridge](https://rainbowbridge.app/transfer)
 
