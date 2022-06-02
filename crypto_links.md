@@ -121,6 +121,7 @@
 * [Андре Кронье «Взлет и падение криптокультуры»](https://incrypted.com/crypto-is-dead-long-live-crypto/)
 * [«Luna Brothers, Inc.» — новое эссе Артура Хейса](https://incrypted.com/arthur-hayes-luna-brothers-inc/)
 * [Ончейн анализ от Nansen: разрушаем миф о депеге TerraUSD](https://incrypted.com/on-chain-forensics-demystifying-terrausd-de-peg/)
+* [«Shut it Down!» — новое эссе Артура Хейса](https://incrypted.com/arthur-hayes-shut-it-down/)
 
 ### Звіти
 * [Состояние криптоиндустрии в 2022 — отчет a16z crypto](https://incrypted.com/a16zcrypto-report-the-state-of-cryptography/)
@@ -155,6 +156,9 @@
 
 ### Обзори ринку
 * [Обзор крипторынка за первый квартал 2022: падение капитализации и объемов торгов](https://info.exmo.com/ru/obzor-rynka-kriptovalyut/za-pervyj-kvartal-2022-padenie-kapitalizacii-i-obemov-torgov/)
+
+### Можливі айрдропи
+* [Аирдроп от Arbitrum: разбираемся как подготовиться и на что обратить внимание](https://incrypted.com/how-to-prepare-arbitrum-airdrop/)
 
 ### Кріптани
 * [Джеймc Даймон](https://incrypted.com/on-vam-ne-dimon/)
@@ -304,6 +308,7 @@
 * [Как пережить медвежий рынок криптовалют](https://2top.notion.site/2a6edcf298c14e47a1f7a7bbc4b4ddc3)
 * [6 простых приемов, чтобы избежать скама в NFТ](https://2top.notion.site/6-NF-ad2d67eb5d9349bfbbbe42e3204ab584)
 * [Solana](https://2top.notion.site/Solana-d4599cf0b9d54c9b86aaa4905cf6502b)
+* [Walken](https://2top.notion.site/Walken-2e0ace1671eb4dfc9350b5cd2efcd2d3)
 
 </br>
 
