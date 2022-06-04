@@ -284,6 +284,7 @@
 * [Интернет вещей (IoT). 8 ключевых принципов](https://incrypted.com/what-is-iot/)
 * [Пицца за 10 000 BTC. Рассказываем историю Bitcoin Pizza Day](https://incrypted.com/bitcoin-pizza-day/) ✅
 * [Токен Metamask будет историческим](https://incrypted.com/token-metamask-the-end-game) ✅
+* [Крипта во время войны: «оружие» или «спасение»?](https://incrypted.com/crypto-in-time-of-war/)
 
 </br>
 
@@ -309,6 +310,7 @@
 * [6 простых приемов, чтобы избежать скама в NFТ](https://2top.notion.site/6-NF-ad2d67eb5d9349bfbbbe42e3204ab584)
 * [Solana](https://2top.notion.site/Solana-d4599cf0b9d54c9b86aaa4905cf6502b)
 * [Walken](https://2top.notion.site/Walken-2e0ace1671eb4dfc9350b5cd2efcd2d3)
+* [Топ эирдропы (и как их получить)](https://2top.notion.site/51a16b4ca84b4105a7a0834673c51aec)
 
 </br>
 
