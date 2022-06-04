@@ -311,6 +311,7 @@
 * [Solana](https://2top.notion.site/Solana-d4599cf0b9d54c9b86aaa4905cf6502b)
 * [Walken](https://2top.notion.site/Walken-2e0ace1671eb4dfc9350b5cd2efcd2d3)
 * [Топ эирдропы (и как их получить)](https://2top.notion.site/51a16b4ca84b4105a7a0834673c51aec)
+* [Почему CBDC не являются вашими друзьями](https://2top.notion.site/CBDC-79cc7bc1ed7e45ecb5172f759f23198c)
 
 </br>
 
