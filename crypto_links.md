@@ -123,6 +123,7 @@
 * [«Luna Brothers, Inc.» — новое эссе Артура Хейса](https://incrypted.com/arthur-hayes-luna-brothers-inc/)
 * [Ончейн анализ от Nansen: разрушаем миф о депеге TerraUSD](https://incrypted.com/on-chain-forensics-demystifying-terrausd-de-peg/)
 * [«Shut it Down!» — новое эссе Артура Хейса](https://incrypted.com/arthur-hayes-shut-it-down/)
+* [Digital-ментальность 2022: страхи и предпочтения в цифровых валютах](https://incrypted.com/digimentality-2022-impact-economist-report/)
 
 ### Звіти
 * [Состояние криптоиндустрии в 2022 — отчет a16z crypto](https://incrypted.com/a16zcrypto-report-the-state-of-cryptography/)
