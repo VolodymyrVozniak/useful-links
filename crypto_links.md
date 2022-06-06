@@ -83,9 +83,9 @@
 * [Інструменти криптана](https://incrypted.com/useful-crypto-tools/) ✅
 
 ### Смарт-контракти
-* [Смарт-контракти](https://incrypted.com/smart-contracts-what-is-it/)
-* [Апрув токена через контракт](https://incrypted.com/fast-approve/)
-* [Як запушити й відмінити транзакцію](https://incrypted.com/how-to-push-or-cancel-transaction/)
+* [Смарт-контракти](https://incrypted.com/smart-contracts-what-is-it/) ✅
+* [Апрув токена через контракт](https://incrypted.com/fast-approve/) ✅
+* [Як запушити й відмінити транзакцію](https://incrypted.com/how-to-push-or-cancel-transaction/) ✅
 
 ### Види заробітку
 * [Амбасадор програми](https://incrypted.com/crypto-ambassador-programs/)
@@ -97,8 +97,8 @@
 * [Ноди](https://t.me/TheWolfOfYourStreet/840)
 
 ### Психологія
-* [Психологія](https://incrypted.com/psychology-market-and-investors/)
-* [Як проводити DYOR](https://incrypted.com/do-your-own-research/)
+* [Психологія](https://incrypted.com/psychology-market-and-investors/) ✅
+* [Як проводити DYOR](https://incrypted.com/do-your-own-research/) ✅
 * [Як ровзодять скамери](https://incrypted.com/how-they-steal-your-funds/) ✅
 
 ### Трейдинг
@@ -121,7 +121,7 @@
 * [«Роковая петля» — новое эссе Артура Хейса](https://incrypted.com/the-fatal-loop-arthur-hayes/)
 * [Андре Кронье «Взлет и падение криптокультуры»](https://incrypted.com/crypto-is-dead-long-live-crypto/)
 * [«Luna Brothers, Inc.» — новое эссе Артура Хейса](https://incrypted.com/arthur-hayes-luna-brothers-inc/)
-* [Ончейн анализ от Nansen: разрушаем миф о депеге TerraUSD](https://incrypted.com/on-chain-forensics-demystifying-terrausd-de-peg/)
+* [Ончейн анализ от Nansen: разрушаем миф о депеге TerraUSD](https://incrypted.com/on-chain-forensics-demystifying-terrausd-de-peg/) ✅
 * [«Shut it Down!» — новое эссе Артура Хейса](https://incrypted.com/arthur-hayes-shut-it-down/)
 * [Digital-ментальность 2022: страхи и предпочтения в цифровых валютах](https://incrypted.com/digimentality-2022-impact-economist-report/)
 
@@ -159,7 +159,7 @@
 ### Обзори ринку
 * [Обзор крипторынка за первый квартал 2022: падение капитализации и объемов торгов](https://info.exmo.com/ru/obzor-rynka-kriptovalyut/za-pervyj-kvartal-2022-padenie-kapitalizacii-i-obemov-torgov/)
 
-### Можливі айрдропи
+### Можливі ейрдропи
 * [Аирдроп от Arbitrum: разбираемся как подготовиться и на что обратить внимание](https://incrypted.com/how-to-prepare-arbitrum-airdrop/)
 
 ### Кріптани
@@ -259,7 +259,7 @@
 * [DEX vs CEX: преимущества и недостатки](https://incrypted.com/stream-dex-cex-peanut-summary/)
 * [Что такое HODL? Мем или стратегия?](https://incrypted.com/what-is-hodl/)
 * [Как создать криптовалюту: пошаговая инструкция](https://incrypted.com/how-to-create-token-bep-20/)
-* [Как изменение процентной ставки ФРС влияет на рынок криптовалют](https://incrypted.com/how-fed-rate-affect-cryptocurrency/)
+* [Как изменение процентной ставки ФРС влияет на рынок криптовалют](https://incrypted.com/how-fed-rate-affect-cryptocurrency/) ✅
 
 ### Локальне
 * [7 крипто-трендов, которые изменят мир в 2022 году](https://incrypted.com/7-crypto-trends-that-will-change-the-world-2022/)
@@ -311,7 +311,7 @@
 * [Как пережить медвежий рынок криптовалют](https://2top.notion.site/2a6edcf298c14e47a1f7a7bbc4b4ddc3)
 * [6 простых приемов, чтобы избежать скама в NFТ](https://2top.notion.site/6-NF-ad2d67eb5d9349bfbbbe42e3204ab584)
 * [Solana](https://2top.notion.site/Solana-d4599cf0b9d54c9b86aaa4905cf6502b)
-* [Walken](https://2top.notion.site/Walken-2e0ace1671eb4dfc9350b5cd2efcd2d3)
+* [Walken](https://2top.notion.site/Walken-2e0ace1671eb4dfc9350b5cd2efcd2d3) ✅
 * [Топ эирдропы (и как их получить)](https://2top.notion.site/51a16b4ca84b4105a7a0834673c51aec)
 * [Почему CBDC не являются вашими друзьями](https://2top.notion.site/CBDC-79cc7bc1ed7e45ecb5172f759f23198c)
 
