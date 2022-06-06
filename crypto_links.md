@@ -340,6 +340,7 @@
 * [Markus](https://teletype.in/@markusrichardofficial)
 * [GooD_MooD](https://teletype.in/@good_mood)
 * [t0zem00n](https://teletype.in/@t0zem00n)
+* [erki](https://teletype.in/@erki)
 
 ## Nodes
 * [Let's Node](https://teletype.in/@letskynode)
