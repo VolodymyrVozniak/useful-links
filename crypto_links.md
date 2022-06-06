@@ -416,6 +416,7 @@
 * [CoinsGuru](https://coinsguru.io/) --- Аналіз проєктів по Twitter
 * [vfat.tools](https://vfat.tools/) --- Моніторинг фармілок
 * [CoinDix](https://coindix.com/) --- Моніторинг фармілок
+* [Bloxy](https://bloxy.info/) --- Чек смарт-контрактів
 
 ## Мости
 * [DeBridges](https://debridges.com/)
