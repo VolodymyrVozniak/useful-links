@@ -314,6 +314,7 @@
 * [Walken](https://2top.notion.site/Walken-2e0ace1671eb4dfc9350b5cd2efcd2d3) ✅
 * [Топ эирдропы (и как их получить)](https://2top.notion.site/51a16b4ca84b4105a7a0834673c51aec)
 * [Почему CBDC не являются вашими друзьями](https://2top.notion.site/CBDC-79cc7bc1ed7e45ecb5172f759f23198c)
+* [Arbitrum Odyssey](https://2top.notion.site/Arbitrum-Odyssey-8dd63bec87d74ce3bc1f21444d0ba6a7)
 
 </br>
 
@@ -325,6 +326,7 @@
 * [Crypto in Germany](https://teletype.in/@t0zem00n/germany)
 * [Crypto in Ireland](https://teletype.in/@t0zem00n/ireland)
 * [Crypto in Finland](https://teletype.in/@t0zem00n/finland)
+* [Crypto in Switzerland](https://teletype.in/@t0zem00n/Switzerland)
 
 </br>
 
