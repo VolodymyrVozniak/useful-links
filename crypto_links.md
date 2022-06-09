@@ -155,6 +155,7 @@
 * [Разбираемся как устроен SweatCoin](https://incrypted.com/obzor-sweatcoin/) ✅
 * [Обзор Parallel Heiko. Где стейкать DOT и KSM?](https://incrypted.com/overview-parallel-finance/)
 * [Genopets: Что за зверь? Как играть без вложений](https://incrypted.com/genopets-review-game/)
+* [Обзор Walken: пошаговый гайд, как ходить и зарабатывать больше](https://incrypted.com/walken-obzor-m2e/) ✅
 
 ### Обзори ринку
 * [Обзор крипторынка за первый квартал 2022: падение капитализации и объемов торгов](https://info.exmo.com/ru/obzor-rynka-kriptovalyut/za-pervyj-kvartal-2022-padenie-kapitalizacii-i-obemov-torgov/)
