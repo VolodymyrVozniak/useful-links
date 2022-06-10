@@ -316,6 +316,7 @@
 * [Топ эирдропы (и как их получить)](https://2top.notion.site/51a16b4ca84b4105a7a0834673c51aec)
 * [Почему CBDC не являются вашими друзьями](https://2top.notion.site/CBDC-79cc7bc1ed7e45ecb5172f759f23198c)
 * [Arbitrum Odyssey](https://2top.notion.site/Arbitrum-Odyssey-8dd63bec87d74ce3bc1f21444d0ba6a7)
+* [Верить, что когда-нибудь начнешь торговать в плюс](https://2top.notion.site/9896ea70c12e427e9e4e3afd54bd200d)
 
 </br>
 
