@@ -40,6 +40,11 @@
 
 </br>
 
+# YouTube Playlists
+* [Курс по опціонах](https://www.youtube.com/playlist?list=PLi_6OF3szdczjkNrQwFfI-up6kbNr5wV5)
+
+</br>
+
 # Courses
 
 ## Coursera
