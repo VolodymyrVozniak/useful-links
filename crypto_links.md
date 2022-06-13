@@ -165,9 +165,6 @@
 ### Обзори ринку
 * [Обзор крипторынка за первый квартал 2022: падение капитализации и объемов торгов](https://info.exmo.com/ru/obzor-rynka-kriptovalyut/za-pervyj-kvartal-2022-padenie-kapitalizacii-i-obemov-torgov/)
 
-### Можливі ейрдропи
-* [Аирдроп от Arbitrum: разбираемся как подготовиться и на что обратить внимание](https://incrypted.com/how-to-prepare-arbitrum-airdrop/)
-
 ### Кріптани
 * [Джеймc Даймон](https://incrypted.com/on-vam-ne-dimon/)
 * [Forbes: CEO FTX о своем мировоззрении](https://incrypted.com/sam-bankman-fried-forbes/)
@@ -207,6 +204,10 @@
 ### Оцінка проєктів
 * [Как оценивать проекты?](https://incrypted.com/how-to-evaluate-projects/)
 * [ScamBusters. По каким критериям отбирать мем-токены чтобы не ректануться?](https://incrypted.com/scambusters/)
+
+### Можливі ейрдропи
+* [Аирдроп от Arbitrum: разбираемся как подготовиться и на что обратить внимание](https://incrypted.com/how-to-prepare-arbitrum-airdrop/)
+* [Лучшие аирдропы криптовалют. Рассказываем как их получить](https://incrypted.com/top-airdrops/)
 
 ### NFT
 * [Как создать NFT? Пошаговая инструкция](https://incrypted.com/kak-sozdat-i-prodat-nft/)
@@ -272,7 +273,6 @@
 * [Как заработать на криптовалютах в 2022: 10 способов](https://incrypted.com/ten-ways-to-make-money-on-crypto-2022/)
 * [Play-to-Earn (P2E) игры на которые стоит обратить внимание в 2022](https://incrypted.com/best-projects-play-to-earn-p2e-games/)
 * [Что ждёт GameFi на медвежке и после. Рекомендации и размышления](https://incrypted.com/gamefi-on-bear-market-recommendations/)
-* [Лучшие аирдропы криптовалют. Рассказываем как их получить](https://incrypted.com/top-airdrops/)
 
 ### Інше
 * [Почему биржи делистят чеканные монеты](https://incrypted.com/why-exchanges-delisting-altcoins/)
