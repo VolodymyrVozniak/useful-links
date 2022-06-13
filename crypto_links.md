@@ -272,6 +272,7 @@
 * [Как заработать на криптовалютах в 2022: 10 способов](https://incrypted.com/ten-ways-to-make-money-on-crypto-2022/)
 * [Play-to-Earn (P2E) игры на которые стоит обратить внимание в 2022](https://incrypted.com/best-projects-play-to-earn-p2e-games/)
 * [Что ждёт GameFi на медвежке и после. Рекомендации и размышления](https://incrypted.com/gamefi-on-bear-market-recommendations/)
+* [Лучшие аирдропы криптовалют. Рассказываем как их получить](https://incrypted.com/top-airdrops/)
 
 ### Інше
 * [Почему биржи делистят чеканные монеты](https://incrypted.com/why-exchanges-delisting-altcoins/)
