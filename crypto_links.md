@@ -111,6 +111,7 @@
 * [Smart Money](https://incrypted.com/smart-money/)
 * [Вайкофф](https://telegra.ph/Vajkoff-06-23)
 * [Плечо и ROE](https://incrypted.com/leverageroe/)
+* [Risk Reward](https://incrypted.com/risk-reward/)
 
 </br>
 
@@ -267,6 +268,7 @@
 * [Что такое HODL? Мем или стратегия?](https://incrypted.com/what-is-hodl/)
 * [Как создать криптовалюту: пошаговая инструкция](https://incrypted.com/how-to-create-token-bep-20/)
 * [Как изменение процентной ставки ФРС влияет на рынок криптовалют](https://incrypted.com/how-fed-rate-affect-cryptocurrency/) ✅
+* [Создаем децентрализованную организацию (DAO) в 2022. Инструкция для новичков](https://incrypted.com/kak-sozdat-dao/)
 
 ### Локальне
 * [7 крипто-трендов, которые изменят мир в 2022 году](https://incrypted.com/7-crypto-trends-that-will-change-the-world-2022/)
