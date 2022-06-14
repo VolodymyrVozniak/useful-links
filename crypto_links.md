@@ -108,8 +108,8 @@
 
 ### Трейдинг
 * [10 кроків успішного трейдера](https://incrypted.com/10-steps-of-successful-crypto-trader/)
-* [Smart Money](https://incrypted.com/smart-money/)
 * [Вайкофф](https://telegra.ph/Vajkoff-06-23)
+* [Smart Money](https://incrypted.com/smart-money/)
 * [Плечо и ROE](https://incrypted.com/leverageroe/)
 * [Risk Reward](https://incrypted.com/risk-reward/)
 
