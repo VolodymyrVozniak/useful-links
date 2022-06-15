@@ -478,6 +478,7 @@
 * [Трейдинг](https://t.me/incrypted/13073)
 * [Вайкофф](https://t.me/TheWolfOfYourStreet/795)
 * [The Wolf of Your Street](https://t.me/TheWolfOfYourStreet/799)
+* [Есе від Артута Хейса](https://t.me/incrypted/13758)
 
 </br>
 
