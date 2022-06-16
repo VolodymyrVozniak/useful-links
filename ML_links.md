@@ -65,6 +65,7 @@
 ### Machine Learning
 
 * [Machine Learning. Stanford](https://www.coursera.org/learn/machine-learning)
+* [Machine Learning Specialization. DeepLearning.AI and Stanford](https://www.coursera.org/specializations/machine-learning-introduction)
 * [Машинное обучение и анализ данных. Яндекс](https://www.coursera.org/specializations/machine-learning-data-analysis)
 * [Машинное обучение: от статистики до нейросетей. Higher School of Economics](https://www.coursera.org/specializations/machine-learning-from-statistics-to-neural-networks)
 * [Введение в машинное обучение. Яндекс + HSE](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie)
