@@ -230,7 +230,6 @@
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * [Machine Learning Yearning by Andrew Ng](https://www.deeplearning.ai/wp-content/uploads/2022/03/andrew-ng-machine-learning-yearning.pdf)
 * [MLOps by Andrew Ng](https://www.deeplearning.ai/wp-content/uploads/2021/06/MLOps-From-Model-centric-to-Data-centric-AI.pdf)
-* 
 
 <br />
 
