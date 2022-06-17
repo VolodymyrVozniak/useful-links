@@ -244,6 +244,7 @@
 * [Что посмотреть/почитать/поизучать на карантине](https://incrypted.com/what-to-learn-in-quarantine/)
 * [30+ лучших YouTube каналов о криптовалюте, блокчейне и трейдинге](https://incrypted.com/top-5-youtube-channels-about-cryptocurrency/)
 * [Список лучших AirDrop сайтов, раздающих криптовалюты](https://incrypted.com/how-to-earn-10-in-band-on-coinmarketcap-earn/)
+* [6 актуальных сервисов проверки транзакций в Bitcoin](https://incrypted.com/kak-proverit-tranzakciyu-bitcoin/)
 
 ### Корисна Інфа
 * [Использование шардинга для масштабируемости блокчейна](https://incrypted.com/sharding/)
@@ -296,6 +297,7 @@
 * [Пицца за 10 000 BTC. Рассказываем историю Bitcoin Pizza Day](https://incrypted.com/bitcoin-pizza-day/) ✅
 * [Токен Metamask будет историческим](https://incrypted.com/token-metamask-the-end-game) ✅
 * [Крипта во время войны: «оружие» или «спасение»?](https://incrypted.com/crypto-in-time-of-war/)
+* [Что такое искусственный интеллект и при чем тут блокчейн? Разбираемся с самого начала](https://incrypted.com/chto-takoe-iskusstveniy-intellekt/)
 
 </br>
 
