@@ -331,6 +331,7 @@
 * [Любишь кататься - люби и саночки возить | Фиксируем свои ошибки, чтобы не повторять в будущем](https://2top.notion.site/d355f2bcb5aa45f286f0e7939aa6f49a)
 * [StepN и Move-To-Earn игры пытаются убедить пользователей, что они не пирамиды](https://www.notion.so/2top/StepN-Move-To-Earn-793f06c5386143039b0b02023609ef7e)
 * [Слияние и NFT](https://2top.notion.site/NFT-18bada4068b84de68856a9d080eb4a60)
+* [SOTM #43](https://2top.notion.site/SOTM-43-b78ed2928b584e75843ab97000e78a70)
 
 </br>
 
