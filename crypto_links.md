@@ -119,17 +119,20 @@
 
 ### Переклади статей
 * [NFT-Библия (перевод статьи OpenSea)](https://incrypted.com/nft-bibliya-opensea-perevod/)
-* [Пампим железо — адаптированный перевод статьи Артура Хейза](https://incrypted.com/pumping-iron-arthur-hayes-russian/)
 * [Как пережить криптозиму. Paradigm](https://incrypted.com/how-to-survive-a-crypto-cycle/)
+* [Андре Кронье «Взлет и падение криптокультуры»](https://incrypted.com/crypto-is-dead-long-live-crypto/)
+* [Ончейн анализ от Nansen: разрушаем миф о депеге TerraUSD](https://incrypted.com/on-chain-forensics-demystifying-terrausd-de-peg/) ✅
+* [Digital-ментальность 2022: страхи и предпочтения в цифровых валютах](https://incrypted.com/digimentality-2022-impact-economist-report/)
+
+### Есе Артура Хейса
+* [Пампим железо — адаптированный перевод статьи Артура Хейза](https://incrypted.com/pumping-iron-arthur-hayes-russian/)
 * [“Меня всего трясет!” Эссе Артура Хейса](https://incrypted.com/arthur-hayes-essays/)
 * [«Пятизначный ценник за ETH» — новое эссе Артура Хейса](https://incrypted.com/five-ducking-digits-arthur-hayes/) ✅
 * [«Ловушка теханализа». Перевод статьи Артура Хейса “The Q-Trap”](https://incrypted.com/the-q-trap-arthur-hayes/)
 * [«Роковая петля» — новое эссе Артура Хейса](https://incrypted.com/the-fatal-loop-arthur-hayes/)
-* [Андре Кронье «Взлет и падение криптокультуры»](https://incrypted.com/crypto-is-dead-long-live-crypto/)
 * [«Luna Brothers, Inc.» — новое эссе Артура Хейса](https://incrypted.com/arthur-hayes-luna-brothers-inc/)
-* [Ончейн анализ от Nansen: разрушаем миф о депеге TerraUSD](https://incrypted.com/on-chain-forensics-demystifying-terrausd-de-peg/) ✅
 * [«Shut it Down!» — новое эссе Артура Хейса](https://incrypted.com/arthur-hayes-shut-it-down/)
-* [Digital-ментальность 2022: страхи и предпочтения в цифровых валютах](https://incrypted.com/digimentality-2022-impact-economist-report/)
+* [«Floaters» — новое эссе Артура Хейса](https://incrypted.com/arthur-hayes-floaters/)
 
 ### Звіти
 * [Состояние криптоиндустрии в 2022 — отчет a16z crypto](https://incrypted.com/a16zcrypto-report-the-state-of-cryptography/)
