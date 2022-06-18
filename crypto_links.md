@@ -165,6 +165,7 @@
 * [Обзор Parallel Heiko. Где стейкать DOT и KSM?](https://incrypted.com/overview-parallel-finance/)
 * [Genopets: Что за зверь? Как играть без вложений](https://incrypted.com/genopets-review-game/)
 * [Обзор Walken: пошаговый гайд, как ходить и зарабатывать больше](https://incrypted.com/walken-obzor-m2e/) ✅
+* [Детальный обзор проекта Cardano и криптовалюты ADA. Показать все, что скрыто](https://incrypted.com/obzor-cardano-ada/) ✅
 
 ### Обзори ринку
 * [Обзор крипторынка за первый квартал 2022: падение капитализации и объемов торгов](https://info.exmo.com/ru/obzor-rynka-kriptovalyut/za-pervyj-kvartal-2022-padenie-kapitalizacii-i-obemov-torgov/)
@@ -301,6 +302,7 @@
 * [Токен Metamask будет историческим](https://incrypted.com/token-metamask-the-end-game) ✅
 * [Крипта во время войны: «оружие» или «спасение»?](https://incrypted.com/crypto-in-time-of-war/)
 * [Что такое искусственный интеллект и при чем тут блокчейн? Разбираемся с самого начала](https://incrypted.com/chto-takoe-iskusstveniy-intellekt/)
+* [Rektaнулись или как потерять все](https://incrypted.com/rekt-stories/)
 
 </br>
 
@@ -335,6 +337,7 @@
 * [StepN и Move-To-Earn игры пытаются убедить пользователей, что они не пирамиды](https://www.notion.so/2top/StepN-Move-To-Earn-793f06c5386143039b0b02023609ef7e)
 * [Слияние и NFT](https://2top.notion.site/NFT-18bada4068b84de68856a9d080eb4a60)
 * [SOTM #43](https://2top.notion.site/SOTM-43-b78ed2928b584e75843ab97000e78a70)
+* [5 шагов для старта криптовалютной карьеры](https://2top.notion.site/5-0958865afc76438d95053d807228fcd1)
 
 </br>
 
