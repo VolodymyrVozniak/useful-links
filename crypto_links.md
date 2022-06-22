@@ -366,6 +366,8 @@
 
 * [Информация о стейкинге криптовалют на биржах, платформах и приложениях](https://telegra.ph/Informaciya-o-stejkinge-kriptovalyut-na-biarzhah-platformah-i-prilozheniyah-06-21)
 
+</br>
+
 # Teletypes
 
 ## Double Top
