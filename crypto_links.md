@@ -59,6 +59,7 @@
 
 # Videos
 * [Як влаштований Bitcoin](https://www.youtube.com/watch?v=Juv9v8wWa0I)
+* [Рэй Далио: Меняющийся мировой порядок](https://youtu.be/FqAWRuVUtA0)
 
 </br>
 
