@@ -69,6 +69,7 @@
 ### Інфо
 * [Social Media](https://incrypted.com/social-media/) ✅
 * [Література](https://incrypted.com/books/) ✅
+* [EGOist](https://incrypted.com/egoist/)
 
 ### Біржі
 * [Що таке біржа?](https://incrypted.com/what-is-an-exchange/) ✅
@@ -121,8 +122,11 @@
 * [NFT-Библия (перевод статьи OpenSea)](https://incrypted.com/nft-bibliya-opensea-perevod/)
 * [Как пережить криптозиму. Paradigm](https://incrypted.com/how-to-survive-a-crypto-cycle/)
 * [Андре Кронье «Взлет и падение криптокультуры»](https://incrypted.com/crypto-is-dead-long-live-crypto/)
+* [Состояние криптоиндустрии в 2022 — отчет a16z crypto](https://incrypted.com/a16zcrypto-report-the-state-of-cryptography/)
+* [Адаптируйся, чтобы выжить — отчет Sequoia Capital](https://incrypted.com/sequoia-adapting-to-endure-report-2022/) ✅
 * [Ончейн анализ от Nansen: разрушаем миф о депеге TerraUSD](https://incrypted.com/on-chain-forensics-demystifying-terrausd-de-peg/) ✅
 * [Digital-ментальность 2022: страхи и предпочтения в цифровых валютах](https://incrypted.com/digimentality-2022-impact-economist-report/)
+* [Эффект домино: почему майнеры, DeFi сектор и инвесторы на грани капитуляции](https://incrypted.com/capitulations-across-the-board/)
 
 ### Есе Артура Хейса
 * [Пампим железо — адаптированный перевод статьи Артура Хейза](https://incrypted.com/pumping-iron-arthur-hayes-russian/)
@@ -133,10 +137,6 @@
 * [«Luna Brothers, Inc.» — новое эссе Артура Хейса](https://incrypted.com/arthur-hayes-luna-brothers-inc/)
 * [«Shut it Down!» — новое эссе Артура Хейса](https://incrypted.com/arthur-hayes-shut-it-down/)
 * [«Floaters» — новое эссе Артура Хейса](https://incrypted.com/arthur-hayes-floaters/)
-
-### Звіти
-* [Состояние криптоиндустрии в 2022 — отчет a16z crypto](https://incrypted.com/a16zcrypto-report-the-state-of-cryptography/)
-* [Адаптируйся, чтобы выжить — отчет Sequoia Capital](https://incrypted.com/sequoia-adapting-to-endure-report-2022/) ✅
 
 ### Вижимка із стрімів
 * [Выжимка стрима с Антоном из DoubleTopTraders — F.A.Q по трейдингу](https://incrypted.com/summary-faq-trading-1/)
@@ -338,6 +338,8 @@
 * [Слияние и NFT](https://2top.notion.site/NFT-18bada4068b84de68856a9d080eb4a60)
 * [SOTM #43](https://2top.notion.site/SOTM-43-b78ed2928b584e75843ab97000e78a70)
 * [5 шагов для старта криптовалютной карьеры](https://2top.notion.site/5-0958865afc76438d95053d807228fcd1)
+* [DeFi мертво?](https://2top.notion.site/DeFi-6523608aeb594f4bac4876d9c14162fb)
+* [QE - истинная причина, по которой центральные банки проводят количественное смягчение](https://www.notion.so/2top/QE-89f33a8ff9c0435bbbd2e03a70b08b67)
 
 </br>
 
@@ -359,6 +361,10 @@
 * [The Doom Loop](https://cryptohayes.medium.com/the-doom-loop-161a42bbcd50)
 
 </br>
+
+## Other
+
+* [Информация о стейкинге криптовалют на биржах, платформах и приложениях](https://telegra.ph/Informaciya-o-stejkinge-kriptovalyut-na-biarzhah-platformah-i-prilozheniyah-06-21)
 
 # Teletypes
 
