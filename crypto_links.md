@@ -304,6 +304,7 @@
 * [Крипта во время войны: «оружие» или «спасение»?](https://incrypted.com/crypto-in-time-of-war/)
 * [Что такое искусственный интеллект и при чем тут блокчейн? Разбираемся с самого начала](https://incrypted.com/chto-takoe-iskusstveniy-intellekt/)
 * [Rektaнулись или как потерять все](https://incrypted.com/rekt-stories/)
+* [Ипотечный кризис 2008 и крипто-рынок 2022: как они связаны](https://incrypted.com/2008-vs-2022-comparison/)
 
 </br>
 
