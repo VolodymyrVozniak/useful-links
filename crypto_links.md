@@ -12,6 +12,12 @@
     <li><a href="#courses">Courses</a></li>
     <li><a href="#videos">Videos</a></li>
     <li><a href="#articles">Articles</a></li>
+    <ul>
+      <li><a href="#the-wolf-of-your-street">The Wolf Of Your Street</a></li>
+      <li><a href="#incrypted">Incrypted</a></li>
+      <li><a href="#double-top">Double Top</a></li>
+      <li><a href="#other">Other</a></li>
+    </ul>
     <li><a href="#books">Books</a></li>
     <li><a href="#services">Services</a></li>
     <li><a href="#sets-from-incrypted">Sets From Incrypted</a></li>
@@ -352,6 +358,16 @@
 ### SOTM
 * [SOTM #43](https://2top.notion.site/SOTM-43-b78ed2928b584e75843ab97000e78a70)
 
+### Crypto in Different Countries
+* [Crypto in Portugal](https://telegra.ph/Nalogooblozhenie-v-Portugalii-04-12)
+* [Crypto in Estonia](https://teletype.in/@t0zem00n/estonia)
+* [Crypto in Poland](https://teletype.in/@t0zem00n/poland)
+* [Crypto in Spain](https://teletype.in/@markusrichardofficial/cryptotaxesinspain)
+* [Crypto in Germany](https://teletype.in/@t0zem00n/germany)
+* [Crypto in Ireland](https://teletype.in/@t0zem00n/ireland)
+* [Crypto in Finland](https://teletype.in/@t0zem00n/finland)
+* [Crypto in Switzerland](https://teletype.in/@t0zem00n/Switzerland)
+
 ### Інше
 * [Как эйпить (обезьянничать) ответственно](https://teletype.in/@markusrichardofficial/howtoaperesponsibly)
 * [Войны стейблкоинов](https://teletype.in/@markusrichardofficial/stablecoinwars)
@@ -364,27 +380,14 @@
 
 </br>
 
-## Crypto in Different Countries
-* [Crypto in Portugal](https://telegra.ph/Nalogooblozhenie-v-Portugalii-04-12)
-* [Crypto in Estonia](https://teletype.in/@t0zem00n/estonia)
-* [Crypto in Poland](https://teletype.in/@t0zem00n/poland)
-* [Crypto in Spain](https://teletype.in/@markusrichardofficial/cryptotaxesinspain)
-* [Crypto in Germany](https://teletype.in/@t0zem00n/germany)
-* [Crypto in Ireland](https://teletype.in/@t0zem00n/ireland)
-* [Crypto in Finland](https://teletype.in/@t0zem00n/finland)
-* [Crypto in Switzerland](https://teletype.in/@t0zem00n/Switzerland)
+## Other
 
-</br>
-
-## Articles from Top
+### Articles from Top
 * [In Defense of Bitcoin Maximalism. Buterin](https://vitalik.ca/general/2022/04/01/maximalist.html)
 * [The Q-Trap. Hayes](https://cryptohayes.medium.com/the-q-trap-f1a38312f00f)
 * [The Doom Loop](https://cryptohayes.medium.com/the-doom-loop-161a42bbcd50)
 
-</br>
-
-## Other
-
+### Other
 * [Информация о стейкинге криптовалют на биржах, платформах и приложениях](https://telegra.ph/Informaciya-o-stejkinge-kriptovalyut-na-biarzhah-platformah-i-prilozheniyah-06-21)
 
 </br>
