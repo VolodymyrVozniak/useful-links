@@ -158,6 +158,7 @@
 * [Выжимка стрима «The Future of ETHEREUM is NEAR? Строим мосты с CEO Aurora Алексом Шевченко»](https://incrypted.com/incrypted-stream-ceo-auroralabs-text-version/)
 * [Выжимка стрима «Как не утонуть в GameFi» с IDO Research](https://incrypted.com/incrypted-stream-ido-research-text-version/)
 * [Что делать сейчас в крипте? Стрим с Hexdrunker из DOUBLE TOP](https://incrypted.com/stream-what-do-now-in-crypto/) ✅
+* [Обсуждаем кроссчейн свопы c Symbiosis](https://incrypted.com/stream-symbiosis-crosschain-swaps/)
 * [Move-2-Earn: получится ли полноценный тренд](https://incrypted.com/stream-move-to-earn-summary/) ✅
 * [Что такое ноды и тестнеты? Полезности от Nodes.Guru](https://incrypted.com/stream-nodes-and-testnets-summary/) ✅
 * [Разбираем тренд Move-2-Earn с создателем SweatCoin](https://incrypted.com/stream-sweatcoin-move-2-earn-summary/) ✅
