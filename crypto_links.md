@@ -311,6 +311,7 @@
 * [Что такое искусственный интеллект и при чем тут блокчейн? Разбираемся с самого начала](https://incrypted.com/chto-takoe-iskusstveniy-intellekt/)
 * [Rektaнулись или как потерять все](https://incrypted.com/rekt-stories/)
 * [Ипотечный кризис 2008 и крипто-рынок 2022: как они связаны](https://incrypted.com/2008-vs-2022-comparison/)
+* [Большой форум по стандартизации метавселенных: лед тронулся?](https://incrypted.com/metaverse-standardization-will-happen/)
 
 </br>
 
