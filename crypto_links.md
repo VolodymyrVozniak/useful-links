@@ -390,6 +390,7 @@
 
 ### Other
 * [Информация о стейкинге криптовалют на биржах, платформах и приложениях](https://telegra.ph/Informaciya-o-stejkinge-kriptovalyut-na-biarzhah-platformah-i-prilozheniyah-06-21)
+* [NFT-игра Walken: можно ли тут заработать?](https://vc.ru/u/111336-vladimir-osipov/445610-nft-igra-walken-mozhno-li-tut-zarabotat) ✅
 
 </br>
 
