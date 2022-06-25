@@ -211,7 +211,7 @@
 * [Как оценивать проекты?](https://incrypted.com/how-to-evaluate-projects/)
 * [ScamBusters. По каким критериям отбирать мем-токены чтобы не ректануться?](https://incrypted.com/scambusters/)
 
-### Можливі ейрдропи
+### Airdrops
 * [Аирдроп от Arbitrum: разбираемся как подготовиться и на что обратить внимание](https://incrypted.com/how-to-prepare-arbitrum-airdrop/)
 * [Лучшие аирдропы криптовалют. Рассказываем как их получить](https://incrypted.com/top-airdrops/)
 
@@ -309,40 +309,58 @@
 </br>
 
 ## Double Top
-* [Токеноміка та Теорія ігор](https://teletype.in/@good_mood/tokenomika)
-* [Найкращі аналітичні інструменти](https://teletype.in/@markusrichardofficial/analyticaltools)
-* [Вультификация DeFi: Криптографические структурированные продукты и их будущее](https://teletype.in/@markusrichardofficial/structuredproducts)
-* [SHRAPNEL](https://teletype.in/@pashtzt/shrapnel)
+
+### Корисна інфа
+* [Токеномика и теория игр](https://teletype.in/@good_mood/tokenomika)
+* [Аналитические инструменты, которые сделают вас лучшим инвестором](https://teletype.in/@markusrichardofficial/analyticaltools)
+* [OTC guide](https://teletype.in/@g3rsh_2top/Euj5DD4DSs0)
+* [Инфляция и рецессия](https://2top.notion.site/cfd2d6e9a7ed414796b1f9e6843d5c1d)
+* [Как пережить медвежий рынок криптовалют](https://2top.notion.site/2a6edcf298c14e47a1f7a7bbc4b4ddc3)
+* [Верить, что когда-нибудь начнешь торговать в плюс](https://2top.notion.site/9896ea70c12e427e9e4e3afd54bd200d)
+* [5 шагов для старта криптовалютной карьеры](https://2top.notion.site/5-0958865afc76438d95053d807228fcd1)
+* [3 знака, что проект “не сможет”](https://www.notion.so/2top/3-2413a7086a054e56bbb67f380cb71d16)
+
+### Блокчейни
 * [Модель империи блокчейнов](https://teletype.in/@markusrichardofficial/empireofblockchains)
+* [Руководство для начинающих по Terra](https://teletype.in/@markusrichardofficial/beginnersguidetoterra)
+* [Solana](https://2top.notion.site/Solana-d4599cf0b9d54c9b86aaa4905cf6502b)
+
+### Обзори проєктів
+* [SHRAPNEL](https://teletype.in/@pashtzt/shrapnel)
+* [Aavegotchi](https://t.me/doubletop/3616)
+* [Walken](https://2top.notion.site/Walken-2e0ace1671eb4dfc9350b5cd2efcd2d3) ✅
+
+### DeFi & Farming
+* [Вультификация DeFi: Криптографические структурированные продукты и их будущее](https://teletype.in/@markusrichardofficial/structuredproducts)
 * [Как зарабатывать ETH с помощью ETH](https://teletype.in/@markusrichardofficial/5waystoearnmoreETH)
 * [Зарабатываем на LUNA](https://teletype.in/@good_mood/Luna-Yeld)
 * [5 возможностей заработать в сети Arbitrum](https://teletype.in/@markusrichardofficial/5arbitrumopportunities)
-* [Aavegotchi](https://t.me/doubletop/3616)
-* [Руководство для начинающих по Terra](https://teletype.in/@markusrichardofficial/beginnersguidetoterra)
-* [OTC guide](https://teletype.in/@g3rsh_2top/Euj5DD4DSs0)
+* [Лучшая доходность на медвежьем рынке](https://2top.notion.site/c30e7086bed64f1c8ddf4c2f4dcbbd7a)
+* [DeFi мертво?](https://2top.notion.site/DeFi-6523608aeb594f4bac4876d9c14162fb)
+
+### NFT
+* [6 простых приемов, чтобы избежать скама в NFТ](https://2top.notion.site/6-NF-ad2d67eb5d9349bfbbbe42e3204ab584)
+* [Слияние и NFT](https://2top.notion.site/NFT-18bada4068b84de68856a9d080eb4a60)
+
+### Metaverse
+* [Ландшафт EVM метавселенных](https://2top.notion.site/EVM-1d8ef90eec5449459f1077083008b24d)
+
+### Airdrops
+* [Топ эирдропы (и как их получить)](https://2top.notion.site/51a16b4ca84b4105a7a0834673c51aec)
+* [Arbitrum Odyssey](https://2top.notion.site/Arbitrum-Odyssey-8dd63bec87d74ce3bc1f21444d0ba6a7)
+
+### SOTM
+* [SOTM #43](https://2top.notion.site/SOTM-43-b78ed2928b584e75843ab97000e78a70)
+
+### Інше
 * [Как эйпить (обезьянничать) ответственно](https://teletype.in/@markusrichardofficial/howtoaperesponsibly)
 * [Войны стейблкоинов](https://teletype.in/@markusrichardofficial/stablecoinwars)
-* [Инфляция и рецессия](https://2top.notion.site/cfd2d6e9a7ed414796b1f9e6843d5c1d)
 * [Последствия коллапса Terra](https://2top.notion.site/Terra-527979ca52d0487c8414bdc623c6a890)
-* [Лучшая доходность на медвежьем рынке](https://2top.notion.site/c30e7086bed64f1c8ddf4c2f4dcbbd7a)
 * [Токен Metamask](https://hurricane-addition-804.notion.site/Metamask-036098e7b150401aab4aa59aa7431aae)
-* [Как пережить медвежий рынок криптовалют](https://2top.notion.site/2a6edcf298c14e47a1f7a7bbc4b4ddc3)
-* [6 простых приемов, чтобы избежать скама в NFТ](https://2top.notion.site/6-NF-ad2d67eb5d9349bfbbbe42e3204ab584)
-* [Solana](https://2top.notion.site/Solana-d4599cf0b9d54c9b86aaa4905cf6502b)
-* [Walken](https://2top.notion.site/Walken-2e0ace1671eb4dfc9350b5cd2efcd2d3) ✅
-* [Топ эирдропы (и как их получить)](https://2top.notion.site/51a16b4ca84b4105a7a0834673c51aec)
 * [Почему CBDC не являются вашими друзьями](https://2top.notion.site/CBDC-79cc7bc1ed7e45ecb5172f759f23198c)
-* [Arbitrum Odyssey](https://2top.notion.site/Arbitrum-Odyssey-8dd63bec87d74ce3bc1f21444d0ba6a7)
-* [Верить, что когда-нибудь начнешь торговать в плюс](https://2top.notion.site/9896ea70c12e427e9e4e3afd54bd200d)
-* [Ландшафт EVM метавселенных](https://2top.notion.site/EVM-1d8ef90eec5449459f1077083008b24d)
 * [Любишь кататься - люби и саночки возить | Фиксируем свои ошибки, чтобы не повторять в будущем](https://2top.notion.site/d355f2bcb5aa45f286f0e7939aa6f49a)
 * [StepN и Move-To-Earn игры пытаются убедить пользователей, что они не пирамиды](https://www.notion.so/2top/StepN-Move-To-Earn-793f06c5386143039b0b02023609ef7e)
-* [Слияние и NFT](https://2top.notion.site/NFT-18bada4068b84de68856a9d080eb4a60)
-* [SOTM #43](https://2top.notion.site/SOTM-43-b78ed2928b584e75843ab97000e78a70)
-* [5 шагов для старта криптовалютной карьеры](https://2top.notion.site/5-0958865afc76438d95053d807228fcd1)
-* [DeFi мертво?](https://2top.notion.site/DeFi-6523608aeb594f4bac4876d9c14162fb)
 * [QE - истинная причина, по которой центральные банки проводят количественное смягчение](https://www.notion.so/2top/QE-89f33a8ff9c0435bbbd2e03a70b08b67)
-* [3 знака, что проект “не сможет”](https://www.notion.so/2top/3-2413a7086a054e56bbb67f380cb71d16)
 
 </br>
 
