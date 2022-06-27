@@ -201,6 +201,7 @@
 * [Что такое ликвидация в трейдинге? Как ее избежать?](https://incrypted.com/what-is-liquidation-and-how-can-it-be-avoided/)
 * [Что такое Индекс страха и жадности в трейдинге?](https://incrypted.com/crypto-fear-and-greed-index-explaination/)
 * [Методичка по стратегии Smart Money](https://incrypted.com/smart-money-concept-obzor/)
+* [Как и где научиться криптотрейдингу? 6 лучших курсов](https://incrypted.com/kursy-po-kriptotreydingu/)
 
 ### Інструменти кріптана
 * [Инструменты для криптана. Часть 1](https://incrypted.com/crypto-tools-part-1/)
@@ -257,6 +258,7 @@
 * [30+ лучших YouTube каналов о криптовалюте, блокчейне и трейдинге](https://incrypted.com/top-5-youtube-channels-about-cryptocurrency/)
 * [Список лучших AirDrop сайтов, раздающих криптовалюты](https://incrypted.com/how-to-earn-10-in-band-on-coinmarketcap-earn/)
 * [6 актуальных сервисов проверки транзакций в Bitcoin](https://incrypted.com/kak-proverit-tranzakciyu-bitcoin/)
+* [Как и где научиться криптотрейдингу? 6 лучших курсов](https://incrypted.com/kursy-po-kriptotreydingu/)
 
 ### Корисна Інфа
 * [Использование шардинга для масштабируемости блокчейна](https://incrypted.com/sharding/)
