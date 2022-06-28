@@ -43,6 +43,7 @@
 * [Михаил Чобанян](https://www.youtube.com/c/MichaelChobanianOne)
 * [Cryptor](https://www.youtube.com/c/Cryptor)
 * [IDOresearch](https://www.youtube.com/channel/UC2AfsYjPPu_oUMLt4yUt_OQ)
+* [ФинФак](https://www.youtube.com/channel/UCZUaRiKZ6BZtB_yD9f7XlMQ/videos)
 
 </br>
 
@@ -334,6 +335,7 @@
 * [Модель империи блокчейнов](https://teletype.in/@markusrichardofficial/empireofblockchains)
 * [Руководство для начинающих по Terra](https://teletype.in/@markusrichardofficial/beginnersguidetoterra)
 * [Solana](https://2top.notion.site/Solana-d4599cf0b9d54c9b86aaa4905cf6502b)
+* [DOT Festival](https://www.notion.so/2top/DOT-Festival-7afa21744b51439c82bc4c6d774f3261)
 
 ### Обзори проєктів
 * [SHRAPNEL](https://teletype.in/@pashtzt/shrapnel)
