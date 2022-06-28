@@ -285,6 +285,7 @@
 * [Как создать криптовалюту: пошаговая инструкция](https://incrypted.com/how-to-create-token-bep-20/)
 * [Как изменение процентной ставки ФРС влияет на рынок криптовалют](https://incrypted.com/how-fed-rate-affect-cryptocurrency/) ✅
 * [Создаем децентрализованную организацию (DAO) в 2022. Инструкция для новичков](https://incrypted.com/kak-sozdat-dao/)
+* [Уровни блокчейна. Что такое Layer 1 и Layer 2? Разбираем на примерах](https://incrypted.com/urovni-blockchain-layers-1-2/)
 
 ### Локальне
 * [7 крипто-трендов, которые изменят мир в 2022 году](https://incrypted.com/7-crypto-trends-that-will-change-the-world-2022/)
