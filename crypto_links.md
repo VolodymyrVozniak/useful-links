@@ -59,6 +59,9 @@
 * [Decentralized Finance (DeFi): The Future of Finance Specialization](https://www.coursera.org/specializations/decentralized-finance-duke)
 * [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 
+## Udemy
+* [Technical Analysis](https://www.udemy.com/course/technical_analysis/)
+
 ## Other
 * [Про Біткоїн](https://alexsattva.notion.site/742d0c23a2924e83822125819de5c645)
 
