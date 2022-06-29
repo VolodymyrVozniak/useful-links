@@ -18,6 +18,7 @@
       <li><a href="#double-top">Double Top</a></li>
       <li><a href="#other">Other</a></li>
     </ul>
+    <li><a href="#teletypes">Teletypes</a></li>
     <li><a href="#books">Books</a></li>
     <li><a href="#services">Services</a></li>
     <li><a href="#sets-from-incrypted">Sets From Incrypted</a></li>
@@ -410,6 +411,7 @@
 * [GooD_MooD](https://teletype.in/@good_mood)
 * [t0zem00n](https://teletype.in/@t0zem00n)
 * [erki](https://teletype.in/@erki)
+* [Fantom](https://teletype.in/@fantom2top)
 
 ## Nodes
 * [Let's Node](https://teletype.in/@letskynode)
