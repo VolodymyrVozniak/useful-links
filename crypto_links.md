@@ -474,6 +474,9 @@
 ## Боти
 * [EtherDROPS_bot](https://t.me/EtherDROPS_bot) --- Бот для трекінгу транзакцій, монет і тд
 
+## Антидетект браузери
+* [Octo Browser](https://octobrowser.net/)
+
 ## Індекси
 * [Індекс альтсезону](https://www.blockchaincenter.net/altcoin-season-index/)
 * [Індекс страху](https://alternative.me/crypto/fear-and-greed-index/)
