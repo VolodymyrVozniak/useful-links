@@ -400,6 +400,9 @@
 * [The Doom Loop](https://cryptohayes.medium.com/the-doom-loop-161a42bbcd50)
 
 ### Other
+* [Информация о стейкинге криптовалют на DEX биржах](https://telegra.ph/Informaciya-o-stejkinge-kriptovalyut-na-DEX-birzhah-05-31)
+* [Информация о стейкинге криптовалют на DeFi платформах и приложениях](https://telegra.ph/Informaciya-o-stejkinge-kriptovalyut-na-DeFi-platformah-i-prilozheniyah-06-06)
+* [Информация о стейкинге стейблкоинов](https://telegra.ph/Informaciya-o-stejkinge-stejblkoinov-06-14)
 * [Информация о стейкинге криптовалют на биржах, платформах и приложениях](https://telegra.ph/Informaciya-o-stejkinge-kriptovalyut-na-biarzhah-platformah-i-prilozheniyah-06-21)
 * [Информация о стейкинге криптовалют на ведущих CEX биржах](https://telegra.ph/Informaciya-o-stejkinge-kriptovalyut-na-vedushchih-CEX-birzhah-06-28)
 * [NFT-игра Walken: можно ли тут заработать?](https://vc.ru/u/111336-vladimir-osipov/445610-nft-igra-walken-mozhno-li-tut-zarabotat) ✅
