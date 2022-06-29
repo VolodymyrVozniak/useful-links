@@ -388,6 +388,7 @@
 * [Любишь кататься - люби и саночки возить | Фиксируем свои ошибки, чтобы не повторять в будущем](https://2top.notion.site/d355f2bcb5aa45f286f0e7939aa6f49a)
 * [StepN и Move-To-Earn игры пытаются убедить пользователей, что они не пирамиды](https://www.notion.so/2top/StepN-Move-To-Earn-793f06c5386143039b0b02023609ef7e)
 * [QE - истинная причина, по которой центральные банки проводят количественное смягчение](https://www.notion.so/2top/QE-89f33a8ff9c0435bbbd2e03a70b08b67)
+* [Почему dApp может покинуть Ethereum прямо сейчас](https://www.notion.so/2top/dApp-Ethereum-c477d35d3fb9444389a749e7824bf7fc)
 
 </br>
 
