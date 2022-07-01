@@ -37,6 +37,7 @@
 * [Cryptor](https://www.youtube.com/c/Cryptor)
 * [IDOresearch](https://www.youtube.com/channel/UC2AfsYjPPu_oUMLt4yUt_OQ)
 * [ФинФак](https://www.youtube.com/channel/UCZUaRiKZ6BZtB_yD9f7XlMQ/videos)
+* [Angel Talks](https://www.youtube.com/channel/UCPjjgB9R9LUfxUDVI-TXmeg/featured)
 
 </br>
 
@@ -63,6 +64,7 @@
 # Videos
 * [Як влаштований Bitcoin](https://www.youtube.com/watch?v=Juv9v8wWa0I)
 * [Рэй Далио: Меняющийся мировой порядок](https://youtu.be/FqAWRuVUtA0)
+* [Как устроены маркетмейкеры?](https://www.youtube.com/watch?v=R0KfNLRXbv8)
 
 </br>
 
