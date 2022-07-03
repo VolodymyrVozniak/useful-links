@@ -93,18 +93,20 @@
 </br>
 
 # Books
+* [Богатый Папа, Бедный Папа](https://drive.google.com/drive/folders/1I3wkMKnxq7c4uDvWa0ae2K_pxZjr9Qlg)
+* [Price Action Trader](https://drive.google.com/drive/folders/1I3wkMKnxq7c4uDvWa0ae2K_pxZjr9Qlg)
+* [Один Хороший Трейд](https://drive.google.com/file/d/1_XeDvULDMgYEyJfZcXPaMycb_lTdrhrr/view)
+* [Черный Лебедь](https://drive.google.com/file/d/1tjPtN1ZMeeSqkXwTKbtxnHW8y6g_6OSY/view)
+* [Одурачанные Случайностью](https://drive.google.com/file/d/1aOx3NG02lfJEL2HyqCMs3t25jvgN5MqP/view)
+* [Путь Черепах](https://drive.google.com/file/d/1AOidjO-u5foX1Sl23WY_qmxqBlQecsZD/view)
+* [Зональный Трейдинг](https://drive.google.com/file/d/1sZwJArJz11nXeAuzVp9Pv28DqJio98LE/view)
+* [Воспоминания Биржевого Спекулянта](https://drive.google.com/file/d/1b7JFwz5o-BhwTArl42GMVKzp4yVUfHNP/view)
+* [Как Играть и Выигрывать на Бирже](https://drive.google.com/file/d/1yZiDMtGTuq7z8USEt4GYgTjri9sMKH5P/view)
+* [Рыночные Циклы](https://drive.google.com/file/d/1TZTqprNdRPJzU-RUkD9SR0z-N1N_RuSs/view)
 * [Как это DeFi (1-ое издание)](https://assets.coingecko.com/books/how-to-defi/How_to_DeFi_Russian.pdf)
 * [Как это DeFi (2-ое издание)](https://drive.google.com/file/d/1xx3obCxxE93CPI0jBBETrxYdi_KNsBvQ/view?usp=sharing)
 * [Как это NFT](https://drive.google.com/file/d/1RsI0lxzpRVaGYDZBmVxYYGgZRl45IWV9/view?usp=sharing)
-* [Чорний Лебідь](https://drive.google.com/file/d/1tjPtN1ZMeeSqkXwTKbtxnHW8y6g_6OSY/view)
-* [Одурачанные Случайностью](https://drive.google.com/file/d/1aOx3NG02lfJEL2HyqCMs3t25jvgN5MqP/view)
-* [Один Хороший Трейд](https://drive.google.com/file/d/1_XeDvULDMgYEyJfZcXPaMycb_lTdrhrr/view)
 * [Цифровое Золото](https://drive.google.com/file/d/1R9V-0-MibVe76WQEwLY0fmgDyxG0voMh/view)
-* [Как Играть и Выигрывать на Бирже](https://drive.google.com/file/d/1yZiDMtGTuq7z8USEt4GYgTjri9sMKH5P/view)
-* [Рыночные Циклы](https://drive.google.com/file/d/1TZTqprNdRPJzU-RUkD9SR0z-N1N_RuSs/view)
-* [Воспоминания Биржевого Спекулянта](https://drive.google.com/file/d/1b7JFwz5o-BhwTArl42GMVKzp4yVUfHNP/view)
-* [Зональный Трейдинг](https://drive.google.com/file/d/1sZwJArJz11nXeAuzVp9Pv28DqJio98LE/view)
-* [Путь Черепах](https://drive.google.com/file/d/1AOidjO-u5foX1Sl23WY_qmxqBlQecsZD/view)
 * [Эссе Артура Хейса](https://blog.bitmex.com/author/arthur/?lang=ru_ru)
 
 </br>
