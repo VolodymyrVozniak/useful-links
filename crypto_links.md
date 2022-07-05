@@ -188,6 +188,7 @@
 * [Генератор гаманців та приватних ключів](https://cointool.app/createWallet)
 * [Ethereum Gas Prices](https://chrome.google.com/webstore/detail/ethereum-gas-prices/njbclohenpagagafbmdipcdoogfpnfhp)
 * [Переклади статтей](https://blog.bitmex.com/?lang=ru_ru)
+* [Money Printer](https://moneyprinter.info/)
 
 </br>
 
