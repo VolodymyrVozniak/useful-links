@@ -178,6 +178,7 @@
 * [ICODrops](https://icodrops.com/) --- Інфа про ICO
 * [Vastlab.io](https://vestlab.io/) --- Інфа про разлоки
 * [Nodes Guru](https://nodes.guru/) --- Інфа по нодах
+* [DegenMint](https://degenmint.xyz/) --- Інфа про мінти NFT
 
 ## Інше
 * [Blockchains comparison](https://blockchain-comparison.com/)
