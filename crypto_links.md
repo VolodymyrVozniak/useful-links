@@ -89,6 +89,7 @@
 
 ## Other
 * [cryptocholy](https://teletype.in/@cryptocholy)
+* [BE CRYPTO](https://teletype.in/@be_crypto)
 
 </br>
 
