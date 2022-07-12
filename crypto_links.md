@@ -158,6 +158,11 @@
 * [CoinDix](https://coindix.com/) --- Моніторинг фармілок
 * [Bloxy](https://bloxy.info/) --- Чек смарт-контрактів
 
+## On-Chain
+* [Nansen](https://www.nansen.ai/)
+* [Glassnode](https://glassnode.com/)
+* [CryptoQuant](https://cryptoquant.com/)
+
 ## Мости
 * [DeBridges](https://debridges.com/)
 * [DeCommas](https://app.decommas.io/bridges)
