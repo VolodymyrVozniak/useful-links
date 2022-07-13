@@ -185,6 +185,7 @@
 * [Vastlab.io](https://vestlab.io/) --- Інфа про разлоки
 * [Nodes Guru](https://nodes.guru/) --- Інфа по нодах
 * [DegenMint](https://degenmint.xyz/) --- Інфа про мінти NFT
+* [Earndrop](https://earndrop.io/) --- Чек незаклейманих ейрдропів
 
 ## Інше
 * [Blockchains comparison](https://blockchain-comparison.com/)
