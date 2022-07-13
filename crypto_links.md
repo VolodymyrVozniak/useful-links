@@ -175,6 +175,7 @@
 * [TOP 100 crypto investors by Double Top 2022](https://docs.google.com/spreadsheets/d/17hCsun6aprHpQLxDRsrSw6lOisz_02ONAsj7TqA2cfE/edit#gid=307594264)
 * [Список текущих тестнетов](https://docs.google.com/spreadsheets/d/1puP0qRy5yF0KCCqfQuaMND9FHsJOrSYL-WZce9pex-M/edit#gid=0)
 * [Testnets by DOUBLE TOP](https://docs.google.com/spreadsheets/d/1AyU0q6k1cFhTzmWoehL-w8enLekuES0vutWB-RTKWeY/edit#gid=0)
+* [Таблица тестнетов от команды Let's Node!](https://docs.google.com/spreadsheets/d/1nYbXp3oYAa0S2V0RcF_yZAj71GoM6Kg-zgpz7bGroBk/edit#gid=0)
 * [Таблица с возможными эирдропами](https://docs.google.com/spreadsheets/u/0/d/1f_9c8P28dXG5K6DXlHGeTQUww5K8Ft6GgCKYZ8scjb0/htmlview?s=09)
 * [Таблица для взаимодействия с различными блокчейнами](https://docs.google.com/spreadsheets/d/13f7RYobHL5PFVKVtOJw_QugpXyJqkVpjhxRNg6XGt0k/edit#gid=1141583017)
 * [Таблица для взаимодействия с мостами](https://docs.google.com/spreadsheets/d/1EBWuj9cUJv2IwsA8hros-az4ARLmk2HOjbT1xpJt02Q/edit#gid=0)
