@@ -90,6 +90,7 @@
 ## Other
 * [cryptocholy](https://teletype.in/@cryptocholy)
 * [BE CRYPTO](https://teletype.in/@be_crypto)
+* [Max Wayld](https://teletype.in/@maxycrypto)
 
 </br>
 
