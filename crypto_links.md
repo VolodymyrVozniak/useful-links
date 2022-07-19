@@ -91,6 +91,7 @@
 * [cryptocholy](https://teletype.in/@cryptocholy)
 * [BE CRYPTO](https://teletype.in/@be_crypto)
 * [Max Wayld](https://teletype.in/@maxycrypto)
+* [notothemoon](https://teletype.in/@notothemoon)
 
 </br>
 
