@@ -10,12 +10,10 @@
     <li><a href="#youtube-channels">YouTube Channels</a></li>
     <li><a href="#youtube-playlists">YouTube Playlists</a></li>
     <li><a href="#courses">Courses</a></li>
-    <li><a href="#videos">Videos</a></li>
     <li><a href="#teletypes">Teletypes</a></li>
     <li><a href="#books">Books</a></li>
     <li><a href="#services">Services</a></li>
     <li><a href="#sets-from-incrypted">Sets From Incrypted</a></li>
-    <li><a href="#nodes">Nodes</a></li>
   </ol>
 </details>
 
@@ -58,13 +56,6 @@
 
 ## Other
 * [Про Біткоїн](https://alexsattva.notion.site/742d0c23a2924e83822125819de5c645)
-
-</br>
-
-# Videos
-* [Як влаштований Bitcoin](https://www.youtube.com/watch?v=Juv9v8wWa0I)
-* [Рэй Далио: Меняющийся мировой порядок](https://youtu.be/FqAWRuVUtA0)
-* [Как устроены маркетмейкеры?](https://www.youtube.com/watch?v=R0KfNLRXbv8)
 
 </br>
 
@@ -217,26 +208,3 @@
 * [The Wolf of Your Street](https://t.me/TheWolfOfYourStreet/799)
 * [Есе від Артута Хейса](https://t.me/incrypted/13758)
 * [Підбірка підбірок](https://t.me/incrypted/14015)
-
-</br>
-
-# Nodes
-
-## YouTube Channels
-* [Nodes Guru](https://www.youtube.com/c/NodesGuru)
-
-## Telegram Channels
-* [Nodes Guru](https://t.me/nodesguru)
-* [how_to_node](https://t.me/how_to_node)
-* [Let's Node!](https://t.me/letskynode)
-
-## Guides
-* [Nodes Guru](https://nodes.guru/)
-* [CyberRomanov](https://teletype.in/@cyberomanov)
-* [Let's Node](https://teletype.in/@letskynode)
-
-## Servers
-* [Contabo](https://contabo.com/en/)
-
-## Useful Links
-* [Post from The Wolf Of Your Strees](https://t.me/TheWolfOfYourStreet/840)
