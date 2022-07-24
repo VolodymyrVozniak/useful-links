@@ -202,6 +202,7 @@
 * [Мысли Вслух](https://t.me/incrypted/12069)
 * [Інтерв'ю](https://t.me/incrypted/12047)
 * [Психологія](https://t.me/incrypted/12927)
+* [Психологія 2](https://t.me/incrypted/14295)
 * [Що почитати?](https://t.me/incrypted/13059)
 * [Трейдинг](https://t.me/incrypted/13073)
 * [Вайкофф](https://t.me/TheWolfOfYourStreet/795)
