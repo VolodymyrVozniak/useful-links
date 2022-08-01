@@ -72,6 +72,7 @@
 ## Nodes
 * [Let's Node](https://teletype.in/@letskynode)
 * [how_to_node](https://teletype.in/@cyberomanov)
+* [1package Learning](https://learning.1package.io/)
 
 ## Testnets
 * [IDO Research](https://teletype.in/@idoresearch)
