@@ -144,12 +144,13 @@
 ## DeFi
 * [DefiLlama](https://defillama.com/)
 * [Chainlist](https://chainlist.org/)
-* [Blockscan](https://blockscan.com/)
+* [Blockscan](https://blockscan.com/) --- Адрес у різних мережах
 * [StaySAFU](https://app.staysafu.org/scanner) --- Перевірка на скам
 * [CoinsGuru](https://coinsguru.io/) --- Аналіз проєктів по Twitter
 * [vfat.tools](https://vfat.tools/) --- Моніторинг фармілок
 * [CoinDix](https://coindix.com/) --- Моніторинг фармілок
 * [Bloxy](https://bloxy.info/) --- Чек смарт-контрактів
+* [DeFi Pulse](https://www.defipulse.com/) --- Аналітика і TVL
 
 ## On-Chain
 * [Nansen](https://www.nansen.ai/)
@@ -196,6 +197,7 @@
 
 # Sets From Incrypted
 * [Для Новачків](https://t.me/incrypted/12057)
+* [Сервіси](https://t.me/incrypted/14391)
 * [Плейлисти](https://t.me/incrypted/12319)
 * [Стріми](https://t.me/incrypted/12081)
 * [Стріми 2](https://t.me/incrypted/13036)
@@ -205,6 +207,7 @@
 * [Психологія](https://t.me/incrypted/12927)
 * [Психологія 2](https://t.me/incrypted/14295)
 * [Що почитати?](https://t.me/incrypted/13059)
+* [Фільми](https://t.me/incrypted/14397)
 * [Трейдинг](https://t.me/incrypted/13073)
 * [Вайкофф](https://t.me/TheWolfOfYourStreet/795)
 * [The Wolf of Your Street](https://t.me/TheWolfOfYourStreet/799)
