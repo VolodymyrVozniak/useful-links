@@ -36,6 +36,7 @@
 * [IDOresearch](https://www.youtube.com/channel/UC2AfsYjPPu_oUMLt4yUt_OQ)
 * [ФинФак](https://www.youtube.com/channel/UCZUaRiKZ6BZtB_yD9f7XlMQ/videos)
 * [Angel Talks](https://www.youtube.com/channel/UCPjjgB9R9LUfxUDVI-TXmeg/featured)
+* [Lets P2E](https://www.youtube.com/c/LetsP2E)
 
 </br>
 
