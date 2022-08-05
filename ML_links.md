@@ -169,6 +169,7 @@
 * [NLP Course. Lena Voita](https://lena-voita.github.io/nlp_course)
 * [Speech and Language Processing. Stanford](https://web.stanford.edu/~jurafsky/slp3/)
 * [Summer school on Statistical Physics & Machine learning. 2022](https://leshouches2022.github.io/)
+* [Efficient Deep Learning Systems](https://github.com/mryab/efficient-dl-systems)
 
 <br />
 
