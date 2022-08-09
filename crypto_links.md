@@ -79,6 +79,7 @@
 * [Crypto Romb](https://teletype.in/@cryptoromb)
 * [the VSЁ](https://teletype.in/@ktmudak)
 * [danferat](https://teletype.in/@danferat)
+* [Lana Lavr](https://teletype.in/@lanalavr)
 
 ## Other
 * [cryptocholy](https://teletype.in/@cryptocholy)
