@@ -210,6 +210,8 @@
 * [Психологія](https://t.me/incrypted/12927)
 * [Психологія 2](https://t.me/incrypted/14295)
 * [Що почитати?](https://t.me/incrypted/13059)
+* [Що почитати? (CZ part 1)](https://t.me/incrypted/14483)
+* [Що почитати? (CZ part 2)](https://t.me/incrypted/14583)
 * [Фільми](https://t.me/incrypted/14397)
 * [Фільми 2](https://t.me/incrypted/14489)
 * [Трейдинг](https://t.me/incrypted/13073)
