@@ -156,6 +156,10 @@
 * [Bloxy](https://bloxy.info/) --- Чек смарт-контрактів
 * [DeFi Pulse](https://www.defipulse.com/) --- Аналітика і TVL
 
+## NFT
+* [NFTGo](https://nftgo.io/) --- NFT Analytics Platform
+* [Flips.watch](https://flips.watch/) --- Analyze NFT trading history and profits
+
 ## On-Chain
 * [Nansen](https://www.nansen.ai/)
 * [Glassnode](https://glassnode.com/)
