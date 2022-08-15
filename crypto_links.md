@@ -57,6 +57,7 @@
 
 ## Other
 * [Про Біткоїн](https://alexsattva.notion.site/742d0c23a2924e83822125819de5c645)
+* [ЦеКрипто](https://tsecrypto.com/)
 
 </br>
 
