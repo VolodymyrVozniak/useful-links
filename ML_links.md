@@ -219,6 +219,7 @@
 * [Traversy Media](https://www.youtube.com/c/TraversyMedia/videos)
 * [Deep Learning School](https://www.youtube.com/c/DeepLearningSchool/videos)
 * [Transformer](https://www.youtube.com/c/Transformer_community/videos)
+* [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/featured)
 
 <br />
 
