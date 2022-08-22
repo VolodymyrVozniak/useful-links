@@ -181,6 +181,7 @@
 * [Таблица с возможными эирдропами](https://docs.google.com/spreadsheets/u/0/d/1f_9c8P28dXG5K6DXlHGeTQUww5K8Ft6GgCKYZ8scjb0/htmlview?s=09)
 * [Таблица для взаимодействия с различными блокчейнами](https://docs.google.com/spreadsheets/d/13f7RYobHL5PFVKVtOJw_QugpXyJqkVpjhxRNg6XGt0k/edit#gid=1141583017)
 * [Таблица для взаимодействия с мостами](https://docs.google.com/spreadsheets/d/1EBWuj9cUJv2IwsA8hros-az4ARLmk2HOjbT1xpJt02Q/edit#gid=0)
+* [CoinGecko Tokenomics Status Tracker](https://docs.google.com/spreadsheets/d/1IzGvLg1YkHRT-lgddHiMQqPjZ2RwtvX48O4ILNcUzuY/htmlview)
 
 ## Корисна інфа
 * [DropsEarn](https://dropsearn.com/) --- Інфа по тестнетах / ейрдропах
