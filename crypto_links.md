@@ -175,6 +175,7 @@
 ## Корисні таблиці
 * [Рейтинг инвестиционных фондов](https://docs.google.com/spreadsheets/d/1saqKNeo9pSl-m_Xa9jVpFyPfg8faCXn6lZ3TEtTKz5Y/edit#gid=0)
 * [TOP 100 crypto investors by Double Top 2022](https://docs.google.com/spreadsheets/d/17hCsun6aprHpQLxDRsrSw6lOisz_02ONAsj7TqA2cfE/edit#gid=307594264)
+* [Crypto Funds - Master Contact List](https://docs.google.com/spreadsheets/d/1oPq7dt6hsntvmAhgPc8H0pcbUnbi7V6kX-FIOOVmlOk/edit#gid=0)
 * [Список текущих тестнетов](https://docs.google.com/spreadsheets/d/1puP0qRy5yF0KCCqfQuaMND9FHsJOrSYL-WZce9pex-M/edit#gid=0)
 * [Testnets by DOUBLE TOP](https://docs.google.com/spreadsheets/d/1AyU0q6k1cFhTzmWoehL-w8enLekuES0vutWB-RTKWeY/edit#gid=0)
 * [Таблица тестнетов от команды Let's Node!](https://docs.google.com/spreadsheets/d/1nYbXp3oYAa0S2V0RcF_yZAj71GoM6Kg-zgpz7bGroBk/edit#gid=0)
