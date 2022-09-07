@@ -229,7 +229,7 @@
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 * [Reinforcement Learning: An Introduction. Satton & Barto](http://incompleteideas.net/book/the-book-2nd.html)
 * [The Hundred-Page Machine Learning Book](http://themlbook.com/)
-* [Методичка от Воронцова](https://ml-handbook.ru/)
+* [Онлайн методичка від ШАД](https://ml-handbook.ru/)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * [Machine Learning Yearning by Andrew Ng](https://www.deeplearning.ai/wp-content/uploads/2022/03/andrew-ng-machine-learning-yearning.pdf)
 * [MLOps by Andrew Ng](https://www.deeplearning.ai/wp-content/uploads/2021/06/MLOps-From-Model-centric-to-Data-centric-AI.pdf)
