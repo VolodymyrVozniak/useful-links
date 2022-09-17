@@ -40,11 +40,6 @@
 
 </br>
 
-# YouTube Playlists
-* [Курс по опціонах](https://www.youtube.com/playlist?list=PLi_6OF3szdczjkNrQwFfI-up6kbNr5wV5)
-
-</br>
-
 # Courses
 
 ## Coursera
@@ -58,6 +53,7 @@
 ## Other
 * [Про Біткоїн](https://alexsattva.notion.site/742d0c23a2924e83822125819de5c645)
 * [ЦеКрипто](https://tsecrypto.com/)
+* [Курс по опціонах](https://www.youtube.com/playlist?list=PLi_6OF3szdczjkNrQwFfI-up6kbNr5wV5)
 
 </br>
 
