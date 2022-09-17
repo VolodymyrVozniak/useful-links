@@ -8,7 +8,6 @@
   <ol>
     <li><a href="#telegram-channels">Telegram Channels</a></li>
     <li><a href="#youtube-channels">YouTube Channels</a></li>
-    <li><a href="#youtube-playlists">YouTube Playlists</a></li>
     <li><a href="#courses">Courses</a></li>
     <li><a href="#teletypes">Teletypes</a></li>
     <li><a href="#books">Books</a></li>
