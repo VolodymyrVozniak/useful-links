@@ -183,6 +183,7 @@
 ## Корисна інфа
 * [DropsEarn](https://dropsearn.com/) --- Інфа по тестнетах / ейрдропах
 * [ICODrops](https://icodrops.com/) --- Інфа про ICO
+* [ICO Analytics](https://icoanalytics.org/) --- Інфа про ICO
 * [Vastlab.io](https://vestlab.io/) --- Інфа про разлоки
 * [Token Unlock Dashboard](https://token.unlocks.app/) --- Інфа про разлоки
 * [Nodes Guru](https://nodes.guru/) --- Інфа по нодах
