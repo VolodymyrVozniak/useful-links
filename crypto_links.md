@@ -23,6 +23,11 @@
 * [Incrypted](https://t.me/incrypted)
 * [The Wolf Of Your Street](https://t.me/TheWolfOfYourStreet)
 * [IDO research](https://t.me/idoresearch)
+* [С нуля до нуля на крипте](https://t.me/notothemoon)
+* [0x_unidentified](https://t.me/uselesscryptoscam)
+* [Crypto Lamer](https://t.me/CryptoLamer)
+* [DEFI Scam Check](https://t.me/Defiscamcheck)
+* [DAO Crypto](https://t.me/dao_crypto)
 
 </br>
 
