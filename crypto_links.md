@@ -118,6 +118,8 @@
 * [CryptoRank](https://cryptorank.io/)
 * [DropsTab](https://dropstab.com/)
 * [COIN360](https://coin360.com/)
+* [Messari](https://messari.io/)
+* [Coinglass](https://www.coinglass.com/)
 
 ## Гаманці
 * [Zerion](https://zerion.io/)
