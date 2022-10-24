@@ -280,6 +280,7 @@
 ## Links for other links
 * [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 * [ML Notebooks](https://github.com/dair-ai/ML-Notebooks)
+* [PyTorch Notebooks](https://github.com/dair-ai/pytorch_notebooks)
 * [Mathematics for Machine Learning](https://github.com/dair-ai/Mathematics-for-ML)
 * [GNNs Recipe](https://github.com/dair-ai/GNNs-Recipe)
 * [Transformer Recipe](https://github.com/dair-ai/Transformers-Reci)
