@@ -279,10 +279,11 @@
 
 ## Links for other links
 * [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
-* [PyTorch Hub](https://github.com/pytorch/hub)
 * [ML Notebooks](https://github.com/dair-ai/ML-Notebooks)
+* [Mathematics for Machine Learning](https://github.com/dair-ai/Mathematics-for-ML)
 * [GNNs Recipe](https://github.com/dair-ai/GNNs-Recipe)
 * [Transformer Recipe](https://github.com/dair-ai/Transformers-Reci)
+* [PyTorch Hub](https://github.com/pytorch/hub)
 * [All u need for NLP](https://github.com/brianspiering/awesome-dl4nlp)
 * [Extra materials for ml-mipt course](https://github.com/girafe-ai/ml-mipt/blob/master/extra_materials.md)
 * [Advance ML/DL University Lectures](https://docs.google.com/spreadsheets/u/0/d/1KYJ9Z8f76WZGYpT2E5sjr5gL-O35Lpjm-SMmU00fplk/htmlview)
