@@ -297,6 +297,7 @@
 * [DevReminder](https://pypi.org/project/devreminder/)
 * [LibMTL](https://libmtl.readthedocs.io/en/latest/)
 * [datawig](https://github.com/awslabs/datawig)
+* [pytorch-GAT](https://github.com/gordicaleksa/pytorch-GAT)
 
 ## Useful Scripts
 * [Switch cuda](https://github.com/phohenecker/switch-cuda)
