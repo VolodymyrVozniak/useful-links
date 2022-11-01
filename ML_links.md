@@ -187,6 +187,7 @@
 * [Глубинное обучение 2021. Yandex](https://www.youtube.com/playlist?list=PLJOzdkh8T5kpL2y8-lhHOlBxzLszSyDa0)
 * [Deep Learning Tutorials](https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA)
 * [NYU Deep Learning SP20](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
+* [EEML 2020](https://www.youtube.com/playlist?list=PLaKY4p4V3gE1j01FOY2FeglV4jRntQj84)
 
 ### PyTorch
 * [PyTorch - Python Deep Learning Neural Network API](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
