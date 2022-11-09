@@ -311,6 +311,7 @@
 
 ## Lib Tutorials
 * [PyTorch Geometrics](https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html)
+* [100 pandas puzzles](https://github.com/ajcr/100-pandas-puzzles)
 
 ## Other
 * [Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
