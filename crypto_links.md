@@ -208,6 +208,7 @@
 * [Переклади статтей](https://blog.bitmex.com/?lang=ru_ru)
 * [Money Printer](https://moneyprinter.info/)
 * [DCA Calculator](https://dcabtc.com/)
+* [PoW 51% Attack Cost](https://dollarcostbitcoin.1998.vn/tools/51attack#more)
 
 </br>
 
