@@ -228,3 +228,4 @@
 * [The Wolf of Your Street](https://t.me/TheWolfOfYourStreet/799)
 * [Есе від Артута Хейса](https://t.me/incrypted/13758)
 * [Підбірка підбірок](https://t.me/incrypted/14015)
+* [Гаманці](https://t.me/incrypted_UA/577)
