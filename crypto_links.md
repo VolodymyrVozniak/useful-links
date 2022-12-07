@@ -197,6 +197,7 @@
 * [Nodes Guru](https://nodes.guru/) --- Інфа по нодах
 * [DegenMint](https://degenmint.xyz/) --- Інфа про мінти NFT
 * [Earndrop](https://earndrop.io/) --- Чек незаклейманих ейрдропів
+* [CryptoFlows](https://cryptoflows.info/) --- Інфа про блокчейни й зв'язки між ними
 
 ## Інше
 * [Blockchains comparison](https://blockchain-comparison.com/)
